@@ -41,6 +41,26 @@
     For more details:
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
+  <script>
+    // Speech unlock: iOS Safari (and some Android browsers) only allow
+    // speechSynthesis after it has been triggered inside a user gesture.
+    // Speak a silent utterance on the first tap/click to unlock the engine
+    // for the app's later programmatic calls. Also warm the async voice list.
+    (function () {
+      try { window.speechSynthesis && window.speechSynthesis.getVoices(); } catch (e) {}
+      function unlock() {
+        try {
+          var u = new SpeechSynthesisUtterance(' ');
+          u.volume = 0; u.rate = 10;
+          window.speechSynthesis.speak(u);
+        } catch (e) {}
+        window.removeEventListener('touchend', unlock, true);
+        window.removeEventListener('click', unlock, true);
+      }
+      window.addEventListener('touchend', unlock, true);
+      window.addEventListener('click', unlock, true);
+    })();
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
