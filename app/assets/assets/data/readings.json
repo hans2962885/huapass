@@ -1,0 +1,806 @@
+[
+ {
+  "id": "tw-01",
+  "level": "l1",
+  "title_zh": "台灣的夜市",
+  "title_en": "Taiwan's Night Markets",
+  "body": "台灣有很多夜市。晚上，大家喜歡去夜市吃小吃、買東西。夜市的東西好吃又便宜，有烤肉，有水果，也有很多飲料。很多學生下課以後，跟朋友一起去夜市，吃東西、聊天，非常快樂。",
+  "translation_en": "Taiwan has many night markets. In the evening, everyone loves going to the night market to eat snacks and shop. The food at night markets is delicious and cheap — there is grilled meat, fruit, and lots of drinks. After class, many students go to the night market with friends to eat and chat. It's a lot of fun.",
+  "vocab": [
+   {
+    "w": "夜市",
+    "p": "yèshì",
+    "en": "night market"
+   },
+   {
+    "w": "小吃",
+    "p": "xiǎochī",
+    "en": "snack; street food"
+   },
+   {
+    "w": "烤肉",
+    "p": "kǎoròu",
+    "en": "grilled meat"
+   },
+   {
+    "w": "便宜",
+    "p": "piányí",
+    "en": "cheap; inexpensive"
+   },
+   {
+    "w": "聊天",
+    "p": "liáotiān",
+    "en": "to chat"
+   }
+  ],
+  "questions": [
+   {
+    "q": "大家什麼時候喜歡去夜市？",
+    "options": [
+     "早上",
+     "中午",
+     "晚上",
+     "下午"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "夜市的東西怎麼樣？",
+    "options": [
+     "好吃又便宜",
+     "不好吃",
+     "很貴",
+     "很少"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "很多學生下課以後，跟誰一起去夜市？",
+    "options": [
+     "老師",
+     "爸爸媽媽",
+     "醫生",
+     "朋友"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-02",
+  "level": "l1",
+  "title_zh": "珍珠奶茶",
+  "title_en": "Bubble Tea",
+  "body": "你喝過珍珠奶茶嗎？這種好喝的飲料是從台灣來的，是台灣人在四十多年前做的。奶茶裡面有甜甜的「珍珠」，非常好喝。現在，世界上很多國家都買得到珍珠奶茶。你去台灣的時候，一定要喝一杯！",
+  "translation_en": "Have you ever had bubble tea? This tasty drink comes from Taiwan — Taiwanese people invented it more than forty years ago. The milk tea has sweet \"pearls\" inside and is really delicious. Today you can buy bubble tea in many countries around the world. When you go to Taiwan, you must try a cup!",
+  "vocab": [
+   {
+    "w": "珍珠奶茶",
+    "p": "zhēnzhū nǎichá",
+    "en": "bubble tea; pearl milk tea"
+   },
+   {
+    "w": "珍珠",
+    "p": "zhēnzhū",
+    "en": "pearl (here: tapioca ball)"
+   },
+   {
+    "w": "飲料",
+    "p": "yǐnliào",
+    "en": "drink; beverage"
+   },
+   {
+    "w": "甜",
+    "p": "tián",
+    "en": "sweet"
+   },
+   {
+    "w": "世界",
+    "p": "shìjiè",
+    "en": "world"
+   }
+  ],
+  "questions": [
+   {
+    "q": "珍珠奶茶是從哪裡來的？",
+    "options": [
+     "日本",
+     "台灣",
+     "美國",
+     "中國"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "奶茶裡面的「珍珠」是什麼味道？",
+    "options": [
+     "很酸",
+     "很辣",
+     "甜甜的",
+     "很鹹"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "現在，哪裡買得到珍珠奶茶？",
+    "options": [
+     "只有台灣",
+     "只有學校",
+     "只有夜市",
+     "世界上很多國家"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-03",
+  "level": "l1",
+  "title_zh": "便利商店",
+  "title_en": "Convenience Stores",
+  "body": "台灣的便利商店很多，差不多每條街都有，一天二十四小時都開門。在便利商店，你可以買東西，可以付錢、寄東西，也可以買車票。晚上餓了也沒關係，商店還開著。住在台灣，真的非常方便。",
+  "translation_en": "Taiwan has lots of convenience stores — there is one on almost every street, and they are open twenty-four hours a day. At a convenience store you can shop, pay bills, mail packages, and even buy train or bus tickets. If you get hungry late at night, no problem — the store is still open. Living in Taiwan is really convenient.",
+  "vocab": [
+   {
+    "w": "便利商店",
+    "p": "biànlì shāngdiàn",
+    "en": "convenience store"
+   },
+   {
+    "w": "付錢",
+    "p": "fù qián",
+    "en": "to pay (money)"
+   },
+   {
+    "w": "寄",
+    "p": "jì",
+    "en": "to mail; to send"
+   },
+   {
+    "w": "車票",
+    "p": "chēpiào",
+    "en": "train/bus ticket"
+   },
+   {
+    "w": "方便",
+    "p": "fāngbiàn",
+    "en": "convenient"
+   }
+  ],
+  "questions": [
+   {
+    "q": "台灣的便利商店一天開幾個小時？",
+    "options": [
+     "八個小時",
+     "十個小時",
+     "十二個小時",
+     "二十四個小時"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "在便利商店可以做什麼？",
+    "options": [
+     "看病",
+     "買車票",
+     "上課",
+     "游泳"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "台灣的便利商店多不多？",
+    "options": [
+     "很多",
+     "很少",
+     "沒有",
+     "只有一家"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "tw-04",
+  "level": "l1",
+  "title_zh": "捷運與悠遊卡",
+  "title_en": "The MRT and the EasyCard",
+  "body": "台北的捷運又快又乾淨，也很安全，很多人每天坐捷運上班、上學。你只要有一張悠遊卡，坐捷運、坐公車都可以用，在便利商店買東西也可以用。有了悠遊卡，在台北去哪裡都很方便。",
+  "translation_en": "The Taipei MRT is fast, clean, and very safe. Many people take the MRT to work and school every day. With just one EasyCard you can ride the MRT and the bus, and you can even use it to buy things at convenience stores. With an EasyCard, getting anywhere in Taipei is easy.",
+  "vocab": [
+   {
+    "w": "捷運",
+    "p": "jiéyùn",
+    "en": "MRT; metro"
+   },
+   {
+    "w": "悠遊卡",
+    "p": "Yōuyóukǎ",
+    "en": "EasyCard (Taipei transit card)"
+   },
+   {
+    "w": "安全",
+    "p": "ānquán",
+    "en": "safe"
+   },
+   {
+    "w": "乾淨",
+    "p": "gānjìng",
+    "en": "clean"
+   },
+   {
+    "w": "公車",
+    "p": "gōngchē",
+    "en": "(city) bus"
+   }
+  ],
+  "questions": [
+   {
+    "q": "台北的捷運怎麼樣？",
+    "options": [
+     "很舊很慢",
+     "又快又乾淨",
+     "不能坐",
+     "很貴很遠"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "悠遊卡可以用來做什麼？",
+    "options": [
+     "坐捷運和公車",
+     "看醫生",
+     "寫功課",
+     "開車"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "在哪裡買東西也可以用悠遊卡？",
+    "options": [
+     "醫院",
+     "學校",
+     "便利商店",
+     "圖書館"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-05",
+  "level": "l1",
+  "title_zh": "垃圾車的音樂",
+  "title_en": "The Garbage Truck's Music",
+  "body": "在台灣，垃圾車會唱歌！垃圾車來的時候會放音樂，大家聽見音樂，就知道要把垃圾拿出來了。很多垃圾車放的音樂是「給愛麗絲」。晚上，大家帶著垃圾在路口等垃圾車，一邊等，一邊聊天，很有意思。",
+  "translation_en": "In Taiwan, the garbage trucks sing! When the garbage truck comes, it plays music, and when people hear it they know it's time to bring out their trash. Many garbage trucks play \"Für Elise\". In the evening, people wait for the truck at the street corner with their garbage, chatting while they wait. It's a lot of fun.",
+  "vocab": [
+   {
+    "w": "垃圾車",
+    "p": "lèsè chē",
+    "en": "garbage truck"
+   },
+   {
+    "w": "垃圾",
+    "p": "lèsè",
+    "en": "garbage; trash"
+   },
+   {
+    "w": "放音樂",
+    "p": "fàng yīnyuè",
+    "en": "to play music"
+   },
+   {
+    "w": "給愛麗絲",
+    "p": "Gěi Àilìsī",
+    "en": "\"Für Elise\" (Beethoven)"
+   },
+   {
+    "w": "路口",
+    "p": "lùkǒu",
+    "en": "street corner; intersection"
+   }
+  ],
+  "questions": [
+   {
+    "q": "垃圾車來的時候，會做什麼？",
+    "options": [
+     "放音樂",
+     "賣東西",
+     "送信",
+     "賣水果"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "大家聽見音樂，就知道要做什麼？",
+    "options": [
+     "去買東西",
+     "去上課",
+     "去睡覺",
+     "把垃圾拿出來"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "大家在哪裡等垃圾車？",
+    "options": [
+     "樓上",
+     "路口",
+     "學校裡",
+     "房間裡"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-06",
+  "level": "l1",
+  "title_zh": "台灣人的熱情",
+  "title_en": "The Warmth of the Taiwanese",
+  "body": "台灣人很熱情，也很客氣。你在路上問路，他們都會告訴你，有時候還會帶你去。外國學生在台灣讀書，有問題的時候，老師和同學都很願意幫忙。所以很多人說：台灣最美的風景，是人。",
+  "translation_en": "Taiwanese people are warm and polite. If you ask for directions on the street, they will gladly tell you — sometimes they will even walk you there. When international students studying in Taiwan run into problems, teachers and classmates are always willing to help. That's why many people say: the most beautiful scenery in Taiwan is its people.",
+  "vocab": [
+   {
+    "w": "熱情",
+    "p": "rèqíng",
+    "en": "warm-hearted; friendly"
+   },
+   {
+    "w": "問路",
+    "p": "wèn lù",
+    "en": "to ask for directions"
+   },
+   {
+    "w": "願意",
+    "p": "yuànyì",
+    "en": "to be willing to"
+   },
+   {
+    "w": "幫忙",
+    "p": "bāngmáng",
+    "en": "to help"
+   },
+   {
+    "w": "風景",
+    "p": "fēngjǐng",
+    "en": "scenery"
+   }
+  ],
+  "questions": [
+   {
+    "q": "你在路上問路，台灣人會怎麼樣？",
+    "options": [
+     "不告訴你",
+     "很生氣",
+     "告訴你，有時候還帶你去",
+     "馬上走"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "外國學生有問題的時候，誰願意幫忙？",
+    "options": [
+     "沒有人",
+     "老師和同學",
+     "只有醫生",
+     "只有司機"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "很多人說，台灣最美的風景是什麼？",
+    "options": [
+     "山",
+     "海",
+     "夜市",
+     "人"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-07",
+  "level": "l2",
+  "title_zh": "全民健保",
+  "title_en": "National Health Insurance",
+  "body": "台灣的健保很有名。有了健保，看病、拿藥都很便宜，醫院和醫生也都很好。外國學生在台灣住了六個月以後，就可以參加健保。生病的時候，不用擔心花很多錢，感冒、發燒都可以去看醫生，只要花一點錢。很多外國學生都說，台灣的健保又方便又便宜，在台灣讀書，不用擔心生病的問題。",
+  "translation_en": "Taiwan's National Health Insurance is famous. With health insurance, seeing a doctor and getting medicine are both very cheap, and the hospitals and doctors are excellent. Foreign students can join the health insurance after living in Taiwan for six months. When you get sick, you don't need to worry about spending a lot of money — for a cold or a fever, you can see a doctor and only pay a little. Many foreign students say Taiwan's health insurance is both convenient and cheap; studying in Taiwan, you don't have to worry about getting sick.",
+  "vocab": [
+   {
+    "w": "健保",
+    "p": "jiànbǎo",
+    "en": "(national) health insurance"
+   },
+   {
+    "w": "看病",
+    "p": "kànbìng",
+    "en": "to see a doctor"
+   },
+   {
+    "w": "參加",
+    "p": "cānjiā",
+    "en": "to join; to take part in"
+   },
+   {
+    "w": "擔心",
+    "p": "dānxīn",
+    "en": "to worry"
+   },
+   {
+    "w": "發燒",
+    "p": "fāshāo",
+    "en": "to have a fever"
+   }
+  ],
+  "questions": [
+   {
+    "q": "外國學生什麼時候可以參加健保？",
+    "options": [
+     "剛到台灣的時候",
+     "住了六個月以後",
+     "住了三年以後",
+     "放假的時候"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "有了健保，看病要花多少錢？",
+    "options": [
+     "要花很多錢",
+     "一定不用花錢",
+     "只要花一點錢",
+     "要先買很多藥"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "很多外國學生覺得台灣的健保怎麼樣？",
+    "options": [
+     "很貴",
+     "很麻煩",
+     "只有台灣人可以用",
+     "又方便又便宜"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-08",
+  "level": "l2",
+  "title_zh": "台灣的過年",
+  "title_en": "Lunar New Year in Taiwan",
+  "body": "過年是台灣一年裡最重要的日子。除夕的晚上，家人都會回家，一起吃年夜飯，有魚、有肉，非常熱鬧。吃完飯，大人會給孩子紅包，紅包是紅色的，裡面放的是錢，希望新的一年大家都快樂、健康。過年的時候，學校和公司都放假，很多人會出去玩。如果你在台灣過年，一定會覺得很有意思。",
+  "translation_en": "Lunar New Year is the most important time of the year in Taiwan. On New Year's Eve, family members all come home and eat the New Year's Eve dinner together — there is fish and meat, and it is very lively. After the meal, adults give children red envelopes; the envelopes are red with money inside, wishing everyone a happy and healthy new year. During the New Year, schools and companies are on holiday, and many people go out to have fun. If you spend Lunar New Year in Taiwan, you will surely find it very interesting.",
+  "vocab": [
+   {
+    "w": "過年",
+    "p": "guònián",
+    "en": "to celebrate Lunar New Year"
+   },
+   {
+    "w": "除夕",
+    "p": "chúxì",
+    "en": "Lunar New Year's Eve"
+   },
+   {
+    "w": "年夜飯",
+    "p": "niányèfàn",
+    "en": "New Year's Eve family dinner"
+   },
+   {
+    "w": "紅包",
+    "p": "hóngbāo",
+    "en": "red envelope (with money)"
+   },
+   {
+    "w": "放假",
+    "p": "fàngjià",
+    "en": "to have a holiday"
+   }
+  ],
+  "questions": [
+   {
+    "q": "除夕的晚上，家人一起做什麼？",
+    "options": [
+     "吃年夜飯",
+     "去爬山",
+     "去看醫生",
+     "去圖書館"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "紅包裡面放的是什麼？",
+    "options": [
+     "水果",
+     "錢",
+     "茶",
+     "衣服"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "過年的時候，哪一個是對的？",
+    "options": [
+     "大家都要上課",
+     "孩子給大人紅包",
+     "學校和公司都放假",
+     "沒有人回家"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-09",
+  "level": "l2",
+  "title_zh": "大學生活",
+  "title_en": "University Life",
+  "body": "在台灣讀大學，生活非常有趣。校園又大又漂亮，有圖書館、餐廳和宿舍。下課以後，你可以參加社團，跟同學一起打球、唱歌或跳舞，認識很多新朋友。晚上，大家常常去學校附近的夜市，那裡的小吃又便宜又好吃。很多外國學生都說，台灣的大學生活讓他們每天都很快樂。",
+  "translation_en": "Studying at a university in Taiwan, life is a lot of fun. Campuses are big and beautiful, with libraries, cafeterias, and dormitories. After class, you can join student clubs and play ball, sing, or dance with classmates, making many new friends. In the evening, everyone often goes to the night market near school, where the street food is cheap and delicious. Many foreign students say that university life in Taiwan makes them happy every day.",
+  "vocab": [
+   {
+    "w": "校園",
+    "p": "xiàoyuán",
+    "en": "campus"
+   },
+   {
+    "w": "社團",
+    "p": "shètuán",
+    "en": "student club"
+   },
+   {
+    "w": "宿舍",
+    "p": "sùshè",
+    "en": "dormitory"
+   },
+   {
+    "w": "夜市",
+    "p": "yèshì",
+    "en": "night market"
+   },
+   {
+    "w": "小吃",
+    "p": "xiǎochī",
+    "en": "snacks; street food"
+   }
+  ],
+  "questions": [
+   {
+    "q": "下課以後，學生可以參加什麼？",
+    "options": [
+     "社團",
+     "健保",
+     "年夜飯",
+     "考試"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "學生晚上常常去哪裡？",
+    "options": [
+     "圖書館",
+     "醫院",
+     "宿舍",
+     "學校附近的夜市"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "夜市的小吃怎麼樣？",
+    "options": [
+     "又貴又難吃",
+     "又便宜又好吃",
+     "很少人喜歡",
+     "只有外國人吃"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-10",
+  "level": "l2",
+  "title_zh": "日月潭與阿里山",
+  "title_en": "Sun Moon Lake and Alishan",
+  "body": "日月潭和阿里山都在台灣的中部，是最有名的風景。日月潭是一個很大的湖，湖水是綠色的，你可以坐船，也可以騎腳踏車。阿里山很高，山上有很多很老的樹。很多人早上很早起床，坐小火車上山看日出，太陽出來的時候，非常漂亮。阿里山的茶也很有名，去玩的時候，別忘了喝一杯。",
+  "translation_en": "Sun Moon Lake and Alishan are both in central Taiwan and are its most famous scenic spots. Sun Moon Lake is a big lake with green water; you can take a boat or ride a bicycle around it. Alishan is very high, and on the mountain there are many very old trees. Many people get up very early and take the little train up the mountain to watch the sunrise — when the sun comes out, it is beautiful. Alishan's tea is also famous; when you visit, don't forget to have a cup.",
+  "vocab": [
+   {
+    "w": "日月潭",
+    "p": "Rìyuètán",
+    "en": "Sun Moon Lake"
+   },
+   {
+    "w": "阿里山",
+    "p": "Ālǐshān",
+    "en": "Alishan (Mount Ali)"
+   },
+   {
+    "w": "湖",
+    "p": "hú",
+    "en": "lake"
+   },
+   {
+    "w": "日出",
+    "p": "rìchū",
+    "en": "sunrise"
+   },
+   {
+    "w": "風景",
+    "p": "fēngjǐng",
+    "en": "scenery"
+   }
+  ],
+  "questions": [
+   {
+    "q": "日月潭是什麼？",
+    "options": [
+     "一座很高的山",
+     "一個很大的湖",
+     "一個夜市",
+     "一個學校"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "很多人坐小火車上阿里山做什麼？",
+    "options": [
+     "看日出",
+     "坐船",
+     "買水果",
+     "看醫生"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "阿里山的什麼很有名？",
+    "options": [
+     "咖啡",
+     "果汁",
+     "茶",
+     "牛奶"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-11",
+  "level": "l2",
+  "title_zh": "故宮博物院",
+  "title_en": "The National Palace Museum",
+  "body": "故宮博物院在台北，是世界有名的博物院，裡面放著很多幾百年前的東西，有畫，也有很老的碗。最有名的是「翠玉白菜」，它是用玉做的，好像真的白菜一樣，非常有趣。想了解台灣和中國的歷史文化，故宮是一定要去的地方。學生買票還可以打折，別忘了去看看。",
+  "translation_en": "The National Palace Museum is in Taipei and is a world-famous museum. Inside are many objects from hundreds of years ago, including paintings and very old bowls. The most famous piece is the \"Jadeite Cabbage,\" which is made of jade and looks just like a real cabbage — very interesting. If you want to learn about the history and culture of Taiwan and China, the museum is a must-visit place. Students also get a discount on tickets, so don't forget to go and take a look.",
+  "vocab": [
+   {
+    "w": "故宮博物院",
+    "p": "Gùgōng Bówùyuàn",
+    "en": "National Palace Museum"
+   },
+   {
+    "w": "翠玉白菜",
+    "p": "Cuìyù Báicài",
+    "en": "Jadeite Cabbage (famous treasure)"
+   },
+   {
+    "w": "玉",
+    "p": "yù",
+    "en": "jade"
+   },
+   {
+    "w": "歷史",
+    "p": "lìshǐ",
+    "en": "history"
+   },
+   {
+    "w": "打折",
+    "p": "dǎzhé",
+    "en": "to give a discount"
+   }
+  ],
+  "questions": [
+   {
+    "q": "故宮博物院在哪裡？",
+    "options": [
+     "台中",
+     "台北",
+     "阿里山",
+     "日月潭"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "翠玉白菜是用什麼做的？",
+    "options": [
+     "紙",
+     "菜",
+     "玉",
+     "錢"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "學生去故宮買票，可以怎麼樣？",
+    "options": [
+     "可以打折",
+     "要花更多錢",
+     "不能進去",
+     "要等三天"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "tw-12",
+  "level": "l2",
+  "title_zh": "台灣的水果",
+  "title_en": "Fruit in Taiwan",
+  "body": "台灣的水果又多又好吃，有人說台灣是「水果王國」。夏天有芒果和西瓜，芒果又大又甜；鳳梨很香，差不多每個季節都買得到。香蕉也很便宜，在市場或超市，花一點錢就可以買很多。一年四個季節，台灣都有不同的水果。來台灣讀書的學生，別忘了每天吃水果，對身體很好。",
+  "translation_en": "Taiwan's fruit is plentiful and delicious — some people call Taiwan the \"Fruit Kingdom.\" In summer there are mangoes and watermelons; the mangoes are big and sweet. Pineapples are fragrant and can be bought in almost every season. Bananas are also very cheap — at the market or supermarket, a little money buys a lot. In all four seasons of the year, Taiwan has different fruits. Students coming to study in Taiwan, don't forget to eat fruit every day — it's good for your health.",
+  "vocab": [
+   {
+    "w": "水果王國",
+    "p": "shuǐguǒ wángguó",
+    "en": "fruit kingdom"
+   },
+   {
+    "w": "芒果",
+    "p": "mángguǒ",
+    "en": "mango"
+   },
+   {
+    "w": "鳳梨",
+    "p": "fènglí",
+    "en": "pineapple"
+   },
+   {
+    "w": "甜",
+    "p": "tián",
+    "en": "sweet"
+   },
+   {
+    "w": "季節",
+    "p": "jìjié",
+    "en": "season"
+   }
+  ],
+  "questions": [
+   {
+    "q": "夏天有什麼水果？",
+    "options": [
+     "芒果和西瓜",
+     "蘋果",
+     "葡萄",
+     "咖啡"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "為什麼有人說台灣是「水果王國」？",
+    "options": [
+     "因為水果很貴",
+     "因為沒有水果",
+     "因為只有夏天有水果",
+     "因為水果又多又好吃"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "來台灣讀書的學生，別忘了做什麼？",
+    "options": [
+     "每天吃水果",
+     "每天喝茶",
+     "每天去夜市",
+     "每天坐船"
+    ],
+    "answer": 0
+   }
+  ]
+ }
+]
