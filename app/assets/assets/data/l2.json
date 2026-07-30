@@ -8,7 +8,9 @@
   "pinyin": "chūshēng",
   "pos": "Vp",
   "gloss": "to be born",
-  "km": "កើត"
+  "km": "កើត",
+  "ex": "我是在台北出生的。",
+  "ex_en": "I was born in Taipei."
  },
  {
   "id": "l2-002",
@@ -19,7 +21,9 @@
   "pinyin": "bùtóng",
   "pos": "Vs",
   "gloss": "different",
-  "km": "ខុសគ្នា"
+  "km": "ខុសគ្នា",
+  "ex": "我們兩個人的想法不同。",
+  "ex_en": "The two of us think differently."
  },
  {
   "id": "l2-003",
@@ -30,7 +34,9 @@
   "pinyin": "zhùzhǐ",
   "pos": "N",
   "gloss": "address",
-  "km": "អាសយដ្ឋាន"
+  "km": "អាសយដ្ឋាន",
+  "ex": "請把你的住址寫在這裡。",
+  "ex_en": "Please write your address here."
  },
  {
   "id": "l2-004",
@@ -41,7 +47,9 @@
   "pinyin": "mǔyǔ",
   "pos": "N",
   "gloss": "mother tongue",
-  "km": "ភាសាកំណើត"
+  "km": "ភាសាកំណើត",
+  "ex": "我的母語是中文。",
+  "ex_en": "My mother tongue is Chinese."
  },
  {
   "id": "l2-005",
@@ -52,7 +60,9 @@
   "pinyin": "biǎo",
   "pos": "N",
   "gloss": "form; chart",
-  "km": "តារាង"
+  "km": "តារាង",
+  "ex": "請把這張表寫好。",
+  "ex_en": "Please fill out this form."
  },
  {
   "id": "l2-006",
@@ -63,7 +73,9 @@
   "pinyin": "zhōng",
   "pos": "M",
   "gloss": "measure word for clock time",
-  "km": "ម៉ោង"
+  "km": "ម៉ោង",
+  "ex": "我等了十分鐘。",
+  "ex_en": "I waited for ten minutes."
  },
  {
   "id": "l2-007",
@@ -74,7 +86,9 @@
   "pinyin": "zhōng/shízhōng",
   "pos": "N",
   "gloss": "clock",
-  "km": "នាឡិកា"
+  "km": "នាឡិកា",
+  "ex": "桌上有一個小鐘。",
+  "ex_en": "There is a small clock on the table."
  },
  {
   "id": "l2-008",
@@ -85,7 +99,9 @@
   "pinyin": "chuánzhēn",
   "pos": "N",
   "gloss": "fax",
-  "km": "ទូរសារ"
+  "km": "ទូរសារ",
+  "ex": "請把資料傳真給我。",
+  "ex_en": "Please fax the information to me."
  },
  {
   "id": "l2-009",
@@ -96,7 +112,9 @@
   "pinyin": "báitian",
   "pos": "N",
   "gloss": "daytime",
-  "km": "ពេលថ្ងៃ"
+  "km": "ពេលថ្ងៃ",
+  "ex": "他白天上班，晚上上課。",
+  "ex_en": "He works during the day and takes classes at night."
  },
  {
   "id": "l2-010",
@@ -107,7 +125,9 @@
   "pinyin": "bànyè",
   "pos": "N",
   "gloss": "midnight",
-  "km": "អធ្រាត្រ"
+  "km": "អធ្រាត្រ",
+  "ex": "他常常半夜才睡覺。",
+  "ex_en": "He often doesn't go to sleep until midnight."
  },
  {
   "id": "l2-011",
@@ -118,7 +138,9 @@
   "pinyin": "yèwǎn",
   "pos": "N",
   "gloss": "night; evening",
-  "km": "ពេលយប់"
+  "km": "ពេលយប់",
+  "ex": "夜晚的星星很漂亮。",
+  "ex_en": "The stars at night are beautiful."
  },
  {
   "id": "l2-012",
@@ -129,7 +151,9 @@
   "pinyin": "rìzi",
   "pos": "N",
   "gloss": "day; days",
-  "km": "ថ្ងៃ"
+  "km": "ថ្ងៃ",
+  "ex": "那些日子我過得很開心。",
+  "ex_en": "I was very happy in those days."
  },
  {
   "id": "l2-013",
@@ -140,7 +164,9 @@
   "pinyin": "yè",
   "pos": "N",
   "gloss": "night",
-  "km": "យប់"
+  "km": "យប់",
+  "ex": "我昨天一夜都沒睡。",
+  "ex_en": "I didn't sleep all night yesterday."
  },
  {
   "id": "l2-014",
@@ -151,7 +177,9 @@
   "pinyin": "chūnjì",
   "pos": "N",
   "gloss": "spring season",
-  "km": "រដូវផ្ការីក"
+  "km": "រដូវផ្ការីក",
+  "ex": "春季的花很漂亮。",
+  "ex_en": "The flowers in spring are beautiful."
  },
  {
   "id": "l2-015",
@@ -162,7 +190,9 @@
   "pinyin": "shí",
   "pos": "N",
   "gloss": "time; hour",
-  "km": "ពេលវេលា"
+  "km": "ពេលវេលា",
+  "ex": "上課時不要說話。",
+  "ex_en": "Don't talk during class."
  },
  {
   "id": "l2-016",
@@ -173,7 +203,9 @@
   "pinyin": "bùjiǔ",
   "pos": "N",
   "gloss": "soon; not long after",
-  "km": "មិនយូរ"
+  "km": "មិនយូរ",
+  "ex": "不久以後，他就回來了。",
+  "ex_en": "Not long after, he came back."
  },
  {
   "id": "l2-017",
@@ -184,7 +216,9 @@
   "pinyin": "gāngcái",
   "pos": "Adv",
   "gloss": "just now",
-  "km": "អម្បាញ់មិញ"
+  "km": "អម្បាញ់មិញ",
+  "ex": "剛才有人打電話給你。",
+  "ex_en": "Someone called you just now."
  },
  {
   "id": "l2-018",
@@ -195,7 +229,9 @@
   "pinyin": "zǎodiǎn",
   "pos": "Adv",
   "gloss": "earlier; sooner",
-  "km": "ឲ្យបានឆាប់"
+  "km": "ឲ្យបានឆាប់",
+  "ex": "你今天早點回家吧。",
+  "ex_en": "Go home a bit earlier today."
  },
  {
   "id": "l2-019",
@@ -206,7 +242,9 @@
   "pinyin": "zhènghǎo",
   "pos": "Adv / Vs",
   "gloss": "just right; coincidentally",
-  "km": "ត្រូវល្មម"
+  "km": "ត្រូវល្មម",
+  "ex": "你來得正好，我們要吃飯了。",
+  "ex_en": "You came just in time; we are about to eat."
  },
  {
   "id": "l2-020",
@@ -217,7 +255,9 @@
   "pinyin": "niánjì",
   "pos": "N",
   "gloss": "age",
-  "km": "អាយុ"
+  "km": "អាយុ",
+  "ex": "他年紀還小，不會開車。",
+  "ex_en": "He is still young and can't drive."
  },
  {
   "id": "l2-021",
@@ -228,7 +268,9 @@
   "pinyin": "nánrén",
   "pos": "N",
   "gloss": "man",
-  "km": "បុរស"
+  "km": "បុរស",
+  "ex": "那個男人是我的老師。",
+  "ex_en": "That man is my teacher."
  },
  {
   "id": "l2-022",
@@ -239,7 +281,9 @@
   "pinyin": "nǚrén",
   "pos": "N",
   "gloss": "woman",
-  "km": "ស្ត្រី"
+  "km": "ស្ត្រី",
+  "ex": "那個女人很漂亮。",
+  "ex_en": "That woman is very pretty."
  },
  {
   "id": "l2-023",
@@ -250,7 +294,9 @@
   "pinyin": "fùqīn",
   "pos": "N",
   "gloss": "father",
-  "km": "ឪពុក"
+  "km": "ឪពុក",
+  "ex": "我父親在銀行工作。",
+  "ex_en": "My father works at a bank."
  },
  {
   "id": "l2-024",
@@ -261,7 +307,9 @@
   "pinyin": "mǔqīn",
   "pos": "N",
   "gloss": "mother",
-  "km": "ម្តាយ"
+  "km": "ម្តាយ",
+  "ex": "他的母親做菜很好吃。",
+  "ex_en": "His mother's cooking is delicious."
  },
  {
   "id": "l2-025",
@@ -272,7 +320,9 @@
   "pinyin": "fùmǔ",
   "pos": "N",
   "gloss": "parents",
-  "km": "ឪពុកម្តាយ"
+  "km": "ឪពុកម្តាយ",
+  "ex": "我的父母都住在台北。",
+  "ex_en": "My parents both live in Taipei."
  },
  {
   "id": "l2-026",
@@ -283,7 +333,9 @@
   "pinyin": "wàigōng",
   "pos": "N",
   "gloss": "maternal grandfather",
-  "km": "តាខាងម្តាយ"
+  "km": "តាខាងម្តាយ",
+  "ex": "我外公今年八十歲。",
+  "ex_en": "My grandfather is eighty years old this year."
  },
  {
   "id": "l2-027",
@@ -294,7 +346,9 @@
   "pinyin": "wàipó",
   "pos": "N",
   "gloss": "maternal grandmother",
-  "km": "យាយខាងម្តាយ"
+  "km": "យាយខាងម្តាយ",
+  "ex": "我常去外婆家玩。",
+  "ex_en": "I often go to my grandma's house to visit."
  },
  {
   "id": "l2-028",
@@ -305,7 +359,9 @@
   "pinyin": "bóbo/bó",
   "pos": "N",
   "gloss": "uncle (father's elder brother)",
-  "km": "អ៊ំប្រុស"
+  "km": "អ៊ំប្រុស",
+  "ex": "伯伯請我們吃晚飯。",
+  "ex_en": "Uncle treated us to dinner."
  },
  {
   "id": "l2-029",
@@ -316,7 +372,9 @@
   "pinyin": "bófù",
   "pos": "N",
   "gloss": "uncle (father's elder brother)",
-  "km": "អ៊ំប្រុស"
+  "km": "អ៊ំប្រុស",
+  "ex": "伯父住在我們家附近。",
+  "ex_en": "My uncle lives near our home."
  },
  {
   "id": "l2-030",
@@ -327,7 +385,9 @@
   "pinyin": "bómǔ",
   "pos": "N",
   "gloss": "aunt (father's elder brother's wife)",
-  "km": "អ៊ំស្រី"
+  "km": "អ៊ំស្រី",
+  "ex": "伯母做的菜真好吃。",
+  "ex_en": "The food my aunt makes is really delicious."
  },
  {
   "id": "l2-031",
@@ -338,7 +398,9 @@
   "pinyin": "shúshu/shú",
   "pos": "N",
   "gloss": "uncle (father's younger brother)",
-  "km": "ពូ"
+  "km": "ពូ",
+  "ex": "叔叔開車帶我們去玩。",
+  "ex_en": "Uncle drove us out for fun."
  },
  {
   "id": "l2-032",
@@ -349,7 +411,9 @@
   "pinyin": "gūgu",
   "pos": "N",
   "gloss": "aunt (father's sister)",
-  "km": "មីងខាងឪពុក"
+  "km": "មីងខាងឪពុក",
+  "ex": "姑姑買了蛋糕給我。",
+  "ex_en": "My aunt bought me a cake."
  },
  {
   "id": "l2-033",
@@ -360,7 +424,9 @@
   "pinyin": "sūnnǚ",
   "pos": "N",
   "gloss": "granddaughter",
-  "km": "ចៅស្រី"
+  "km": "ចៅស្រី",
+  "ex": "她的孫女今年五歲。",
+  "ex_en": "Her granddaughter is five years old this year."
  },
  {
   "id": "l2-034",
@@ -371,7 +437,9 @@
   "pinyin": "sūnzi",
   "pos": "N",
   "gloss": "grandson",
-  "km": "ចៅប្រុស"
+  "km": "ចៅប្រុស",
+  "ex": "老先生很愛他的孫子。",
+  "ex_en": "The old man loves his grandson very much."
  },
  {
   "id": "l2-035",
@@ -382,7 +450,9 @@
   "pinyin": "guānxì",
   "pos": "N",
   "gloss": "relationship",
-  "km": "ទំនាក់ទំនង"
+  "km": "ទំនាក់ទំនង",
+  "ex": "我跟他的關係很好。",
+  "ex_en": "I have a good relationship with him."
  },
  {
   "id": "l2-036",
@@ -393,7 +463,9 @@
   "pinyin": "hàipà",
   "pos": "Vs",
   "gloss": "afraid; scared",
-  "km": "ខ្លាច"
+  "km": "ខ្លាច",
+  "ex": "她一個人在家很害怕。",
+  "ex_en": "She is scared being home alone."
  },
  {
   "id": "l2-037",
@@ -404,7 +476,9 @@
   "pinyin": "kāixīn",
   "pos": "Vs",
   "gloss": "happy",
-  "km": "សប្បាយចិត្ត"
+  "km": "សប្បាយចិត្ត",
+  "ex": "今天我們玩得很開心。",
+  "ex_en": "We had a great time today."
  },
  {
   "id": "l2-038",
@@ -415,7 +489,9 @@
   "pinyin": "dānxīn",
   "pos": "Vst",
   "gloss": "to worry about",
-  "km": "បារម្ភ"
+  "km": "បារម្ភ",
+  "ex": "媽媽很擔心我的身體。",
+  "ex_en": "Mom worries a lot about my health."
  },
  {
   "id": "l2-039",
@@ -426,7 +502,9 @@
   "pinyin": "shāngxīn",
   "pos": "Vs-sep",
   "gloss": "sad; heartbroken",
-  "km": "ឈឺចិត្ត"
+  "km": "ឈឺចិត្ត",
+  "ex": "聽到這個消息，她很傷心。",
+  "ex_en": "She was very sad to hear this news."
  },
  {
   "id": "l2-040",
@@ -437,7 +515,9 @@
   "pinyin": "měilì",
   "pos": "Vs",
   "gloss": "beautiful",
-  "km": "ស្រស់ស្អាត"
+  "km": "ស្រស់ស្អាត",
+  "ex": "她是一個美麗的女人。",
+  "ex_en": "She is a beautiful woman."
  },
  {
   "id": "l2-041",
@@ -448,7 +528,9 @@
   "pinyin": "shuài",
   "pos": "Vs",
   "gloss": "handsome",
-  "km": "សង្ហា"
+  "km": "សង្ហា",
+  "ex": "我哥哥長得很帥。",
+  "ex_en": "My older brother is very handsome."
  },
  {
   "id": "l2-042",
@@ -459,7 +541,9 @@
   "pinyin": "bèn",
   "pos": "Vs",
   "gloss": "stupid",
-  "km": "ល្ងង់"
+  "km": "ល្ងង់",
+  "ex": "他不笨，只是不用功。",
+  "ex_en": "He isn't stupid; he just doesn't study hard."
  },
  {
   "id": "l2-043",
@@ -470,7 +554,9 @@
   "pinyin": "rènzhēn",
   "pos": "Vs",
   "gloss": "serious; conscientious",
-  "km": "ម៉ត់ចត់"
+  "km": "ម៉ត់ចត់",
+  "ex": "他上課很認真。",
+  "ex_en": "He is very serious in class."
  },
  {
   "id": "l2-044",
@@ -481,7 +567,9 @@
   "pinyin": "gǎn",
   "pos": "Vaux",
   "gloss": "to dare",
-  "km": "ហ៊ាន"
+  "km": "ហ៊ាន",
+  "ex": "我不敢一個人去。",
+  "ex_en": "I don't dare to go alone."
  },
  {
   "id": "l2-045",
@@ -492,7 +580,9 @@
   "pinyin": "jí",
   "pos": "Vs",
   "gloss": "anxious; urgent",
-  "km": "ប្រញាប់"
+  "km": "ប្រញាប់",
+  "ex": "你別急，慢慢說。",
+  "ex_en": "Don't rush; speak slowly."
  },
  {
   "id": "l2-046",
@@ -503,7 +593,9 @@
   "pinyin": "lǐmào",
   "pos": "N",
   "gloss": "politeness; manners",
-  "km": "ភាពគួរសម"
+  "km": "ភាពគួរសម",
+  "ex": "這個孩子很有禮貌。",
+  "ex_en": "This child is very polite."
  },
  {
   "id": "l2-047",
@@ -514,7 +606,9 @@
   "pinyin": "hàixiū",
   "pos": "Vs",
   "gloss": "shy",
-  "km": "អៀន"
+  "km": "អៀន",
+  "ex": "妹妹很害羞，不敢說話。",
+  "ex_en": "My little sister is shy and doesn't dare to speak."
  },
  {
   "id": "l2-048",
@@ -525,7 +619,9 @@
   "pinyin": "guānxīn",
   "pos": "Vst",
   "gloss": "to care about",
-  "km": "យកចិត្តទុកដាក់"
+  "km": "យកចិត្តទុកដាក់",
+  "ex": "老師很關心學生。",
+  "ex_en": "The teacher cares a lot about the students."
  },
  {
   "id": "l2-049",
@@ -536,7 +632,9 @@
   "pinyin": "xīnqíng",
   "pos": "N",
   "gloss": "mood",
-  "km": "អារម្មណ៍"
+  "km": "អារម្មណ៍",
+  "ex": "我今天心情很好。",
+  "ex_en": "I'm in a good mood today."
  },
  {
   "id": "l2-050",
@@ -547,7 +645,9 @@
   "pinyin": "xìngfú",
   "pos": "Vs",
   "gloss": "happy; blessed",
-  "km": "មានសុភមង្គល"
+  "km": "មានសុភមង្គល",
+  "ex": "我們一家人很幸福。",
+  "ex_en": "Our family is very happy."
  },
  {
   "id": "l2-051",
@@ -558,7 +658,9 @@
   "pinyin": "cha",
   "pos": "Vs-pred",
   "gloss": "poor; not good",
-  "km": "អន់"
+  "km": "អន់",
+  "ex": "我的英文很差。",
+  "ex_en": "My English is very poor."
  },
  {
   "id": "l2-052",
@@ -569,7 +671,9 @@
   "pinyin": "xiōngdì",
   "pos": "N",
   "gloss": "brothers",
-  "km": "បងប្អូនប្រុស"
+  "km": "បងប្អូនប្រុស",
+  "ex": "我有兩個兄弟。",
+  "ex_en": "I have two brothers."
  },
  {
   "id": "l2-053",
@@ -580,7 +684,9 @@
   "pinyin": "āyí",
   "pos": "N",
   "gloss": "aunt; auntie",
-  "km": "អ្នកមីង"
+  "km": "អ្នកមីង",
+  "ex": "阿姨帶我去公園玩。",
+  "ex_en": "My aunt took me to the park to play."
  },
  {
   "id": "l2-054",
@@ -591,7 +697,9 @@
   "pinyin": "shēnbiān",
   "pos": "N",
   "gloss": "one's side",
-  "km": "ក្បែរខ្លួន"
+  "km": "ក្បែរខ្លួន",
+  "ex": "我身邊有很多好朋友。",
+  "ex_en": "I have many good friends around me."
  },
  {
   "id": "l2-055",
@@ -602,7 +710,9 @@
   "pinyin": "shēngāo",
   "pos": "N",
   "gloss": "height (of a person)",
-  "km": "កម្ពស់"
+  "km": "កម្ពស់",
+  "ex": "弟弟的身高跟我一樣。",
+  "ex_en": "My younger brother is the same height as me."
  },
  {
   "id": "l2-056",
@@ -613,7 +723,9 @@
   "pinyin": "zhǎngdà",
   "pos": "Vp",
   "gloss": "to grow up",
-  "km": "ធំឡើង"
+  "km": "ធំឡើង",
+  "ex": "我是在鄉下長大的。",
+  "ex_en": "I grew up in the countryside."
  },
  {
   "id": "l2-057",
@@ -624,7 +736,9 @@
   "pinyin": "jīnglǐ",
   "pos": "N",
   "gloss": "manager",
-  "km": "អ្នកគ្រប់គ្រង"
+  "km": "អ្នកគ្រប់គ្រង",
+  "ex": "經理正在開會。",
+  "ex_en": "The manager is in a meeting."
  },
  {
   "id": "l2-058",
@@ -635,7 +749,9 @@
   "pinyin": "jiāoshū",
   "pos": "V-sep",
   "gloss": "to teach",
-  "km": "បង្រៀន"
+  "km": "បង្រៀន",
+  "ex": "我媽媽在中學教書。",
+  "ex_en": "My mom teaches at a secondary school."
  },
  {
   "id": "l2-059",
@@ -646,7 +762,9 @@
   "pinyin": "kāihuì",
   "pos": "V-sep",
   "gloss": "to have a meeting",
-  "km": "ប្រជុំ"
+  "km": "ប្រជុំ",
+  "ex": "我們下午三點開會。",
+  "ex_en": "We have a meeting at three in the afternoon."
  },
  {
   "id": "l2-060",
@@ -657,7 +775,9 @@
   "pinyin": "jiābān",
   "pos": "V-sep",
   "gloss": "to work overtime",
-  "km": "ធ្វើការថែមម៉ោង"
+  "km": "ធ្វើការថែមម៉ោង",
+  "ex": "他今天晚上要加班。",
+  "ex_en": "He has to work overtime tonight."
  },
  {
   "id": "l2-061",
@@ -668,7 +788,9 @@
   "pinyin": "wéixiǎn",
   "pos": "Vs",
   "gloss": "dangerous",
-  "km": "គ្រោះថ្នាក់"
+  "km": "គ្រោះថ្នាក់",
+  "ex": "在馬路上玩很危險。",
+  "ex_en": "Playing in the street is very dangerous."
  },
  {
   "id": "l2-062",
@@ -679,7 +801,9 @@
   "pinyin": "ānquán",
   "pos": "Vs / N",
   "gloss": "safe; safety",
-  "km": "សុវត្ថិភាព"
+  "km": "សុវត្ថិភាព",
+  "ex": "這裡晚上很安全。",
+  "ex_en": "It's very safe here at night."
  },
  {
   "id": "l2-063",
@@ -690,7 +814,9 @@
   "pinyin": "chénggōng",
   "pos": "Vs",
   "gloss": "successful",
-  "km": "ជោគជ័យ"
+  "km": "ជោគជ័យ",
+  "ex": "他成功了，大家都很開心。",
+  "ex_en": "He succeeded, and everyone was very happy."
  },
  {
   "id": "l2-064",
@@ -701,7 +827,9 @@
   "pinyin": "bàogào",
   "pos": "V / N",
   "gloss": "to report; report",
-  "km": "របាយការណ៍"
+  "km": "របាយការណ៍",
+  "ex": "我今天晚上要寫報告。",
+  "ex_en": "I have to write a report tonight."
  },
  {
   "id": "l2-065",
@@ -712,7 +840,9 @@
   "pinyin": "zīliào",
   "pos": "N",
   "gloss": "data; information",
-  "km": "ទិន្នន័យ"
+  "km": "ទិន្នន័យ",
+  "ex": "這些資料很有用。",
+  "ex_en": "This information is very useful."
  },
  {
   "id": "l2-066",
@@ -723,7 +853,9 @@
   "pinyin": "guǎnlǐ",
   "pos": "V",
   "gloss": "to manage",
-  "km": "គ្រប់គ្រង"
+  "km": "គ្រប់គ្រង",
+  "ex": "經理管理這家公司。",
+  "ex_en": "The manager runs this company."
  },
  {
   "id": "l2-067",
@@ -734,7 +866,9 @@
   "pinyin": "zuòfǎ",
   "pos": "N",
   "gloss": "way of doing; method",
-  "km": "របៀបធ្វើ"
+  "km": "របៀបធ្វើ",
+  "ex": "這個菜的做法很簡單。",
+  "ex_en": "The way to make this dish is very simple."
  },
  {
   "id": "l2-068",
@@ -745,7 +879,9 @@
   "pinyin": "kànfǎ",
   "pos": "N",
   "gloss": "opinion; view",
-  "km": "ទស្សនៈ"
+  "km": "ទស្សនៈ",
+  "ex": "你對這件事有什麼看法？",
+  "ex_en": "What is your opinion on this matter?"
  },
  {
   "id": "l2-069",
@@ -756,7 +892,9 @@
   "pinyin": "bàn",
   "pos": "V",
   "gloss": "to handle; to do",
-  "km": "ចាត់ការ"
+  "km": "ចាត់ការ",
+  "ex": "這件事我來辦。",
+  "ex_en": "I'll take care of this matter."
  },
  {
   "id": "l2-070",
@@ -767,7 +905,9 @@
   "pinyin": "dǎgōng",
   "pos": "V-sep",
   "gloss": "to work part-time",
-  "km": "ធ្វើការក្រៅម៉ោង"
+  "km": "ធ្វើការក្រៅម៉ោង",
+  "ex": "他在飯店打工。",
+  "ex_en": "He works part-time at a hotel."
  },
  {
   "id": "l2-071",
@@ -778,7 +918,9 @@
   "pinyin": "xuǎn",
   "pos": "V",
   "gloss": "to choose",
-  "km": "ជ្រើសរើស"
+  "km": "ជ្រើសរើស",
+  "ex": "你選一個喜歡的吧。",
+  "ex_en": "Pick one that you like."
  },
  {
   "id": "l2-072",
@@ -789,7 +931,9 @@
   "pinyin": "yánzhòng",
   "pos": "Vs",
   "gloss": "serious; severe",
-  "km": "ធ្ងន់ធ្ងរ"
+  "km": "ធ្ងន់ធ្ងរ",
+  "ex": "他的病不嚴重，別擔心。",
+  "ex_en": "His illness isn't serious; don't worry."
  },
  {
   "id": "l2-073",
@@ -800,7 +944,9 @@
   "pinyin": "zhèngshì",
   "pos": "Vs",
   "gloss": "formal; official",
-  "km": "ផ្លូវការ"
+  "km": "ផ្លូវការ",
+  "ex": "他今天穿得很正式。",
+  "ex_en": "He is dressed very formally today."
  },
  {
   "id": "l2-074",
@@ -811,7 +957,9 @@
   "pinyin": "chá",
   "pos": "V",
   "gloss": "to check; to look up",
-  "km": "ត្រួតពិនិត្យ"
+  "km": "ត្រួតពិនិត្យ",
+  "ex": "我用電腦查資料。",
+  "ex_en": "I use the computer to look up information."
  },
  {
   "id": "l2-075",
@@ -822,7 +970,9 @@
   "pinyin": "kǎo",
   "pos": "V",
   "gloss": "to take an exam",
-  "km": "ប្រឡង"
+  "km": "ប្រឡង",
+  "ex": "我明天要考中文。",
+  "ex_en": "I have a Chinese exam tomorrow."
  },
  {
   "id": "l2-076",
@@ -833,7 +983,9 @@
   "pinyin": "lìrú",
   "pos": "Prep",
   "gloss": "for example",
-  "km": "ឧទាហរណ៍ដូចជា"
+  "km": "ឧទាហរណ៍ដូចជា",
+  "ex": "我喜歡運動，例如游泳。",
+  "ex_en": "I like sports, for example swimming."
  },
  {
   "id": "l2-077",
@@ -844,7 +996,9 @@
   "pinyin": "lì(zi)",
   "pos": "N",
   "gloss": "example",
-  "km": "ឧទាហរណ៍"
+  "km": "ឧទាហរណ៍",
+  "ex": "老師先說了一個例子。",
+  "ex_en": "The teacher first gave an example."
  },
  {
   "id": "l2-078",
@@ -855,7 +1009,9 @@
   "pinyin": "tímù",
   "pos": "N",
   "gloss": "topic; question",
-  "km": "ប្រធានបទ"
+  "km": "ប្រធានបទ",
+  "ex": "這個題目太難了。",
+  "ex_en": "This question is too difficult."
  },
  {
   "id": "l2-079",
@@ -866,7 +1022,9 @@
   "pinyin": "tí",
   "pos": "M",
   "gloss": "measure word for questions",
-  "km": "សំណួរ"
+  "km": "សំណួរ",
+  "ex": "這一題我不會寫。",
+  "ex_en": "I don't know how to answer this question."
  },
  {
   "id": "l2-080",
@@ -877,7 +1035,9 @@
   "pinyin": "dáàn",
   "pos": "N",
   "gloss": "answer",
-  "km": "ចម្លើយ"
+  "km": "ចម្លើយ",
+  "ex": "你的答案是對的。",
+  "ex_en": "Your answer is correct."
  },
  {
   "id": "l2-081",
@@ -888,7 +1048,9 @@
   "pinyin": "niànshū",
   "pos": "V-sep",
   "gloss": "to study",
-  "km": "រៀនសូត្រ"
+  "km": "រៀនសូត្រ",
+  "ex": "姐姐在圖書館念書。",
+  "ex_en": "My older sister is studying in the library."
  },
  {
   "id": "l2-082",
@@ -899,7 +1061,9 @@
   "pinyin": "lìshǐ",
   "pos": "N",
   "gloss": "history",
-  "km": "ប្រវត្តិសាស្ត្រ"
+  "km": "ប្រវត្តិសាស្ត្រ",
+  "ex": "我對歷史很有興趣。",
+  "ex_en": "I am very interested in history."
  },
  {
   "id": "l2-083",
@@ -910,7 +1074,9 @@
   "pinyin": "shùxué",
   "pos": "N",
   "gloss": "mathematics",
-  "km": "គណិតវិទ្យា"
+  "km": "គណិតវិទ្យា",
+  "ex": "他的數學學得很好。",
+  "ex_en": "He is doing very well in math."
  },
  {
   "id": "l2-084",
@@ -921,7 +1087,9 @@
   "pinyin": "shūfǎ",
   "pos": "N",
   "gloss": "calligraphy",
-  "km": "អក្សរផ្ចង់"
+  "km": "អក្សរផ្ចង់",
+  "ex": "爺爺每天寫書法。",
+  "ex_en": "Grandpa practices calligraphy every day."
  },
  {
   "id": "l2-085",
@@ -932,7 +1100,9 @@
   "pinyin": "yīngyǔ",
   "pos": "N",
   "gloss": "English language",
-  "km": "ភាសាអង់គ្លេស"
+  "km": "ភាសាអង់គ្លេស",
+  "ex": "她的英語說得很好。",
+  "ex_en": "She speaks English very well."
  },
  {
   "id": "l2-086",
@@ -943,7 +1113,9 @@
   "pinyin": "zuòwén",
   "pos": "N / Vi",
   "gloss": "essay; to write essays",
-  "km": "តែងសេចក្តី"
+  "km": "តែងសេចក្តី",
+  "ex": "我的作文寫完了。",
+  "ex_en": "I have finished my essay."
  },
  {
   "id": "l2-087",
@@ -954,7 +1126,9 @@
   "pinyin": "hànzì",
   "pos": "N",
   "gloss": "Chinese character",
-  "km": "អក្សរចិន"
+  "km": "អក្សរចិន",
+  "ex": "這個漢字怎麼寫？",
+  "ex_en": "How do you write this Chinese character?"
  },
  {
   "id": "l2-088",
@@ -965,7 +1139,9 @@
   "pinyin": "cí",
   "pos": "N",
   "gloss": "word",
-  "km": "ពាក្យ"
+  "km": "ពាក្យ",
+  "ex": "這個詞是什麼意思？",
+  "ex_en": "What does this word mean?"
  },
  {
   "id": "l2-089",
@@ -976,7 +1152,9 @@
   "pinyin": "wénfǎ",
   "pos": "N",
   "gloss": "grammar",
-  "km": "វេយ្យាករណ៍"
+  "km": "វេយ្យាករណ៍",
+  "ex": "中文的文法不太難。",
+  "ex_en": "Chinese grammar is not too difficult."
  },
  {
   "id": "l2-090",
@@ -987,7 +1165,9 @@
   "pinyin": "jiāshàng",
   "pos": "V",
   "gloss": "to add",
-  "km": "បន្ថែម"
+  "km": "បន្ថែម",
+  "ex": "二加上三是五。",
+  "ex_en": "Two plus three is five."
  },
  {
   "id": "l2-091",
@@ -998,7 +1178,9 @@
   "pinyin": "jiǎn",
   "pos": "Vst",
   "gloss": "to subtract; to reduce",
-  "km": "ដក"
+  "km": "ដក",
+  "ex": "十減去三是七。",
+  "ex_en": "Ten minus three is seven."
  },
  {
   "id": "l2-092",
@@ -1009,7 +1191,9 @@
   "pinyin": "chéng",
   "pos": "V",
   "gloss": "to multiply",
-  "km": "គុណ"
+  "km": "គុណ",
+  "ex": "三乘四是十二。",
+  "ex_en": "Three times four is twelve."
  },
  {
   "id": "l2-093",
@@ -1020,7 +1204,9 @@
   "pinyin": "chú",
   "pos": "Prep / Vst / V",
   "gloss": "except; to divide",
-  "km": "ក្រៅពី; ចែក"
+  "km": "ក្រៅពី; ចែក",
+  "ex": "十除以二是五。",
+  "ex_en": "Ten divided by two is five."
  },
  {
   "id": "l2-094",
@@ -1031,7 +1217,9 @@
   "pinyin": "guóxiǎo",
   "pos": "N",
   "gloss": "elementary school",
-  "km": "សាលាបឋមសិក្សា"
+  "km": "សាលាបឋមសិក្សា",
+  "ex": "弟弟今年上國小。",
+  "ex_en": "My little brother starts elementary school this year."
  },
  {
   "id": "l2-095",
@@ -1042,7 +1230,9 @@
   "pinyin": "zhōngxué",
   "pos": "N",
   "gloss": "secondary school",
-  "km": "សាលាមធ្យមសិក្សា"
+  "km": "សាលាមធ្យមសិក្សា",
+  "ex": "他在中學念書。",
+  "ex_en": "He studies at a secondary school."
  },
  {
   "id": "l2-096",
@@ -1053,7 +1243,9 @@
   "pinyin": "xuéyuàn",
   "pos": "N",
   "gloss": "college",
-  "km": "មហាវិទ្យាល័យ"
+  "km": "មហាវិទ្យាល័យ",
+  "ex": "哥哥在音樂學院念書。",
+  "ex_en": "My older brother studies at a music college."
  },
  {
   "id": "l2-097",
@@ -1064,7 +1256,9 @@
   "pinyin": "dàxuéshēng",
   "pos": "N",
   "gloss": "university student",
-  "km": "និស្សិត"
+  "km": "និស្សិត",
+  "ex": "我姐姐是大學生。",
+  "ex_en": "My older sister is a university student."
  },
  {
   "id": "l2-098",
@@ -1075,7 +1269,9 @@
   "pinyin": "jiàoshòu",
   "pos": "N",
   "gloss": "professor",
-  "km": "សាស្ត្រាចារ្យ"
+  "km": "សាស្ត្រាចារ្យ",
+  "ex": "王教授的課很有意思。",
+  "ex_en": "Professor Wang's class is very interesting."
  },
  {
   "id": "l2-099",
@@ -1086,7 +1282,9 @@
   "pinyin": "fàngjià",
   "pos": "V-sep",
   "gloss": "to have a holiday",
-  "km": "ឈប់សម្រាក"
+  "km": "ឈប់សម្រាក",
+  "ex": "明天放假，我們去玩吧。",
+  "ex_en": "Tomorrow is a day off; let's go have fun."
  },
  {
   "id": "l2-100",
@@ -1097,7 +1295,9 @@
   "pinyin": "chūnjià",
   "pos": "N",
   "gloss": "spring vacation",
-  "km": "វិស្សមកាលរដូវផ្ការីក"
+  "km": "វិស្សមកាលរដូវផ្ការីក",
+  "ex": "春假我要回家看父母。",
+  "ex_en": "During spring break I'm going home to see my parents."
  },
  {
   "id": "l2-101",
@@ -1108,7 +1308,9 @@
   "pinyin": "shǔjià",
   "pos": "N",
   "gloss": "summer vacation",
-  "km": "វិស្សមកាលរដូវក្តៅ"
+  "km": "វិស្សមកាលរដូវក្តៅ",
+  "ex": "暑假我想去美國玩。",
+  "ex_en": "I want to travel to America during summer vacation."
  },
  {
   "id": "l2-102",
@@ -1119,7 +1321,9 @@
   "pinyin": "hánjià",
   "pos": "N",
   "gloss": "winter vacation",
-  "km": "វិស្សមកាលរដូវរងា"
+  "km": "វិស្សមកាលរដូវរងា",
+  "ex": "寒假我在家看書。",
+  "ex_en": "During winter vacation I read at home."
  },
  {
   "id": "l2-103",
@@ -1130,7 +1334,9 @@
   "pinyin": "jià",
   "pos": "N",
   "gloss": "vacation; leave",
-  "km": "វិស្សមកាល"
+  "km": "វិស្សមកាល",
+  "ex": "我明天想請一天假。",
+  "ex_en": "I'd like to take a day off tomorrow."
  },
  {
   "id": "l2-104",
@@ -1141,7 +1347,9 @@
   "pinyin": "bìyè",
   "pos": "Vp-sep",
   "gloss": "to graduate",
-  "km": "បញ្ចប់ការសិក្សា"
+  "km": "បញ្ចប់ការសិក្សា",
+  "ex": "我哥哥去年大學畢業。",
+  "ex_en": "My older brother graduated from university last year."
  },
  {
   "id": "l2-105",
@@ -1152,7 +1360,9 @@
   "pinyin": "xuéqí",
   "pos": "N",
   "gloss": "semester",
-  "km": "ឆមាស"
+  "km": "ឆមាស",
+  "ex": "這個學期我很忙。",
+  "ex_en": "I am very busy this semester."
  },
  {
   "id": "l2-106",
@@ -1163,7 +1373,9 @@
   "pinyin": "fúwù",
   "pos": "V",
   "gloss": "to serve",
-  "km": "បម្រើ"
+  "km": "បម្រើ",
+  "ex": "這家飯店的服務很好。",
+  "ex_en": "The service at this hotel is very good."
  },
  {
   "id": "l2-107",
@@ -1174,7 +1386,9 @@
   "pinyin": "shìyǒu",
   "pos": "N",
   "gloss": "roommate",
-  "km": "មិត្តរួមបន្ទប់"
+  "km": "មិត្តរួមបន្ទប់",
+  "ex": "我的室友是日本人。",
+  "ex_en": "My roommate is Japanese."
  },
  {
   "id": "l2-108",
@@ -1185,7 +1399,9 @@
   "pinyin": "cāochǎng",
   "pos": "N",
   "gloss": "sports field; playground",
-  "km": "ទីលានកីឡា"
+  "km": "ទីលានកីឡា",
+  "ex": "學生在操場上跑步。",
+  "ex_en": "The students are running on the sports field."
  },
  {
   "id": "l2-109",
@@ -1196,7 +1412,9 @@
   "pinyin": "xiàoyuán",
   "pos": "N",
   "gloss": "campus",
-  "km": "បរិវេណសាលា"
+  "km": "បរិវេណសាលា",
+  "ex": "我們的校園很漂亮。",
+  "ex_en": "Our campus is very beautiful."
  },
  {
   "id": "l2-110",
@@ -1207,7 +1425,9 @@
   "pinyin": "wèizi",
   "pos": "N",
   "gloss": "seat",
-  "km": "កន្លែងអង្គុយ"
+  "km": "កន្លែងអង្គុយ",
+  "ex": "這個位子有人坐嗎？",
+  "ex_en": "Is this seat taken?"
  },
  {
   "id": "l2-111",
@@ -1218,7 +1438,9 @@
   "pinyin": "shūzhuō",
   "pos": "N",
   "gloss": "desk",
-  "km": "តុសរសេរ"
+  "km": "តុសរសេរ",
+  "ex": "書桌上有很多書。",
+  "ex_en": "There are many books on the desk."
  },
  {
   "id": "l2-112",
@@ -1229,7 +1451,9 @@
   "pinyin": "shūbāo",
   "pos": "N",
   "gloss": "schoolbag",
-  "km": "កាបូបសៀវភៅ"
+  "km": "កាបូបសៀវភៅ",
+  "ex": "我的書包裡有三本書。",
+  "ex_en": "There are three books in my schoolbag."
  },
  {
   "id": "l2-113",
@@ -1240,7 +1464,9 @@
   "pinyin": "shūjià",
   "pos": "N",
   "gloss": "bookshelf",
-  "km": "ធ្នើសៀវភៅ"
+  "km": "ធ្នើសៀវភៅ",
+  "ex": "書架上放了很多書。",
+  "ex_en": "Many books are placed on the bookshelf."
  },
  {
   "id": "l2-114",
@@ -1251,7 +1477,9 @@
   "pinyin": "běnzi",
   "pos": "N",
   "gloss": "notebook",
-  "km": "សៀវភៅសរសេរ"
+  "km": "សៀវភៅសរសេរ",
+  "ex": "請把答案寫在本子上。",
+  "ex_en": "Please write the answers in your notebook."
  },
  {
   "id": "l2-115",
@@ -1262,7 +1490,9 @@
   "pinyin": "chǐ",
   "pos": "N",
   "gloss": "ruler",
-  "km": "បន្ទាត់"
+  "km": "បន្ទាត់",
+  "ex": "你可以借我一把尺嗎？",
+  "ex_en": "Can you lend me a ruler?"
  },
  {
   "id": "l2-116",
@@ -1273,7 +1503,9 @@
   "pinyin": "tǎolùn",
   "pos": "V",
   "gloss": "to discuss",
-  "km": "ពិភាក្សា"
+  "km": "ពិភាក្សា",
+  "ex": "我們一起討論這個問題。",
+  "ex_en": "Let's discuss this question together."
  },
  {
   "id": "l2-117",
@@ -1284,7 +1516,9 @@
   "pinyin": "tóngyì",
   "pos": "Vst",
   "gloss": "to agree",
-  "km": "យល់ព្រម"
+  "km": "យល់ព្រម",
+  "ex": "我同意你的看法。",
+  "ex_en": "I agree with your opinion."
  },
  {
   "id": "l2-118",
@@ -1295,7 +1529,9 @@
   "pinyin": "liǎojiě",
   "pos": "Vst",
   "gloss": "to understand",
-  "km": "យល់ដឹង"
+  "km": "យល់ដឹង",
+  "ex": "媽媽最了解我。",
+  "ex_en": "Mom understands me best."
  },
  {
   "id": "l2-119",
@@ -1306,7 +1542,9 @@
   "pinyin": "wúliáo",
   "pos": "Vs",
   "gloss": "boring; bored",
-  "km": "អផ្សុក"
+  "km": "អផ្សុក",
+  "ex": "假日在家很無聊。",
+  "ex_en": "Staying home on holidays is boring."
  },
  {
   "id": "l2-120",
@@ -1317,7 +1555,9 @@
   "pinyin": "yǒuqù",
   "pos": "Vs",
   "gloss": "interesting",
-  "km": "គួរឱ្យចាប់អារម្មណ៍"
+  "km": "គួរឱ្យចាប់អារម្មណ៍",
+  "ex": "這本書很有趣。",
+  "ex_en": "This book is very interesting."
  },
  {
   "id": "l2-121",
@@ -1328,7 +1568,9 @@
   "pinyin": "yǒuyìsi",
   "pos": "Vs",
   "gloss": "interesting",
-  "km": "គួរឱ្យចាប់អារម្មណ៍"
+  "km": "គួរឱ្យចាប់អារម្មណ៍",
+  "ex": "這個遊戲很有意思。",
+  "ex_en": "This game is very interesting."
  },
  {
   "id": "l2-122",
@@ -1339,7 +1581,9 @@
   "pinyin": "yuányīn",
   "pos": "N",
   "gloss": "reason; cause",
-  "km": "មូលហេតុ"
+  "km": "មូលហេតុ",
+  "ex": "你知道原因是什麼嗎？",
+  "ex_en": "Do you know what the reason is?"
  },
  {
   "id": "l2-123",
@@ -1350,7 +1594,9 @@
   "pinyin": "biàn",
   "pos": "M",
   "gloss": "measure word for times",
-  "km": "ដង"
+  "km": "ដង",
+  "ex": "請你再說一遍。",
+  "ex_en": "Please say it one more time."
  },
  {
   "id": "l2-124",
@@ -1361,7 +1607,9 @@
   "pinyin": "gǎi",
   "pos": "V",
   "gloss": "to change; to correct",
-  "km": "កែ"
+  "km": "កែ",
+  "ex": "老師幫我改作文。",
+  "ex_en": "The teacher helped me correct my essay."
  },
  {
   "id": "l2-125",
@@ -1372,7 +1620,9 @@
   "pinyin": "wàngjì",
   "pos": "Vpt",
   "gloss": "to forget",
-  "km": "ភ្លេច"
+  "km": "ភ្លេច",
+  "ex": "我忘記帶手機了。",
+  "ex_en": "I forgot to bring my phone."
  },
  {
   "id": "l2-126",
@@ -1383,7 +1633,9 @@
   "pinyin": "chéngdù",
   "pos": "N",
   "gloss": "level; degree",
-  "km": "កម្រិត"
+  "km": "កម្រិត",
+  "ex": "他的中文程度很高。",
+  "ex_en": "His Chinese level is very high."
  },
  {
   "id": "l2-127",
@@ -1394,7 +1646,9 @@
   "pinyin": "gǎnkuài",
   "pos": "Adv",
   "gloss": "quickly; hurry up",
-  "km": "ប្រញាប់ឡើង"
+  "km": "ប្រញាប់ឡើង",
+  "ex": "快遲到了，趕快走吧！",
+  "ex_en": "We're almost late; hurry up and go!"
  },
  {
   "id": "l2-128",
@@ -1405,7 +1659,9 @@
   "pinyin": "yǐshàng",
   "pos": "N",
   "gloss": "above; more than",
-  "km": "ឡើងទៅ"
+  "km": "ឡើងទៅ",
+  "ex": "十歲以上才可以玩。",
+  "ex_en": "Only those ten and above may play."
  },
  {
   "id": "l2-129",
@@ -1416,7 +1672,9 @@
   "pinyin": "yǐxià",
   "pos": "N",
   "gloss": "below; less than",
-  "km": "ចុះក្រោម"
+  "km": "ចុះក្រោម",
+  "ex": "五歲以下不用買票。",
+  "ex_en": "Children under five don't need a ticket."
  },
  {
   "id": "l2-130",
@@ -1427,7 +1685,9 @@
   "pinyin": "yìjiàn",
   "pos": "N",
   "gloss": "opinion",
-  "km": "យោបល់"
+  "km": "យោបល់",
+  "ex": "大家都有不同的意見。",
+  "ex_en": "Everyone has different opinions."
  },
  {
   "id": "l2-131",
@@ -1438,7 +1698,9 @@
   "pinyin": "yònggōng",
   "pos": "Vs",
   "gloss": "hardworking; studious",
-  "km": "ឧស្សាហ៍រៀន"
+  "km": "ឧស្សាហ៍រៀន",
+  "ex": "他念書很用功。",
+  "ex_en": "He studies very hard."
  },
  {
   "id": "l2-132",
@@ -1449,7 +1711,9 @@
   "pinyin": "yánjiù",
   "pos": "N / V",
   "gloss": "research; to research",
-  "km": "ស្រាវជ្រាវ"
+  "km": "ស្រាវជ្រាវ",
+  "ex": "王教授研究中國歷史。",
+  "ex_en": "Professor Wang researches Chinese history."
  },
  {
   "id": "l2-133",
@@ -1460,7 +1724,9 @@
   "pinyin": "jiàoyù",
   "pos": "N / V",
   "gloss": "education; to educate",
-  "km": "ការអប់រំ"
+  "km": "ការអប់រំ",
+  "ex": "孩子的教育很重要。",
+  "ex_en": "Children's education is very important."
  },
  {
   "id": "l2-134",
@@ -1471,7 +1737,9 @@
   "pinyin": "xuǎnzé",
   "pos": "N / V",
   "gloss": "choice; to choose",
-  "km": "ជម្រើស"
+  "km": "ជម្រើស",
+  "ex": "這是你自己的選擇。",
+  "ex_en": "This is your own choice."
  },
  {
   "id": "l2-135",
@@ -1482,7 +1750,9 @@
   "pinyin": "jiànyì",
   "pos": "N / V",
   "gloss": "suggestion; to suggest",
-  "km": "សំណើ"
+  "km": "សំណើ",
+  "ex": "我建議你早點睡覺。",
+  "ex_en": "I suggest you go to bed earlier."
  },
  {
   "id": "l2-136",
@@ -1493,7 +1763,9 @@
   "pinyin": "zhīshì",
   "pos": "N",
   "gloss": "knowledge",
-  "km": "ចំណេះដឹង"
+  "km": "ចំណេះដឹង",
+  "ex": "看書能學到很多知識。",
+  "ex_en": "Reading books lets you gain a lot of knowledge."
  },
  {
   "id": "l2-137",
@@ -1504,7 +1776,9 @@
   "pinyin": "zuò",
   "pos": "M",
   "gloss": "measure word for buildings, mountains",
-  "km": "ខ្នង"
+  "km": "ខ្នង",
+  "ex": "那裡有一座大山。",
+  "ex_en": "There is a big mountain over there."
  },
  {
   "id": "l2-138",
@@ -1515,7 +1789,9 @@
   "pinyin": "wòshì",
   "pos": "N",
   "gloss": "bedroom",
-  "km": "បន្ទប់គេង"
+  "km": "បន្ទប់គេង",
+  "ex": "我的臥室不大，但很乾淨。",
+  "ex_en": "My bedroom isn't big, but it's very clean."
  },
  {
   "id": "l2-139",
@@ -1526,7 +1802,9 @@
   "pinyin": "wòfáng",
   "pos": "N",
   "gloss": "bedroom",
-  "km": "បន្ទប់គេង"
+  "km": "បន្ទប់គេង",
+  "ex": "這間臥房有兩張床。",
+  "ex_en": "This bedroom has two beds."
  },
  {
   "id": "l2-140",
@@ -1537,7 +1815,9 @@
   "pinyin": "yùshì",
   "pos": "N",
   "gloss": "bathroom",
-  "km": "បន្ទប់ទឹក"
+  "km": "បន្ទប់ទឹក",
+  "ex": "他正在浴室洗澡。",
+  "ex_en": "He is taking a shower in the bathroom."
  },
  {
   "id": "l2-141",
@@ -1548,7 +1828,9 @@
   "pinyin": "yuàn(zi)",
   "pos": "N",
   "gloss": "courtyard; yard",
-  "km": "ទីធ្លា"
+  "km": "ទីធ្លា",
+  "ex": "孩子們在院子裡玩。",
+  "ex_en": "The children are playing in the yard."
  },
  {
   "id": "l2-142",
@@ -1559,7 +1841,9 @@
   "pinyin": "shūfáng",
   "pos": "N",
   "gloss": "study room",
-  "km": "បន្ទប់សិក្សា"
+  "km": "បន្ទប់សិក្សា",
+  "ex": "爸爸在書房看書。",
+  "ex_en": "Dad is reading in the study."
  },
  {
   "id": "l2-143",
@@ -1570,7 +1854,9 @@
   "pinyin": "xǐyījī",
   "pos": "N",
   "gloss": "washing machine",
-  "km": "ម៉ាស៊ីនបោកគក់"
+  "km": "ម៉ាស៊ីនបោកគក់",
+  "ex": "我用洗衣機洗衣服。",
+  "ex_en": "I wash clothes with the washing machine."
  },
  {
   "id": "l2-144",
@@ -1581,7 +1867,9 @@
   "pinyin": "cānzhuō",
   "pos": "N",
   "gloss": "dining table",
-  "km": "តុបាយ"
+  "km": "តុបាយ",
+  "ex": "餐桌上有很多菜。",
+  "ex_en": "There are many dishes on the dining table."
  },
  {
   "id": "l2-145",
@@ -1592,7 +1880,9 @@
   "pinyin": "dǎkāi",
   "pos": "Vp",
   "gloss": "to open; to turn on",
-  "km": "បើក"
+  "km": "បើក",
+  "ex": "請你打開窗戶。",
+  "ex_en": "Please open the window."
  },
  {
   "id": "l2-146",
@@ -1603,7 +1893,9 @@
   "pinyin": "xiāng /xiāng(zi)",
   "pos": "M / N",
   "gloss": "box; measure word for boxes",
-  "km": "ប្រអប់"
+  "km": "ប្រអប់",
+  "ex": "這個箱子裡是舊書。",
+  "ex_en": "This box is full of old books."
  },
  {
   "id": "l2-147",
@@ -1614,7 +1906,9 @@
   "pinyin": "céng",
   "pos": "M",
   "gloss": "measure word for floors, layers",
-  "km": "ជាន់"
+  "km": "ជាន់",
+  "ex": "這個大樓有十層。",
+  "ex_en": "This building has ten floors."
  },
  {
   "id": "l2-148",
@@ -1625,7 +1919,9 @@
   "pinyin": "guì(zi)",
   "pos": "N",
   "gloss": "cabinet",
-  "km": "ទូ"
+  "km": "ទូ",
+  "ex": "衣服都放在櫃子裡。",
+  "ex_en": "The clothes are all in the cabinet."
  },
  {
   "id": "l2-149",
@@ -1636,7 +1932,9 @@
   "pinyin": "dàmén",
   "pos": "N",
   "gloss": "main gate",
-  "km": "ទ្វារធំ"
+  "km": "ទ្វារធំ",
+  "ex": "學校大門前有很多人。",
+  "ex_en": "There are many people in front of the school gate."
  },
  {
   "id": "l2-150",
@@ -1647,7 +1945,9 @@
   "pinyin": "línjū",
   "pos": "N",
   "gloss": "neighbor",
-  "km": "អ្នកជិតខាង"
+  "km": "អ្នកជិតខាង",
+  "ex": "我們的鄰居人很好。",
+  "ex_en": "Our neighbors are very nice."
  },
  {
   "id": "l2-151",
@@ -1658,7 +1958,9 @@
   "pinyin": "rènao",
   "pos": "Vs",
   "gloss": "lively; bustling",
-  "km": "អ៊ូអរ"
+  "km": "អ៊ូអរ",
+  "ex": "過年的時候很熱鬧。",
+  "ex_en": "It's very lively during the New Year."
  },
  {
   "id": "l2-152",
@@ -1669,7 +1971,9 @@
   "pinyin": "chǎo",
   "pos": "Vs",
   "gloss": "noisy",
-  "km": "រំខាន"
+  "km": "រំខាន",
+  "ex": "外面太吵了，我睡不著。",
+  "ex_en": "It's too noisy outside; I can't sleep."
  },
  {
   "id": "l2-153",
@@ -1680,7 +1984,9 @@
   "pinyin": "luàn",
   "pos": "Vs",
   "gloss": "messy; chaotic",
-  "km": "រញ៉េរញ៉ៃ"
+  "km": "រញ៉េរញ៉ៃ",
+  "ex": "你的房間太亂了。",
+  "ex_en": "Your room is too messy."
  },
  {
   "id": "l2-154",
@@ -1691,7 +1997,9 @@
   "pinyin": "fángdōng",
   "pos": "N",
   "gloss": "landlord",
-  "km": "ម្ចាស់ផ្ទះ"
+  "km": "ម្ចាស់ផ្ទះ",
+  "ex": "房東人很好，常幫助我。",
+  "ex_en": "The landlord is very nice and often helps me."
  },
  {
   "id": "l2-155",
@@ -1702,7 +2010,9 @@
   "pinyin": "fángwū",
   "pos": "N",
   "gloss": "house; building",
-  "km": "ផ្ទះ"
+  "km": "ផ្ទះ",
+  "ex": "這裡的房屋都很舊。",
+  "ex_en": "The houses here are all very old."
  },
  {
   "id": "l2-156",
@@ -1713,7 +2023,9 @@
   "pinyin": "bānjiā",
   "pos": "V-sep",
   "gloss": "to move house",
-  "km": "ផ្លាស់ផ្ទះ"
+  "km": "ផ្លាស់ផ្ទះ",
+  "ex": "我們下個月要搬家。",
+  "ex_en": "We are moving next month."
  },
  {
   "id": "l2-157",
@@ -1724,7 +2036,9 @@
   "pinyin": "kāishuǐ",
   "pos": "N",
   "gloss": "boiled water",
-  "km": "ទឹកឆ្អិន"
+  "km": "ទឹកឆ្អិន",
+  "ex": "多喝開水，對身體好。",
+  "ex_en": "Drink more boiled water; it's good for your health."
  },
  {
   "id": "l2-158",
@@ -1735,7 +2049,9 @@
   "pinyin": "xiāngxià",
   "pos": "N",
   "gloss": "countryside",
-  "km": "ជនបទ"
+  "km": "ជនបទ",
+  "ex": "外婆住在鄉下。",
+  "ex_en": "Grandma lives in the countryside."
  },
  {
   "id": "l2-159",
@@ -1746,7 +2062,9 @@
   "pinyin": "sǎn",
   "pos": "N",
   "gloss": "umbrella",
-  "km": "ឆ័ត្រ"
+  "km": "ឆ័ត្រ",
+  "ex": "出門別忘了帶傘。",
+  "ex_en": "Don't forget to take an umbrella when you go out."
  },
  {
   "id": "l2-160",
@@ -1757,7 +2075,9 @@
   "pinyin": "duǒ",
   "pos": "M",
   "gloss": "measure word for flowers, clouds",
-  "km": "ទង"
+  "km": "ទង",
+  "ex": "他送我一朵花。",
+  "ex_en": "He gave me a flower."
  },
  {
   "id": "l2-161",
@@ -1768,7 +2088,9 @@
   "pinyin": "wén(zi)",
   "pos": "N",
   "gloss": "mosquito",
-  "km": "មូស"
+  "km": "មូស",
+  "ex": "房間裡有一隻蚊子。",
+  "ex_en": "There is a mosquito in the room."
  },
  {
   "id": "l2-162",
@@ -1779,7 +2101,9 @@
   "pinyin": "zìrán",
   "pos": "Vs",
   "gloss": "natural",
-  "km": "ធម្មជាតិ"
+  "km": "ធម្មជាតិ",
+  "ex": "鄉下的自然環境很好。",
+  "ex_en": "The natural environment in the countryside is very good."
  },
  {
   "id": "l2-163",
@@ -1790,7 +2114,9 @@
   "pinyin": "yuèliàng",
   "pos": "N",
   "gloss": "moon",
-  "km": "ព្រះច័ន្ទ"
+  "km": "ព្រះច័ន្ទ",
+  "ex": "今天晚上的月亮很大。",
+  "ex_en": "The moon is very big tonight."
  },
  {
   "id": "l2-164",
@@ -1801,7 +2127,9 @@
   "pinyin": "xīngxing",
   "pos": "N",
   "gloss": "star",
-  "km": "ផ្កាយ"
+  "km": "ផ្កាយ",
+  "ex": "天上有很多星星。",
+  "ex_en": "There are many stars in the sky."
  },
  {
   "id": "l2-165",
@@ -1812,7 +2140,9 @@
   "pinyin": "huánjìng",
   "pos": "N",
   "gloss": "environment",
-  "km": "បរិស្ថាន"
+  "km": "បរិស្ថាន",
+  "ex": "這裡的環境很安靜。",
+  "ex_en": "The environment here is very quiet."
  },
  {
   "id": "l2-166",
@@ -1823,7 +2153,9 @@
   "pinyin": "qíngtiān",
   "pos": "N",
   "gloss": "sunny day",
-  "km": "ថ្ងៃស្រឡះ"
+  "km": "ថ្ងៃស្រឡះ",
+  "ex": "明天是晴天，我們去野餐吧。",
+  "ex_en": "Tomorrow will be sunny; let's go on a picnic."
  },
  {
   "id": "l2-167",
@@ -1834,7 +2166,9 @@
   "pinyin": "nuǎnhuo",
   "pos": "Vs",
   "gloss": "warm",
-  "km": "កក់ក្តៅ"
+  "km": "កក់ក្តៅ",
+  "ex": "今天天氣很暖和。",
+  "ex_en": "The weather is very warm today."
  },
  {
   "id": "l2-168",
@@ -1845,7 +2179,9 @@
   "pinyin": "liángkuài",
   "pos": "Vs",
   "gloss": "pleasantly cool",
-  "km": "ត្រជាក់ស្រួល"
+  "km": "ត្រជាក់ស្រួល",
+  "ex": "山上比較涼快。",
+  "ex_en": "It's cooler up in the mountains."
  },
  {
   "id": "l2-169",
@@ -1856,7 +2192,9 @@
   "pinyin": "liáng",
   "pos": "Vs",
   "gloss": "cool",
-  "km": "ត្រជាក់"
+  "km": "ត្រជាក់",
+  "ex": "晚上的風很涼。",
+  "ex_en": "The evening wind is cool."
  },
  {
   "id": "l2-170",
@@ -1867,7 +2205,9 @@
   "pinyin": "gān",
   "pos": "Vp",
   "gloss": "to become dry",
-  "km": "ស្ងួត"
+  "km": "ស្ងួត",
+  "ex": "衣服還沒乾，不能穿。",
+  "ex_en": "The clothes aren't dry yet, so you can't wear them."
  },
  {
   "id": "l2-171",
@@ -1878,7 +2218,9 @@
   "pinyin": "shī",
   "pos": "Vs",
   "gloss": "wet",
-  "km": "សើម"
+  "km": "សើម",
+  "ex": "我的鞋子都濕了。",
+  "ex_en": "My shoes are all wet."
  },
  {
   "id": "l2-172",
@@ -1889,7 +2231,9 @@
   "pinyin": "dù",
   "pos": "M",
   "gloss": "measure word for degrees",
-  "km": "អង្សា"
+  "km": "អង្សា",
+  "ex": "今天有三十五度，好熱！",
+  "ex_en": "It's thirty-five degrees today—so hot!"
  },
  {
   "id": "l2-173",
@@ -1900,7 +2244,9 @@
   "pinyin": "táifēng",
   "pos": "N",
   "gloss": "typhoon",
-  "km": "ព្យុះទីហ្វុង"
+  "km": "ព្យុះទីហ្វុង",
+  "ex": "颱風要來了，別出門。",
+  "ex_en": "A typhoon is coming; don't go out."
  },
  {
   "id": "l2-174",
@@ -1911,7 +2257,9 @@
   "pinyin": "jìjié",
   "pos": "N",
   "gloss": "season",
-  "km": "រដូវ"
+  "km": "រដូវ",
+  "ex": "你最喜歡哪個季節？",
+  "ex_en": "Which season do you like best?"
  },
  {
   "id": "l2-175",
@@ -1922,7 +2270,9 @@
   "pinyin": "huánbǎo",
   "pos": "N",
   "gloss": "environmental protection",
-  "km": "ការការពារបរិស្ថាន"
+  "km": "ការការពារបរិស្ថាន",
+  "ex": "騎腳踏車很環保。",
+  "ex_en": "Riding a bicycle is good for the environment."
  },
  {
   "id": "l2-176",
@@ -1933,7 +2283,9 @@
   "pinyin": "lèsè",
   "pos": "N",
   "gloss": "garbage",
-  "km": "សំរាម"
+  "km": "សំរាម",
+  "ex": "請把垃圾拿出去丟。",
+  "ex_en": "Please take the garbage out and throw it away."
  },
  {
   "id": "l2-177",
@@ -1944,7 +2296,9 @@
   "pinyin": "wūrǎn",
   "pos": "V",
   "gloss": "to pollute",
-  "km": "បំពុល"
+  "km": "បំពុល",
+  "ex": "河水被汙染了。",
+  "ex_en": "The river water has been polluted."
  },
  {
   "id": "l2-178",
@@ -1955,7 +2309,9 @@
   "pinyin": "dǐ",
   "pos": "N",
   "gloss": "bottom; end",
-  "km": "បាត"
+  "km": "បាត",
+  "ex": "海底有很多魚。",
+  "ex_en": "There are many fish at the bottom of the sea."
  },
  {
   "id": "l2-179",
@@ -1966,7 +2322,9 @@
   "pinyin": "dǐxia",
   "pos": "N",
   "gloss": "underneath",
-  "km": "ខាងក្រោម"
+  "km": "ខាងក្រោម",
+  "ex": "貓在桌子底下睡覺。",
+  "ex_en": "The cat is sleeping under the table."
  },
  {
   "id": "l2-180",
@@ -1977,7 +2335,9 @@
   "pinyin": "nèi",
   "pos": "N",
   "gloss": "inside; within",
-  "km": "ខាងក្នុង"
+  "km": "ខាងក្នុង",
+  "ex": "三天內要寫完報告。",
+  "ex_en": "The report must be finished within three days."
  },
  {
   "id": "l2-181",
@@ -1988,7 +2348,9 @@
   "pinyin": "shēn",
   "pos": "Vs",
   "gloss": "deep",
-  "km": "ជ្រៅ"
+  "km": "ជ្រៅ",
+  "ex": "這裡的水很深，小心！",
+  "ex_en": "The water here is very deep—be careful!"
  },
  {
   "id": "l2-182",
@@ -1999,7 +2361,9 @@
   "pinyin": "qiǎn",
   "pos": "Vs",
   "gloss": "shallow",
-  "km": "រាក់"
+  "km": "រាក់",
+  "ex": "這條河的水很淺。",
+  "ex_en": "The water in this river is very shallow."
  },
  {
   "id": "l2-183",
@@ -2010,7 +2374,9 @@
   "pinyin": "fāshēng",
   "pos": "Vpt",
   "gloss": "to happen",
-  "km": "កើតឡើង"
+  "km": "កើតឡើង",
+  "ex": "昨天發生了什麼事？",
+  "ex_en": "What happened yesterday?"
  },
  {
   "id": "l2-184",
@@ -2021,7 +2387,9 @@
   "pinyin": "zhàogù",
   "pos": "V",
   "gloss": "to take care of",
-  "km": "ថែទាំ"
+  "km": "ថែទាំ",
+  "ex": "謝謝你照顧我的貓。",
+  "ex_en": "Thank you for taking care of my cat."
  },
  {
   "id": "l2-185",
@@ -2032,7 +2400,9 @@
   "pinyin": "shēnghuó",
   "pos": "N",
   "gloss": "life",
-  "km": "ការរស់នៅ"
+  "km": "ការរស់នៅ",
+  "ex": "我在台灣的生活很快樂。",
+  "ex_en": "My life in Taiwan is very happy."
  },
  {
   "id": "l2-186",
@@ -2043,7 +2413,9 @@
   "pinyin": "rìjì",
   "pos": "N",
   "gloss": "diary",
-  "km": "កំណត់ហេតុប្រចាំថ្ងៃ"
+  "km": "កំណត់ហេតុប្រចាំថ្ងៃ",
+  "ex": "她每天都寫日記。",
+  "ex_en": "She writes in her diary every day."
  },
  {
   "id": "l2-187",
@@ -2054,7 +2426,9 @@
   "pinyin": "liú",
   "pos": "V",
   "gloss": "to flow",
-  "km": "ហូរ"
+  "km": "ហូរ",
+  "ex": "河水慢慢地流。",
+  "ex_en": "The river flows slowly."
  },
  {
   "id": "l2-188",
@@ -2065,7 +2439,9 @@
   "pinyin": "liúhàn",
   "pos": "V-sep",
   "gloss": "to sweat",
-  "km": "បែកញើស"
+  "km": "បែកញើស",
+  "ex": "天氣熱，他一直流汗。",
+  "ex_en": "The weather is hot, and he keeps sweating."
  },
  {
   "id": "l2-189",
@@ -2076,7 +2452,9 @@
   "pinyin": "mèng",
   "pos": "N",
   "gloss": "dream",
-  "km": "សុបិន"
+  "km": "សុបិន",
+  "ex": "我昨天做了一個夢。",
+  "ex_en": "I had a dream last night."
  },
  {
   "id": "l2-190",
@@ -2087,7 +2465,9 @@
   "pinyin": "zhěntou",
   "pos": "N",
   "gloss": "pillow",
-  "km": "ខ្នើយ"
+  "km": "ខ្នើយ",
+  "ex": "我睡覺要用兩個枕頭。",
+  "ex_en": "I need two pillows to sleep."
  },
  {
   "id": "l2-191",
@@ -2098,7 +2478,9 @@
   "pinyin": "nàozhōng",
   "pos": "N",
   "gloss": "alarm clock",
-  "km": "នាឡិការោទ៍"
+  "km": "នាឡិការោទ៍",
+  "ex": "我用手機當鬧鐘。",
+  "ex_en": "I use my phone as an alarm clock."
  },
  {
   "id": "l2-192",
@@ -2109,7 +2491,9 @@
   "pinyin": "tuōxié",
   "pos": "N",
   "gloss": "slippers",
-  "km": "ស្បែកជើងផ្ទាត់"
+  "km": "ស្បែកជើងផ្ទាត់",
+  "ex": "進門請換拖鞋。",
+  "ex_en": "Please change into slippers when you come in."
  },
  {
   "id": "l2-193",
@@ -2120,7 +2504,9 @@
   "pinyin": "máojīn",
   "pos": "N",
   "gloss": "towel",
-  "km": "កន្សែង"
+  "km": "កន្សែង",
+  "ex": "浴室裡有乾淨的毛巾。",
+  "ex_en": "There are clean towels in the bathroom."
  },
  {
   "id": "l2-194",
@@ -2131,7 +2517,9 @@
   "pinyin": "shuā(zi)/shuā",
   "pos": "N / V",
   "gloss": "brush; to brush",
-  "km": "ច្រាស; ដុស"
+  "km": "ច្រាស; ដុស",
+  "ex": "我每天刷牙兩次。",
+  "ex_en": "I brush my teeth twice a day."
  },
  {
   "id": "l2-195",
@@ -2142,7 +2530,9 @@
   "pinyin": "féizào",
   "pos": "N",
   "gloss": "soap",
-  "km": "សាប៊ូ"
+  "km": "សាប៊ូ",
+  "ex": "用肥皂洗手比較乾淨。",
+  "ex_en": "Washing hands with soap is cleaner."
  },
  {
   "id": "l2-196",
@@ -2153,7 +2543,9 @@
   "pinyin": "yágāo",
   "pos": "N",
   "gloss": "toothpaste",
-  "km": "ថ្នាំដុសធ្មេញ"
+  "km": "ថ្នាំដុសធ្មេញ",
+  "ex": "牙膏用完了，要買新的。",
+  "ex_en": "The toothpaste is used up; we need to buy a new one."
  },
  {
   "id": "l2-197",
@@ -2164,7 +2556,9 @@
   "pinyin": "wèishēngzhǐ",
   "pos": "N",
   "gloss": "toilet paper",
-  "km": "ក្រដាសអនាម័យ"
+  "km": "ក្រដាសអនាម័យ",
+  "ex": "浴室裡沒有衛生紙了。",
+  "ex_en": "There is no more toilet paper in the bathroom."
  },
  {
   "id": "l2-198",
@@ -2175,7 +2569,9 @@
   "pinyin": "lán(zi)",
   "pos": "N",
   "gloss": "basket",
-  "km": "កន្ត្រក"
+  "km": "កន្ត្រក",
+  "ex": "籃子裡有很多水果。",
+  "ex_en": "There is a lot of fruit in the basket."
  },
  {
   "id": "l2-199",
@@ -2186,7 +2582,9 @@
   "pinyin": "jiàrì",
   "pos": "N",
   "gloss": "holiday; day off",
-  "km": "ថ្ងៃឈប់សម្រាក"
+  "km": "ថ្ងៃឈប់សម្រាក",
+  "ex": "假日的時候人很多。",
+  "ex_en": "There are a lot of people on holidays."
  },
  {
   "id": "l2-200",
@@ -2197,7 +2595,9 @@
   "pinyin": "jiéshù",
   "pos": "Vp",
   "gloss": "to end",
-  "km": "បញ្ចប់"
+  "km": "បញ្ចប់",
+  "ex": "考試十點結束。",
+  "ex_en": "The exam ends at ten o'clock."
  },
  {
   "id": "l2-201",
@@ -2208,7 +2608,9 @@
   "pinyin": "wán",
   "pos": "Vp",
   "gloss": "to finish",
-  "km": "ចប់"
+  "km": "ចប់",
+  "ex": "功課我都寫完了。",
+  "ex_en": "I have finished all my homework."
  },
  {
   "id": "l2-202",
@@ -2219,7 +2621,9 @@
   "pinyin": "sànbù",
   "pos": "V-sep",
   "gloss": "to take a walk",
-  "km": "ដើរលេង"
+  "km": "ដើរលេង",
+  "ex": "晚飯後我們去公園散步。",
+  "ex_en": "After dinner we take a walk in the park."
  },
  {
   "id": "l2-203",
@@ -2230,7 +2634,9 @@
   "pinyin": "mànpǎo",
   "pos": "Vi",
   "gloss": "to jog",
-  "km": "រត់ហាត់ប្រាណ"
+  "km": "រត់ហាត់ប្រាណ",
+  "ex": "他每天早上去慢跑。",
+  "ex_en": "He goes jogging every morning."
  },
  {
   "id": "l2-204",
@@ -2241,7 +2647,9 @@
   "pinyin": "yěcān",
   "pos": "Vi",
   "gloss": "to picnic",
-  "km": "ពិកនិក"
+  "km": "ពិកនិក",
+  "ex": "我們星期天去野餐吧！",
+  "ex_en": "Let's go on a picnic this Sunday!"
  },
  {
   "id": "l2-205",
@@ -2252,7 +2660,9 @@
   "pinyin": "pá",
   "pos": "Vi",
   "gloss": "to climb; to crawl",
-  "km": "វារ; ឡើង"
+  "km": "វារ; ឡើង",
+  "ex": "我們星期六去爬山。",
+  "ex_en": "We are going mountain climbing on Saturday."
  },
  {
   "id": "l2-206",
@@ -2263,7 +2673,9 @@
   "pinyin": "pāi",
   "pos": "V",
   "gloss": "to pat; to take (photos)",
-  "km": "ទះ; ថត"
+  "km": "ទះ; ថត",
+  "ex": "我幫你們拍一張照片。",
+  "ex_en": "Let me take a photo for you."
  },
  {
   "id": "l2-207",
@@ -2274,7 +2686,9 @@
   "pinyin": "zhuā",
   "pos": "V",
   "gloss": "to grab; to catch",
-  "km": "ចាប់"
+  "km": "ចាប់",
+  "ex": "弟弟抓到了一隻小魚。",
+  "ex_en": "My little brother caught a small fish."
  },
  {
   "id": "l2-208",
@@ -2285,7 +2699,9 @@
   "pinyin": "zuòwèi",
   "pos": "N",
   "gloss": "seat",
-  "km": "កន្លែងអង្គុយ"
+  "km": "កន្លែងអង្គុយ",
+  "ex": "車上還有很多座位。",
+  "ex_en": "There are still many seats on the bus."
  },
  {
   "id": "l2-209",
@@ -2296,7 +2712,9 @@
   "pinyin": "xīnwén",
   "pos": "N",
   "gloss": "news",
-  "km": "ព័ត៌មាន"
+  "km": "ព័ត៌មាន",
+  "ex": "爸爸每天早上看新聞。",
+  "ex_en": "Dad watches the news every morning."
  },
  {
   "id": "l2-210",
@@ -2307,7 +2725,9 @@
   "pinyin": "tǐyù",
   "pos": "N",
   "gloss": "physical education; sports",
-  "km": "កីឡា"
+  "km": "កីឡា",
+  "ex": "我最喜歡上體育課。",
+  "ex_en": "I like PE class the most."
  },
  {
   "id": "l2-211",
@@ -2318,7 +2738,9 @@
   "pinyin": "jīngcháng",
   "pos": "Adv",
   "gloss": "often",
-  "km": "ជាញឹកញាប់"
+  "km": "ជាញឹកញាប់",
+  "ex": "他經常去圖書館看書。",
+  "ex_en": "He often goes to the library to read."
  },
  {
   "id": "l2-212",
@@ -2329,7 +2751,9 @@
   "pinyin": "zázhì",
   "pos": "N",
   "gloss": "magazine",
-  "km": "ទស្សនាវដ្តី"
+  "km": "ទស្សនាវដ្តី",
+  "ex": "桌上有幾本新雜誌。",
+  "ex_en": "There are a few new magazines on the table."
  },
  {
   "id": "l2-213",
@@ -2340,7 +2764,9 @@
   "pinyin": "měishù",
   "pos": "N",
   "gloss": "fine arts",
-  "km": "វិចិត្រសិល្បៈ"
+  "km": "វិចិត្រសិល្បៈ",
+  "ex": "我喜歡上美術課。",
+  "ex_en": "I like art class."
  },
  {
   "id": "l2-214",
@@ -2351,7 +2777,9 @@
   "pinyin": "huàjiā",
   "pos": "N",
   "gloss": "painter",
-  "km": "វិចិត្រករ"
+  "km": "វិចិត្រករ",
+  "ex": "這位畫家的畫很有名。",
+  "ex_en": "This painter's paintings are very famous."
  },
  {
   "id": "l2-215",
@@ -2362,7 +2790,9 @@
   "pinyin": "xìngqù",
   "pos": "N",
   "gloss": "interest; hobby",
-  "km": "ចំណង់ចំណូលចិត្ត"
+  "km": "ចំណង់ចំណូលចិត្ត",
+  "ex": "我對音樂很有興趣。",
+  "ex_en": "I am very interested in music."
  },
  {
   "id": "l2-216",
@@ -2373,7 +2803,9 @@
   "pinyin": "shōu",
   "pos": "V",
   "gloss": "to receive; to collect",
-  "km": "ទទួល"
+  "km": "ទទួល",
+  "ex": "我收到了他的信。",
+  "ex_en": "I received his letter."
  },
  {
   "id": "l2-217",
@@ -2384,7 +2816,9 @@
   "pinyin": "tán",
   "pos": "V",
   "gloss": "to talk about",
-  "km": "ជជែក"
+  "km": "ជជែក",
+  "ex": "我想跟你談一件事。",
+  "ex_en": "I want to talk with you about something."
  },
  {
   "id": "l2-218",
@@ -2395,7 +2829,9 @@
   "pinyin": "liáo",
   "pos": "V",
   "gloss": "to chat",
-  "km": "ជជែកលេង"
+  "km": "ជជែកលេង",
+  "ex": "我們坐下來聊一聊吧。",
+  "ex_en": "Let's sit down and have a chat."
  },
  {
   "id": "l2-219",
@@ -2406,7 +2842,9 @@
   "pinyin": "chídào",
   "pos": "Vp",
   "gloss": "to arrive late",
-  "km": "មកយឺត"
+  "km": "មកយឺត",
+  "ex": "對不起，我今天遲到了。",
+  "ex_en": "Sorry, I was late today."
  },
  {
   "id": "l2-220",
@@ -2417,7 +2855,9 @@
   "pinyin": "yuèqì",
   "pos": "N",
   "gloss": "musical instrument",
-  "km": "ឧបករណ៍តន្ត្រី"
+  "km": "ឧបករណ៍តន្ត្រី",
+  "ex": "我想學一種樂器。",
+  "ex_en": "I want to learn a musical instrument."
  },
  {
   "id": "l2-221",
@@ -2428,7 +2868,9 @@
   "pinyin": "jítā",
   "pos": "N",
   "gloss": "guitar",
-  "km": "ហ្គីតា"
+  "km": "ហ្គីតា",
+  "ex": "這把吉他是我哥哥的。",
+  "ex_en": "This guitar belongs to my older brother."
  },
  {
   "id": "l2-222",
@@ -2439,7 +2881,9 @@
   "pinyin": "kěpà",
   "pos": "Vs",
   "gloss": "scary",
-  "km": "គួរឱ្យខ្លាច"
+  "km": "គួរឱ្យខ្លាច",
+  "ex": "昨天的颱風真可怕。",
+  "ex_en": "Yesterday's typhoon was really scary."
  },
  {
   "id": "l2-223",
@@ -2450,7 +2894,9 @@
   "pinyin": "qīngsōng",
   "pos": "Vs",
   "gloss": "relaxed; easy",
-  "km": "ធូរស្រាល"
+  "km": "ធូរស្រាល",
+  "ex": "放假的時候最輕鬆。",
+  "ex_en": "Holidays are the most relaxing time."
  },
  {
   "id": "l2-224",
@@ -2461,7 +2907,9 @@
   "pinyin": "qíngxíng",
   "pos": "N",
   "gloss": "situation",
-  "km": "ស្ថានភាព"
+  "km": "ស្ថានភាព",
+  "ex": "他把情形告訴了老師。",
+  "ex_en": "He told the teacher about the situation."
  },
  {
   "id": "l2-225",
@@ -2472,7 +2920,9 @@
   "pinyin": "xiāoxí",
   "pos": "N",
   "gloss": "news; message",
-  "km": "ដំណឹង"
+  "km": "ដំណឹង",
+  "ex": "我有一個好消息要告訴你。",
+  "ex_en": "I have good news to tell you."
  },
  {
   "id": "l2-226",
@@ -2483,7 +2933,9 @@
   "pinyin": "kànqǐlái",
   "pos": "Adv",
   "gloss": "it looks like; seemingly",
-  "km": "មើលទៅ"
+  "km": "មើលទៅ",
+  "ex": "你今天看起來很累。",
+  "ex_en": "You look very tired today."
  },
  {
   "id": "l2-227",
@@ -2494,7 +2946,9 @@
   "pinyin": "wǔ",
   "pos": "N",
   "gloss": "dance",
-  "km": "របាំ"
+  "km": "របាំ",
+  "ex": "她跳舞跳得很好看。",
+  "ex_en": "She dances beautifully."
  },
  {
   "id": "l2-228",
@@ -2505,7 +2959,9 @@
   "pinyin": "yóu",
   "pos": "Vi",
   "gloss": "to swim",
-  "km": "ហែលទឹក"
+  "km": "ហែលទឹក",
+  "ex": "魚在水裡游來游去。",
+  "ex_en": "The fish swim back and forth in the water."
  },
  {
   "id": "l2-229",
@@ -2516,7 +2972,9 @@
   "pinyin": "yóuyǒngchí",
   "pos": "N",
   "gloss": "swimming pool",
-  "km": "អាងហែលទឹក"
+  "km": "អាងហែលទឹក",
+  "ex": "飯店裡有游泳池。",
+  "ex_en": "The hotel has a swimming pool."
  },
  {
   "id": "l2-230",
@@ -2527,7 +2985,9 @@
   "pinyin": "yóuxì",
   "pos": "N / Vi",
   "gloss": "game; to play",
-  "km": "ល្បែង"
+  "km": "ល្បែង",
+  "ex": "孩子們在玩遊戲。",
+  "ex_en": "The children are playing a game."
  },
  {
   "id": "l2-231",
@@ -2538,7 +2998,9 @@
   "pinyin": "cháguǎn/cháguǎnr",
   "pos": "N",
   "gloss": "teahouse",
-  "km": "ហាងតែ"
+  "km": "ហាងតែ",
+  "ex": "我們在茶館喝茶聊天。",
+  "ex_en": "We drink tea and chat at the teahouse."
  },
  {
   "id": "l2-232",
@@ -2549,7 +3011,9 @@
   "pinyin": "ménpiào",
   "pos": "N",
   "gloss": "admission ticket",
-  "km": "សំបុត្រចូល"
+  "km": "សំបុត្រចូល",
+  "ex": "一張門票一百塊。",
+  "ex_en": "One ticket costs a hundred dollars."
  },
  {
   "id": "l2-233",
@@ -2560,7 +3024,9 @@
   "pinyin": "péi",
   "pos": "V",
   "gloss": "to accompany",
-  "km": "អមដំណើរ"
+  "km": "អមដំណើរ",
+  "ex": "我陪媽媽去買菜。",
+  "ex_en": "I go grocery shopping with my mom."
  },
  {
   "id": "l2-234",
@@ -2571,7 +3037,9 @@
   "pinyin": "lìyòng",
   "pos": "V",
   "gloss": "to make use of",
-  "km": "ប្រើប្រាស់"
+  "km": "ប្រើប្រាស់",
+  "ex": "我利用假日學中文。",
+  "ex_en": "I use my days off to study Chinese."
  },
  {
   "id": "l2-235",
@@ -2582,7 +3050,9 @@
   "pinyin": "hǎochù",
   "pos": "N",
   "gloss": "benefit; advantage",
-  "km": "អត្ថប្រយោជន៍"
+  "km": "អត្ថប្រយោជន៍",
+  "ex": "運動對身體有很多好處。",
+  "ex_en": "Exercise has many benefits for the body."
  },
  {
   "id": "l2-236",
@@ -2593,7 +3063,9 @@
   "pinyin": "huàichù",
   "pos": "N",
   "gloss": "disadvantage; harm",
-  "km": "ផលអាក្រក់"
+  "km": "ផលអាក្រក់",
+  "ex": "吃太多糖有很多壞處。",
+  "ex_en": "Eating too much sugar has many downsides."
  },
  {
   "id": "l2-237",
@@ -2604,7 +3076,9 @@
   "pinyin": "mùdì",
   "pos": "N",
   "gloss": "purpose",
-  "km": "គោលបំណង"
+  "km": "គោលបំណង",
+  "ex": "他學中文的目的是工作。",
+  "ex_en": "His purpose in learning Chinese is for work."
  },
  {
   "id": "l2-238",
@@ -2615,7 +3089,9 @@
   "pinyin": "yāoqiú",
   "pos": "N / V",
   "gloss": "request; to demand",
-  "km": "ទាមទារ"
+  "km": "ទាមទារ",
+  "ex": "老師的要求不太高。",
+  "ex_en": "The teacher's demands are not too high."
  },
  {
   "id": "l2-239",
@@ -2626,7 +3102,9 @@
   "pinyin": "hézuò",
   "pos": "Vs",
   "gloss": "to cooperate",
-  "km": "សហការ"
+  "km": "សហការ",
+  "ex": "很高興跟你們合作。",
+  "ex_en": "It's a pleasure to work with you."
  },
  {
   "id": "l2-240",
@@ -2637,7 +3115,9 @@
   "pinyin": "zhǔrén",
   "pos": "N",
   "gloss": "host; owner",
-  "km": "ម្ចាស់"
+  "km": "ម្ចាស់",
+  "ex": "這隻狗的主人是誰？",
+  "ex_en": "Who is this dog's owner?"
  },
  {
   "id": "l2-241",
@@ -2648,7 +3128,9 @@
   "pinyin": "qǐngkè",
   "pos": "V-sep",
   "gloss": "to treat someone",
-  "km": "អញ្ជើញញ៉ាំ"
+  "km": "អញ្ជើញញ៉ាំ",
+  "ex": "今天我請客，你別付錢。",
+  "ex_en": "Today it's my treat; don't pay."
  },
  {
   "id": "l2-242",
@@ -2659,7 +3141,9 @@
   "pinyin": "yuē",
   "pos": "V",
   "gloss": "to arrange to meet",
-  "km": "ណាត់"
+  "km": "ណាត់",
+  "ex": "我約了朋友明天見面。",
+  "ex_en": "I arranged to meet a friend tomorrow."
  },
  {
   "id": "l2-243",
@@ -2670,7 +3154,9 @@
   "pinyin": "yuēhuì",
   "pos": "N / Vi",
   "gloss": "date; to date",
-  "km": "ណាត់ជួប"
+  "km": "ណាត់ជួប",
+  "ex": "他今天晚上有約會。",
+  "ex_en": "He has a date tonight."
  },
  {
   "id": "l2-244",
@@ -2681,7 +3167,9 @@
   "pinyin": "pàiduì",
   "pos": "N",
   "gloss": "party",
-  "km": "ពិធីជប់លៀង"
+  "km": "ពិធីជប់លៀង",
+  "ex": "週末我們要開生日派對。",
+  "ex_en": "We're having a birthday party this weekend."
  },
  {
   "id": "l2-245",
@@ -2692,7 +3180,9 @@
   "pinyin": "zhù",
   "pos": "V",
   "gloss": "to wish (someone well)",
-  "km": "ជូនពរ"
+  "km": "ជូនពរ",
+  "ex": "祝你生日快樂，天天開心！",
+  "ex_en": "Happy birthday—may you be happy every day!"
  },
  {
   "id": "l2-246",
@@ -2703,7 +3193,9 @@
   "pinyin": "liú",
   "pos": "V",
   "gloss": "to keep; to leave behind",
-  "km": "ទុក"
+  "km": "ទុក",
+  "ex": "請把你的電話留給我。",
+  "ex_en": "Please leave me your phone number."
  },
  {
   "id": "l2-247",
@@ -2714,7 +3206,9 @@
   "pinyin": "fēng",
   "pos": "M",
   "gloss": "measure word for letters",
-  "km": "ច្បាប់"
+  "km": "ច្បាប់",
+  "ex": "我昨天寫了一封信。",
+  "ex_en": "I wrote a letter yesterday."
  },
  {
   "id": "l2-248",
@@ -2725,7 +3219,9 @@
   "pinyin": "xìnxiāng",
   "pos": "N",
   "gloss": "mailbox",
-  "km": "ប្រអប់សំបុត្រ"
+  "km": "ប្រអប់សំបុត្រ",
+  "ex": "信箱裡有一封你的信。",
+  "ex_en": "There's a letter for you in the mailbox."
  },
  {
   "id": "l2-249",
@@ -2736,7 +3232,9 @@
   "pinyin": "yóupiào",
   "pos": "N",
   "gloss": "stamp",
-  "km": "តែម"
+  "km": "តែម",
+  "ex": "我去郵局買了十張郵票。",
+  "ex_en": "I went to the post office and bought ten stamps."
  },
  {
   "id": "l2-250",
@@ -2747,7 +3245,9 @@
   "pinyin": "huíxìn",
   "pos": "V-sep",
   "gloss": "to reply to a letter",
-  "km": "ឆ្លើយសំបុត្រ"
+  "km": "ឆ្លើយសំបុត្រ",
+  "ex": "他很快就給我回信了。",
+  "ex_en": "He replied to my letter very quickly."
  },
  {
   "id": "l2-251",
@@ -2758,7 +3258,9 @@
   "pinyin": "yóujiàn",
   "pos": "N",
   "gloss": "mail",
-  "km": "សំបុត្រ"
+  "km": "សំបុត្រ",
+  "ex": "我每天都會看電子郵件。",
+  "ex_en": "I check my email every day."
  },
  {
   "id": "l2-252",
@@ -2769,7 +3271,9 @@
   "pinyin": "nòng",
   "pos": "V",
   "gloss": "to do; to handle",
-  "km": "ធ្វើ"
+  "km": "ធ្វើ",
+  "ex": "弟弟把我的手機弄壞了。",
+  "ex_en": "My little brother broke my phone."
  },
  {
   "id": "l2-253",
@@ -2780,7 +3284,9 @@
   "pinyin": "fàngxīn",
   "pos": "Vs-sep",
   "gloss": "to be at ease",
-  "km": "ស្ងប់ចិត្ត"
+  "km": "ស្ងប់ចិត្ត",
+  "ex": "我到了會打電話，你放心。",
+  "ex_en": "I'll call when I arrive, so don't worry."
  },
  {
   "id": "l2-254",
@@ -2791,7 +3297,9 @@
   "pinyin": "tōu",
   "pos": "V",
   "gloss": "to steal",
-  "km": "លួច"
+  "km": "លួច",
+  "ex": "我的錢包被人偷了。",
+  "ex_en": "My wallet was stolen."
  },
  {
   "id": "l2-255",
@@ -2802,7 +3310,9 @@
   "pinyin": "mǎn",
   "pos": "Vp",
   "gloss": "full",
-  "km": "ពេញ"
+  "km": "ពេញ",
+  "ex": "停車場已經滿了。",
+  "ex_en": "The parking lot is already full."
  },
  {
   "id": "l2-256",
@@ -2813,7 +3323,9 @@
   "pinyin": "diū",
   "pos": "V",
   "gloss": "to throw; to lose",
-  "km": "បោះ; បាត់"
+  "km": "បោះ; បាត់",
+  "ex": "我把鑰匙丟了，怎麼辦？",
+  "ex_en": "I lost my keys—what should I do?"
  },
  {
   "id": "l2-257",
@@ -2824,7 +3336,9 @@
   "pinyin": "huàn",
   "pos": "V",
   "gloss": "to change; to exchange",
-  "km": "ប្តូរ"
+  "km": "ប្តូរ",
+  "ex": "這件衣服太小，我想換一件。",
+  "ex_en": "This piece of clothing is too small; I'd like to exchange it."
  },
  {
   "id": "l2-258",
@@ -2835,7 +3349,9 @@
   "pinyin": "yīkuài/yīkuàir",
   "pos": "Adv",
   "gloss": "together",
-  "km": "ជាមួយគ្នា"
+  "km": "ជាមួយគ្នា",
+  "ex": "我們一塊去吃晚飯吧！",
+  "ex_en": "Let's go have dinner together!"
  },
  {
   "id": "l2-259",
@@ -2846,7 +3362,9 @@
   "pinyin": "tóngshí",
   "pos": "N",
   "gloss": "the same time",
-  "km": "ពេលតែមួយ"
+  "km": "ពេលតែមួយ",
+  "ex": "他們兩個人同時到了學校。",
+  "ex_en": "The two of them arrived at school at the same time."
  },
  {
   "id": "l2-260",
@@ -2857,7 +3375,9 @@
   "pinyin": "bǎohù",
   "pos": "V",
   "gloss": "to protect",
-  "km": "ការពារ"
+  "km": "ការពារ",
+  "ex": "爸爸媽媽都想保護孩子。",
+  "ex_en": "Parents all want to protect their children."
  },
  {
   "id": "l2-261",
@@ -2868,7 +3388,9 @@
   "pinyin": "chūmén",
   "pos": "V-sep",
   "gloss": "to go out",
-  "km": "ចេញពីផ្ទះ"
+  "km": "ចេញពីផ្ទះ",
+  "ex": "我每天七點出門上班。",
+  "ex_en": "I leave home at seven every day to go to work."
  },
  {
   "id": "l2-262",
@@ -2879,7 +3401,9 @@
   "pinyin": "xiàndài",
   "pos": "N / Vs",
   "gloss": "modern times; modern",
-  "km": "សម័យទំនើប"
+  "km": "សម័យទំនើប",
+  "ex": "現代人的生活真的很忙。",
+  "ex_en": "Modern people's lives are really busy."
  },
  {
   "id": "l2-263",
@@ -2890,7 +3414,9 @@
   "pinyin": "chuántǒng",
   "pos": "Vs",
   "gloss": "traditional",
-  "km": "ប្រពៃណី"
+  "km": "ប្រពៃណី",
+  "ex": "這是很傳統的中國菜。",
+  "ex_en": "This is very traditional Chinese food."
  },
  {
   "id": "l2-264",
@@ -2901,7 +3427,9 @@
   "pinyin": "chúxì",
   "pos": "N",
   "gloss": "Lunar New Year's Eve",
-  "km": "យប់ចូលឆ្នាំចិន"
+  "km": "យប់ចូលឆ្នាំចិន",
+  "ex": "除夕晚上全家一起吃飯。",
+  "ex_en": "On Lunar New Year's Eve the whole family eats together."
  },
  {
   "id": "l2-265",
@@ -2912,7 +3440,9 @@
   "pinyin": "chūnjié",
   "pos": "N",
   "gloss": "Chinese New Year",
-  "km": "ចូលឆ្នាំចិន"
+  "km": "ចូលឆ្នាំចិន",
+  "ex": "春節的時候我要回家。",
+  "ex_en": "I'm going home for Chinese New Year."
  },
  {
   "id": "l2-266",
@@ -2923,7 +3453,9 @@
   "pinyin": "jiérì",
   "pos": "N",
   "gloss": "festival; holiday",
-  "km": "ពិធីបុណ្យ"
+  "km": "ពិធីបុណ្យ",
+  "ex": "春節是最重要的節日。",
+  "ex_en": "Chinese New Year is the most important festival."
  },
  {
   "id": "l2-267",
@@ -2934,7 +3466,9 @@
   "pinyin": "dàilái",
   "pos": "V",
   "gloss": "to bring",
-  "km": "នាំមក"
+  "km": "នាំមក",
+  "ex": "他帶來了一些好吃的東西。",
+  "ex_en": "He brought some tasty things."
  },
  {
   "id": "l2-268",
@@ -2945,7 +3479,9 @@
   "pinyin": "dāngzhōng",
   "pos": "N",
   "gloss": "among; in the middle",
-  "km": "ក្នុងចំណោម"
+  "km": "ក្នុងចំណោម",
+  "ex": "這些人當中，我只認識他。",
+  "ex_en": "Among these people, I only know him."
  },
  {
   "id": "l2-269",
@@ -2956,7 +3492,9 @@
   "pinyin": "fǎlǜ",
   "pos": "N",
   "gloss": "law",
-  "km": "ច្បាប់"
+  "km": "ច្បាប់",
+  "ex": "每個人都要懂一點法律。",
+  "ex_en": "Everyone should understand a little law."
  },
  {
   "id": "l2-270",
@@ -2967,7 +3505,9 @@
   "pinyin": "fāngmiàn",
   "pos": "N",
   "gloss": "aspect",
-  "km": "ផ្នែក"
+  "km": "ផ្នែក",
+  "ex": "他在工作方面做得很好。",
+  "ex_en": "He does very well in terms of work."
  },
  {
   "id": "l2-271",
@@ -2978,7 +3518,9 @@
   "pinyin": "kāiwánxiào",
   "pos": "V-sep",
   "gloss": "to joke",
-  "km": "លេងសើច"
+  "km": "លេងសើច",
+  "ex": "別生氣，我只是開玩笑。",
+  "ex_en": "Don't be angry—I was just joking."
  },
  {
   "id": "l2-272",
@@ -2989,7 +3531,9 @@
   "pinyin": "kěxí",
   "pos": "Vs",
   "gloss": "unfortunate; a pity",
-  "km": "គួរឱ្យស្តាយ"
+  "km": "គួរឱ្យស្តាយ",
+  "ex": "你不能來，真的很可惜。",
+  "ex_en": "It's really a pity that you can't come."
  },
  {
   "id": "l2-273",
@@ -3000,7 +3544,9 @@
   "pinyin": "lǎotàitai",
   "pos": "N",
   "gloss": "old lady",
-  "km": "ស្ត្រីចំណាស់"
+  "km": "ស្ត្រីចំណាស់",
+  "ex": "那位老太太人很好。",
+  "ex_en": "That old lady is very kind."
  },
  {
   "id": "l2-274",
@@ -3011,7 +3557,9 @@
   "pinyin": "yǒumíng",
   "pos": "Vs",
   "gloss": "famous",
-  "km": "ល្បីល្បាញ"
+  "km": "ល្បីល្បាញ",
+  "ex": "這家店的牛肉麵很有名。",
+  "ex_en": "This shop's beef noodles are very famous."
  },
  {
   "id": "l2-275",
@@ -3022,7 +3570,9 @@
   "pinyin": "zìyóu",
   "pos": "N / Vs",
   "gloss": "freedom; free",
-  "km": "សេរីភាព"
+  "km": "សេរីភាព",
+  "ex": "週末我有很多自由的時間。",
+  "ex_en": "I have a lot of free time on weekends."
  },
  {
   "id": "l2-276",
@@ -3033,7 +3583,9 @@
   "pinyin": "shèhuì",
   "pos": "N",
   "gloss": "society",
-  "km": "សង្គម"
+  "km": "សង្គម",
+  "ex": "這是一個社會問題。",
+  "ex_en": "This is a social problem."
  },
  {
   "id": "l2-277",
@@ -3044,7 +3596,9 @@
   "pinyin": "shíchā",
   "pos": "N",
   "gloss": "time difference; jet lag",
-  "km": "ភាពខុសម៉ោង"
+  "km": "ភាពខុសម៉ោង",
+  "ex": "我剛到美國，還有時差。",
+  "ex_en": "I just arrived in America and still have jet lag."
  },
  {
   "id": "l2-278",
@@ -3055,7 +3609,9 @@
   "pinyin": "shìqū",
   "pos": "N",
   "gloss": "downtown; urban area",
-  "km": "កណ្តាលក្រុង"
+  "km": "កណ្តាលក្រុង",
+  "ex": "我家離市區不太遠。",
+  "ex_en": "My home isn't too far from downtown."
  },
  {
   "id": "l2-279",
@@ -3066,7 +3622,9 @@
   "pinyin": "wēnquán",
   "pos": "N",
   "gloss": "hot spring",
-  "km": "ប្រភពទឹកក្តៅ"
+  "km": "ប្រភពទឹកក្តៅ",
+  "ex": "冬天泡溫泉最舒服了。",
+  "ex_en": "Soaking in a hot spring in winter is the most comfortable thing."
  },
  {
   "id": "l2-280",
@@ -3077,7 +3635,9 @@
   "pinyin": "gōnglù",
   "pos": "N",
   "gloss": "highway",
-  "km": "ផ្លូវជាតិ"
+  "km": "ផ្លូវជាតិ",
+  "ex": "這條公路上車子很多。",
+  "ex_en": "There are a lot of cars on this highway."
  },
  {
   "id": "l2-281",
@@ -3088,7 +3648,9 @@
   "pinyin": "sùdù",
   "pos": "N",
   "gloss": "speed",
-  "km": "ល្បឿន"
+  "km": "ល្បឿន",
+  "ex": "他開車的速度太快了。",
+  "ex_en": "He drives at too high a speed."
  },
  {
   "id": "l2-282",
@@ -3099,7 +3661,9 @@
   "pinyin": "dàochù",
   "pos": "Adv",
   "gloss": "everywhere",
-  "km": "គ្រប់ទីកន្លែង"
+  "km": "គ្រប់ទីកន្លែង",
+  "ex": "春節的時候到處都是人。",
+  "ex_en": "During Chinese New Year there are people everywhere."
  },
  {
   "id": "l2-283",
@@ -3110,7 +3674,9 @@
   "pinyin": "dìdiǎn",
   "pos": "N",
   "gloss": "location; place",
-  "km": "ទីតាំង"
+  "km": "ទីតាំង",
+  "ex": "我們見面的地點在哪裡？",
+  "ex_en": "Where is the place we're meeting?"
  },
  {
   "id": "l2-284",
@@ -3121,7 +3687,9 @@
   "pinyin": "bāshì",
   "pos": "N",
   "gloss": "bus",
-  "km": "ឡានក្រុង"
+  "km": "ឡានក្រុង",
+  "ex": "我們坐巴士去機場吧。",
+  "ex_en": "Let's take the bus to the airport."
  },
  {
   "id": "l2-285",
@@ -3132,7 +3700,9 @@
   "pinyin": "jiāyóu",
   "pos": "Vi",
   "gloss": "to refuel; to cheer on",
-  "km": "ចាក់សាំង; ស៊ូៗ"
+  "km": "ចាក់សាំង; ស៊ូៗ",
+  "ex": "車快沒油了，要去加油。",
+  "ex_en": "The car is almost out of gas; we need to refuel."
  },
  {
   "id": "l2-286",
@@ -3143,7 +3713,9 @@
   "pinyin": "mótuōchē/jīchē",
   "pos": "N",
   "gloss": "motorcycle; scooter",
-  "km": "ម៉ូតូ"
+  "km": "ម៉ូតូ",
+  "ex": "台灣路上有很多摩托車。",
+  "ex_en": "There are many scooters on the roads in Taiwan."
  },
  {
   "id": "l2-287",
@@ -3154,7 +3726,9 @@
   "pinyin": "chuán/chuánr",
   "pos": "N",
   "gloss": "boat; ship",
-  "km": "ទូក"
+  "km": "ទូក",
+  "ex": "我第一次坐船，很開心。",
+  "ex_en": "It was my first time on a boat, and I was very happy."
  },
  {
   "id": "l2-288",
@@ -3165,7 +3739,9 @@
   "pinyin": "dìtiě",
   "pos": "N",
   "gloss": "subway",
-  "km": "រថភ្លើងក្រោមដី"
+  "km": "រថភ្លើងក្រោមដី",
+  "ex": "在日本我每天坐地鐵。",
+  "ex_en": "In Japan I took the subway every day."
  },
  {
   "id": "l2-289",
@@ -3176,7 +3752,9 @@
   "pinyin": "jiéyùn",
   "pos": "N",
   "gloss": "MRT; rapid transit",
-  "km": "រថភ្លើងក្នុងក្រុង"
+  "km": "រថភ្លើងក្នុងក្រុង",
+  "ex": "台北的捷運又快又方便。",
+  "ex_en": "The Taipei MRT is fast and convenient."
  },
  {
   "id": "l2-290",
@@ -3187,7 +3765,9 @@
   "pinyin": "tíngchēchǎng",
   "pos": "N",
   "gloss": "parking lot",
-  "km": "ចំណតរថយន្ត"
+  "km": "ចំណតរថយន្ត",
+  "ex": "這裡的停車場很大。",
+  "ex_en": "The parking lot here is very big."
  },
  {
   "id": "l2-291",
@@ -3198,7 +3778,9 @@
   "pinyin": "yuètái",
   "pos": "N",
   "gloss": "station platform",
-  "km": "កន្លែងរង់ចាំរថភ្លើង"
+  "km": "កន្លែងរង់ចាំរថភ្លើង",
+  "ex": "請在二號月台等火車。",
+  "ex_en": "Please wait for the train on platform two."
  },
  {
   "id": "l2-292",
@@ -3209,7 +3791,9 @@
   "pinyin": "dā",
   "pos": "V",
   "gloss": "to take (transport)",
-  "km": "ជិះ"
+  "km": "ជិះ",
+  "ex": "我每天搭公車上學。",
+  "ex_en": "I take the bus to school every day."
  },
  {
   "id": "l2-293",
@@ -3220,7 +3804,9 @@
   "pinyin": "fēi",
   "pos": "Vi",
   "gloss": "to fly",
-  "km": "ហើរ"
+  "km": "ហើរ",
+  "ex": "飛機在天上飛得很高。",
+  "ex_en": "The plane is flying very high in the sky."
  },
  {
   "id": "l2-294",
@@ -3231,7 +3817,9 @@
   "pinyin": "xià",
   "pos": "V",
   "gloss": "to get off; to go down",
-  "km": "ចុះ"
+  "km": "ចុះ",
+  "ex": "我們在下一站下車吧。",
+  "ex_en": "Let's get off at the next stop."
  },
  {
   "id": "l2-295",
@@ -3242,7 +3830,9 @@
   "pinyin": "shàng",
   "pos": "V",
   "gloss": "to get on; to go up",
-  "km": "ឡើង"
+  "km": "ឡើង",
+  "ex": "快點上車，公車要開了。",
+  "ex_en": "Hurry and get on—the bus is about to leave."
  },
  {
   "id": "l2-296",
@@ -3253,7 +3843,9 @@
   "pinyin": "zhèxiē",
   "pos": "Det",
   "gloss": "these",
-  "km": "ទាំងនេះ"
+  "km": "ទាំងនេះ",
+  "ex": "這些書都是我的。",
+  "ex_en": "These books are all mine."
  },
  {
   "id": "l2-297",
@@ -3264,7 +3856,9 @@
   "pinyin": "nàxiē",
   "pos": "Det",
   "gloss": "those",
-  "km": "ទាំងនោះ"
+  "km": "ទាំងនោះ",
+  "ex": "那些人都是我的同學。",
+  "ex_en": "Those people are all my classmates."
  },
  {
   "id": "l2-298",
@@ -3275,7 +3869,9 @@
   "pinyin": "dōngfāng",
   "pos": "N",
   "gloss": "the East",
-  "km": "បូព៌ា"
+  "km": "បូព៌ា",
+  "ex": "太陽從東方出來。",
+  "ex_en": "The sun rises in the east."
  },
  {
   "id": "l2-299",
@@ -3286,7 +3882,9 @@
   "pinyin": "fēizhōu",
   "pos": "N",
   "gloss": "Africa",
-  "km": "អាហ្វ្រិក"
+  "km": "អាហ្វ្រិក",
+  "ex": "我想去非洲看動物。",
+  "ex_en": "I want to go to Africa to see the animals."
  },
  {
   "id": "l2-300",
@@ -3297,7 +3895,9 @@
   "pinyin": "měizhōu",
   "pos": "N",
   "gloss": "the Americas",
-  "km": "ទ្វីបអាមេរិក"
+  "km": "ទ្វីបអាមេរិក",
+  "ex": "他坐飛機去美洲旅行。",
+  "ex_en": "He flew to the Americas to travel."
  },
  {
   "id": "l2-301",
@@ -3308,7 +3908,9 @@
   "pinyin": "ōuzhōu",
   "pos": "N",
   "gloss": "Europe",
-  "km": "អឺរ៉ុប"
+  "km": "អឺរ៉ុប",
+  "ex": "明年我們要去歐洲玩。",
+  "ex_en": "Next year we're going to Europe for fun."
  },
  {
   "id": "l2-302",
@@ -3319,7 +3921,9 @@
   "pinyin": "yàzhōu",
   "pos": "N",
   "gloss": "Asia",
-  "km": "អាស៊ី"
+  "km": "អាស៊ី",
+  "ex": "日本和台灣都在亞洲。",
+  "ex_en": "Japan and Taiwan are both in Asia."
  },
  {
   "id": "l2-303",
@@ -3330,7 +3934,9 @@
   "pinyin": "dàlù",
   "pos": "N",
   "gloss": "continent; mainland",
-  "km": "ទ្វីប"
+  "km": "ទ្វីប",
+  "ex": "這是世界上最大的大陸。",
+  "ex_en": "This is the largest continent in the world."
  },
  {
   "id": "l2-304",
@@ -3341,7 +3947,9 @@
   "pinyin": "dòng",
   "pos": "Vp",
   "gloss": "to move",
-  "km": "កម្រើក"
+  "km": "កម្រើក",
+  "ex": "別動！我幫你拍照。",
+  "ex_en": "Don't move! I'll take your picture."
  },
  {
   "id": "l2-305",
@@ -3352,7 +3960,9 @@
   "pinyin": "qǐ",
   "pos": "Ptc",
   "gloss": "verb complement: up; start",
-  "km": "ឡើង"
+  "km": "ឡើង",
+  "ex": "他早上六點就起來了。",
+  "ex_en": "He got up at six in the morning."
  },
  {
   "id": "l2-306",
@@ -3363,7 +3973,9 @@
   "pinyin": "tíng",
   "pos": "Vp",
   "gloss": "to stop",
-  "km": "ឈប់"
+  "km": "ឈប់",
+  "ex": "公車在學校門口停了。",
+  "ex_en": "The bus stopped at the school gate."
  },
  {
   "id": "l2-307",
@@ -3374,7 +3986,9 @@
   "pinyin": "zhōngxīn",
   "pos": "N",
   "gloss": "center",
-  "km": "មជ្ឈមណ្ឌល"
+  "km": "មជ្ឈមណ្ឌល",
+  "ex": "我家附近有運動中心。",
+  "ex_en": "There's a sports center near my home."
  },
  {
   "id": "l2-308",
@@ -3385,7 +3999,9 @@
   "pinyin": "qiānzhèng",
   "pos": "N",
   "gloss": "visa",
-  "km": "ទិដ្ឋាការ"
+  "km": "ទិដ្ឋាការ",
+  "ex": "去美國以前要先辦簽證。",
+  "ex_en": "You need to get a visa before going to America."
  },
  {
   "id": "l2-309",
@@ -3396,7 +4012,9 @@
   "pinyin": "xínglǐ",
   "pos": "N",
   "gloss": "luggage",
-  "km": "ឥវ៉ាន់"
+  "km": "ឥវ៉ាន់",
+  "ex": "你的行李都準備好了嗎？",
+  "ex_en": "Is all your luggage ready?"
  },
  {
   "id": "l2-310",
@@ -3407,7 +4025,9 @@
   "pinyin": "bēibāo",
   "pos": "N",
   "gloss": "backpack",
-  "km": "កាបូបស្ពាយ"
+  "km": "កាបូបស្ពាយ",
+  "ex": "他背著一個大背包。",
+  "ex_en": "He's carrying a big backpack."
  },
  {
   "id": "l2-311",
@@ -3418,7 +4038,9 @@
   "pinyin": "suǒ",
   "pos": "N / V",
   "gloss": "lock; to lock",
-  "km": "សោ; ចាក់សោ"
+  "km": "សោ; ចាក់សោ",
+  "ex": "出門以前記得鎖門。",
+  "ex_en": "Remember to lock the door before going out."
  },
  {
   "id": "l2-312",
@@ -3429,7 +4051,9 @@
   "pinyin": "rùkǒu",
   "pos": "N",
   "gloss": "entrance",
-  "km": "ច្រកចូល"
+  "km": "ច្រកចូល",
+  "ex": "車站的入口在前面。",
+  "ex_en": "The station entrance is up ahead."
  },
  {
   "id": "l2-313",
@@ -3440,7 +4064,9 @@
   "pinyin": "chūkǒu",
   "pos": "N",
   "gloss": "exit",
-  "km": "ច្រកចេញ"
+  "km": "ច្រកចេញ",
+  "ex": "請從這個出口出去。",
+  "ex_en": "Please go out through this exit."
  },
  {
   "id": "l2-314",
@@ -3451,7 +4077,9 @@
   "pinyin": "yóu",
   "pos": "N",
   "gloss": "oil; gasoline",
-  "km": "ប្រេង"
+  "km": "ប្រេង",
+  "ex": "車子快沒油了。",
+  "ex_en": "The car is almost out of gas."
  },
  {
   "id": "l2-315",
@@ -3462,7 +4090,9 @@
   "pinyin": "yàoshi",
   "pos": "N",
   "gloss": "key",
-  "km": "កូនសោ"
+  "km": "កូនសោ",
+  "ex": "我又找不到鑰匙了。",
+  "ex_en": "I can't find my keys again."
  },
  {
   "id": "l2-316",
@@ -3473,7 +4103,9 @@
   "pinyin": "fāngxiàng",
   "pos": "N",
   "gloss": "direction",
-  "km": "ទិសដៅ"
+  "km": "ទិសដៅ",
+  "ex": "你走錯方向了，要往左。",
+  "ex_en": "You went in the wrong direction; you should go left."
  },
  {
   "id": "l2-317",
@@ -3484,7 +4116,9 @@
   "pinyin": "jiāotōng",
   "pos": "N",
   "gloss": "traffic; transportation",
-  "km": "ចរាចរណ៍"
+  "km": "ចរាចរណ៍",
+  "ex": "台北的交通很方便。",
+  "ex_en": "Transportation in Taipei is very convenient."
  },
  {
   "id": "l2-318",
@@ -3495,7 +4129,9 @@
   "pinyin": "biāozhǔn",
   "pos": "N / Vs",
   "gloss": "standard",
-  "km": "ស្តង់ដារ"
+  "km": "ស្តង់ដារ",
+  "ex": "他的中文說得很標準。",
+  "ex_en": "His Chinese is very standard."
  },
  {
   "id": "l2-319",
@@ -3506,7 +4142,9 @@
   "pinyin": "pāizhào",
   "pos": "V-sep",
   "gloss": "to take photos",
-  "km": "ថតរូប"
+  "km": "ថតរូប",
+  "ex": "大家站好，我要拍照了。",
+  "ex_en": "Everyone stand still—I'm about to take the photo."
  },
  {
   "id": "l2-320",
@@ -3517,7 +4155,9 @@
   "pinyin": "tuǐ",
   "pos": "N",
   "gloss": "leg",
-  "km": "ជើង"
+  "km": "ជើង",
+  "ex": "我走了一天，腿很痛。",
+  "ex_en": "I walked all day and my legs hurt."
  },
  {
   "id": "l2-321",
@@ -3528,7 +4168,9 @@
   "pinyin": "bèi",
   "pos": "N",
   "gloss": "back (of body)",
-  "km": "ខ្នង"
+  "km": "ខ្នង",
+  "ex": "我的背有一點痛。",
+  "ex_en": "My back hurts a little."
  },
  {
   "id": "l2-322",
@@ -3539,7 +4181,9 @@
   "pinyin": "bó(zi)",
   "pos": "N",
   "gloss": "neck",
-  "km": "ក"
+  "km": "ក",
+  "ex": "我的脖子不太舒服。",
+  "ex_en": "My neck feels a bit uncomfortable."
  },
  {
   "id": "l2-323",
@@ -3550,7 +4194,9 @@
   "pinyin": "hàn",
   "pos": "N",
   "gloss": "sweat",
-  "km": "ញើស"
+  "km": "ញើស",
+  "ex": "天氣熱，我流了很多汗。",
+  "ex_en": "The weather is hot, and I sweated a lot."
  },
  {
   "id": "l2-324",
@@ -3561,7 +4207,9 @@
   "pinyin": "liǎnsè",
   "pos": "N",
   "gloss": "complexion; facial expression",
-  "km": "ទឹកមុខ"
+  "km": "ទឹកមុខ",
+  "ex": "你的臉色不好，生病了嗎？",
+  "ex_en": "You don't look well—are you sick?"
  },
  {
   "id": "l2-325",
@@ -3572,7 +4220,9 @@
   "pinyin": "jiùhùchē",
   "pos": "N",
   "gloss": "ambulance",
-  "km": "ឡានពេទ្យ"
+  "km": "ឡានពេទ្យ",
+  "ex": "快打電話叫救護車！",
+  "ex_en": "Quick, call an ambulance!"
  },
  {
   "id": "l2-326",
@@ -3583,7 +4233,9 @@
   "pinyin": "késòu",
   "pos": "Vi",
   "gloss": "to cough",
-  "km": "ក្អក"
+  "km": "ក្អក",
+  "ex": "他感冒了，一直咳嗽。",
+  "ex_en": "He has a cold and keeps coughing."
  },
  {
   "id": "l2-327",
@@ -3594,7 +4246,9 @@
   "pinyin": "fāshāo",
   "pos": "Vp-sep",
   "gloss": "to have a fever",
-  "km": "គ្រុនក្តៅ"
+  "km": "គ្រុនក្តៅ",
+  "ex": "孩子昨天晚上發燒了。",
+  "ex_en": "The child had a fever last night."
  },
  {
   "id": "l2-328",
@@ -3605,7 +4259,9 @@
   "pinyin": "tóutòng",
   "pos": "Vs",
   "gloss": "to have a headache",
-  "km": "ឈឺក្បាល"
+  "km": "ឈឺក្បាល",
+  "ex": "我頭痛，想早點回家。",
+  "ex_en": "I have a headache and want to go home early."
  },
  {
   "id": "l2-329",
@@ -3616,7 +4272,9 @@
   "pinyin": "téng",
   "pos": "Vs",
   "gloss": "painful; sore",
-  "km": "ឈឺ"
+  "km": "ឈឺ",
+  "ex": "我的肚子有一點疼。",
+  "ex_en": "My stomach hurts a little."
  },
  {
   "id": "l2-330",
@@ -3627,7 +4285,9 @@
   "pinyin": "bǎoxiǎn",
   "pos": "N",
   "gloss": "insurance",
-  "km": "ធានារ៉ាប់រង"
+  "km": "ធានារ៉ាប់រង",
+  "ex": "出國以前最好買保險。",
+  "ex_en": "It's best to buy insurance before going abroad."
  },
  {
   "id": "l2-331",
@@ -3638,7 +4298,9 @@
   "pinyin": "guàhào",
   "pos": "V-sep",
   "gloss": "to register (at hospital)",
-  "km": "ចុះឈ្មោះពេទ្យ"
+  "km": "ចុះឈ្មោះពេទ្យ",
+  "ex": "看醫生要先掛號。",
+  "ex_en": "You have to register first to see the doctor."
  },
  {
   "id": "l2-332",
@@ -3649,7 +4311,9 @@
   "pinyin": "yáshuā",
   "pos": "N",
   "gloss": "toothbrush",
-  "km": "ច្រាសដុសធ្មេញ"
+  "km": "ច្រាសដុសធ្មេញ",
+  "ex": "我忘了帶牙刷和毛巾。",
+  "ex_en": "I forgot to bring my toothbrush and towel."
  },
  {
   "id": "l2-333",
@@ -3660,7 +4324,9 @@
   "pinyin": "yàofáng",
   "pos": "N",
   "gloss": "pharmacy",
-  "km": "ឱសថស្ថាន"
+  "km": "ឱសថស្ថាន",
+  "ex": "我去藥房買一點藥。",
+  "ex_en": "I'm going to the pharmacy to buy some medicine."
  },
  {
   "id": "l2-334",
@@ -3671,7 +4337,9 @@
   "pinyin": "jiùmìng",
   "pos": "V-sep",
   "gloss": "to save a life; help!",
-  "km": "ជួយផង"
+  "km": "ជួយផង",
+  "ex": "他在水裡大叫救命。",
+  "ex_en": "He shouted for help in the water."
  },
  {
   "id": "l2-335",
@@ -3682,7 +4350,9 @@
   "pinyin": "yǐngxiǎng",
   "pos": "N / V",
   "gloss": "influence; to affect",
-  "km": "ឥទ្ធិពល"
+  "km": "ឥទ្ធិពល",
+  "ex": "晚睡會影響身體健康。",
+  "ex_en": "Sleeping late affects your health."
  },
  {
   "id": "l2-336",
@@ -3693,7 +4363,9 @@
   "pinyin": "gǎnjué",
   "pos": "N / Vst",
   "gloss": "feeling; to feel",
-  "km": "អារម្មណ៍"
+  "km": "អារម្មណ៍",
+  "ex": "我感覺今天會下雨。",
+  "ex_en": "I feel like it's going to rain today."
  },
  {
   "id": "l2-337",
@@ -3704,7 +4376,9 @@
   "pinyin": "jīngshén",
   "pos": "N",
   "gloss": "spirit; energy",
-  "km": "ស្មារតី"
+  "km": "ស្មារតី",
+  "ex": "睡好了，今天很有精神。",
+  "ex_en": "I slept well and have lots of energy today."
  },
  {
   "id": "l2-338",
@@ -3715,7 +4389,9 @@
   "pinyin": "zhèngcháng",
   "pos": "Vs",
   "gloss": "normal",
-  "km": "ប្រក្រតី"
+  "km": "ប្រក្រតី",
+  "ex": "你的身體一切正常。",
+  "ex_en": "Your body is completely normal."
  },
  {
   "id": "l2-339",
@@ -3726,7 +4402,9 @@
   "pinyin": "huā",
   "pos": "V",
   "gloss": "to spend",
-  "km": "ចំណាយ"
+  "km": "ចំណាយ",
+  "ex": "我這個月花了太多錢。",
+  "ex_en": "I spent too much money this month."
  },
  {
   "id": "l2-340",
@@ -3737,7 +4415,9 @@
   "pinyin": "yǒuqián",
   "pos": "Vs",
   "gloss": "rich; wealthy",
-  "km": "មានលុយ"
+  "km": "មានលុយ",
+  "ex": "他家很有錢，房子很大。",
+  "ex_en": "His family is rich; their house is very big."
  },
  {
   "id": "l2-341",
@@ -3748,7 +4428,9 @@
   "pinyin": "shēngyì",
   "pos": "N",
   "gloss": "business",
-  "km": "ជំនួញ"
+  "km": "ជំនួញ",
+  "ex": "這家店的生意非常好。",
+  "ex_en": "This shop's business is very good."
  },
  {
   "id": "l2-342",
@@ -3759,7 +4441,9 @@
   "pinyin": "shāngrén",
   "pos": "N",
   "gloss": "businessperson; merchant",
-  "km": "ឈ្មួញ"
+  "km": "ឈ្មួញ",
+  "ex": "他爸爸是一位商人。",
+  "ex_en": "His father is a businessman."
  },
  {
   "id": "l2-343",
@@ -3770,7 +4454,9 @@
   "pinyin": "lǎobǎnniáng",
   "pos": "N",
   "gloss": "boss's wife; female boss",
-  "km": "ថៅកែស្រី"
+  "km": "ថៅកែស្រី",
+  "ex": "老闆娘對客人很客氣。",
+  "ex_en": "The boss's wife is very polite to customers."
  },
  {
   "id": "l2-344",
@@ -3781,7 +4467,9 @@
   "pinyin": "diànyuán",
   "pos": "N",
   "gloss": "shop clerk",
-  "km": "បុគ្គលិកហាង"
+  "km": "បុគ្គលិកហាង",
+  "ex": "店員幫我找到了那本書。",
+  "ex_en": "The clerk helped me find that book."
  },
  {
   "id": "l2-345",
@@ -3792,7 +4480,9 @@
   "pinyin": "dìng",
   "pos": "V",
   "gloss": "to book; to order",
-  "km": "កក់"
+  "km": "កក់",
+  "ex": "我訂了兩張火車票。",
+  "ex_en": "I booked two train tickets."
  },
  {
   "id": "l2-346",
@@ -3803,7 +4493,9 @@
   "pinyin": "dìngwèi",
   "pos": "V-sep",
   "gloss": "to reserve a seat",
-  "km": "កក់កន្លែង"
+  "km": "កក់កន្លែង",
+  "ex": "週末吃飯最好先訂位。",
+  "ex_en": "For weekend dining, it's best to reserve a table first."
  },
  {
   "id": "l2-347",
@@ -3814,7 +4506,9 @@
   "pinyin": "dédào",
   "pos": "Vpt",
   "gloss": "to get; to obtain",
-  "km": "ទទួលបាន"
+  "km": "ទទួលបាន",
+  "ex": "他得到了很好的工作機會。",
+  "ex_en": "He got a very good job opportunity."
  },
  {
   "id": "l2-348",
@@ -3825,7 +4519,9 @@
   "pinyin": "kùnnán",
   "pos": "N / Vs",
   "gloss": "difficulty; difficult",
-  "km": "ការលំបាក"
+  "km": "ការលំបាក",
+  "ex": "學中文有困難就問老師。",
+  "ex_en": "If you have difficulty learning Chinese, ask the teacher."
  },
  {
   "id": "l2-349",
@@ -3836,7 +4532,9 @@
   "pinyin": "bǎihuògōngsī",
   "pos": "N",
   "gloss": "department store",
-  "km": "ផ្សារទំនើប"
+  "km": "ផ្សារទំនើប",
+  "ex": "媽媽在百貨公司買衣服。",
+  "ex_en": "Mom is buying clothes at the department store."
  },
  {
   "id": "l2-350",
@@ -3847,7 +4545,9 @@
   "pinyin": "yèshì",
   "pos": "N",
   "gloss": "night market",
-  "km": "ផ្សាររាត្រី"
+  "km": "ផ្សាររាត្រី",
+  "ex": "晚上我們去夜市吃東西。",
+  "ex_en": "Tonight let's go eat at the night market."
  },
  {
   "id": "l2-351",
@@ -3858,7 +4558,9 @@
   "pinyin": "guàng",
   "pos": "V",
   "gloss": "to stroll around",
-  "km": "ដើរមើល"
+  "km": "ដើរមើល",
+  "ex": "週末我常去公園逛一逛。",
+  "ex_en": "On weekends I often stroll around the park."
  },
  {
   "id": "l2-352",
@@ -3869,7 +4571,9 @@
   "pinyin": "guàngjiē",
   "pos": "V-sep",
   "gloss": "to go shopping",
-  "km": "ដើរផ្សារ"
+  "km": "ដើរផ្សារ",
+  "ex": "她週末最喜歡去逛街。",
+  "ex_en": "She loves going shopping on weekends."
  },
  {
   "id": "l2-353",
@@ -3880,7 +4584,9 @@
   "pinyin": "páiduì",
   "pos": "V-sep",
   "gloss": "to line up",
-  "km": "តម្រង់ជួរ"
+  "km": "តម្រង់ជួរ",
+  "ex": "買票的人在門口排隊。",
+  "ex_en": "People buying tickets are lining up at the entrance."
  },
  {
   "id": "l2-354",
@@ -3891,7 +4597,9 @@
   "pinyin": "kèmǎn",
   "pos": "Vp",
   "gloss": "fully booked; full",
-  "km": "អស់កន្លែង"
+  "km": "អស់កន្លែង",
+  "ex": "這家餐廳今天已經客滿了。",
+  "ex_en": "This restaurant is already fully booked today."
  },
  {
   "id": "l2-355",
@@ -3902,7 +4610,9 @@
   "pinyin": "shuākǎ",
   "pos": "V-sep",
   "gloss": "to pay by card",
-  "km": "បង់តាមកាត"
+  "km": "បង់តាមកាត",
+  "ex": "請問可以刷卡嗎？",
+  "ex_en": "Excuse me, can I pay by card?"
  },
  {
   "id": "l2-356",
@@ -3913,7 +4623,9 @@
   "pinyin": "tí",
   "pos": "V",
   "gloss": "to carry; to mention",
-  "km": "យួរ; លើកឡើង"
+  "km": "យួរ; លើកឡើង",
+  "ex": "我幫你提這個袋子吧。",
+  "ex_en": "Let me carry this bag for you."
  },
  {
   "id": "l2-357",
@@ -3924,7 +4636,9 @@
   "pinyin": "liúxíng",
   "pos": "Vs",
   "gloss": "popular; fashionable",
-  "km": "ពេញនិយម"
+  "km": "ពេញនិយម",
+  "ex": "這首歌現在非常流行。",
+  "ex_en": "This song is very popular right now."
  },
  {
   "id": "l2-358",
@@ -3935,7 +4649,9 @@
   "pinyin": "lánsè",
   "pos": "N",
   "gloss": "blue",
-  "km": "ពណ៌ខៀវ"
+  "km": "ពណ៌ខៀវ",
+  "ex": "我最喜歡的顏色是藍色。",
+  "ex_en": "My favorite color is blue."
  },
  {
   "id": "l2-359",
@@ -3946,7 +4662,9 @@
   "pinyin": "lǜsè",
   "pos": "N",
   "gloss": "green",
-  "km": "ពណ៌បៃតង"
+  "km": "ពណ៌បៃតង",
+  "ex": "她今天穿了綠色的裙子。",
+  "ex_en": "She wore a green skirt today."
  },
  {
   "id": "l2-360",
@@ -3957,7 +4675,9 @@
   "pinyin": "hóngsè",
   "pos": "N",
   "gloss": "red",
-  "km": "ពណ៌ក្រហម"
+  "km": "ពណ៌ក្រហម",
+  "ex": "過年大家喜歡穿紅色。",
+  "ex_en": "At New Year everyone likes to wear red."
  },
  {
   "id": "l2-361",
@@ -3968,7 +4688,9 @@
   "pinyin": "hēisè",
   "pos": "N",
   "gloss": "black",
-  "km": "ពណ៌ខ្មៅ"
+  "km": "ពណ៌ខ្មៅ",
+  "ex": "這雙黑色的鞋子很好看。",
+  "ex_en": "This pair of black shoes looks great."
  },
  {
   "id": "l2-362",
@@ -3979,7 +4701,9 @@
   "pinyin": "máoyī",
   "pos": "N",
   "gloss": "sweater",
-  "km": "អាវរងា"
+  "km": "អាវរងា",
+  "ex": "天冷了，多穿一件毛衣。",
+  "ex_en": "It's getting cold—put on an extra sweater."
  },
  {
   "id": "l2-363",
@@ -3990,7 +4714,9 @@
   "pinyin": "yǔyī",
   "pos": "N",
   "gloss": "raincoat",
-  "km": "អាវភ្លៀង"
+  "km": "អាវភ្លៀង",
+  "ex": "騎車要記得帶雨衣。",
+  "ex_en": "Remember to bring a raincoat when you ride."
  },
  {
   "id": "l2-364",
@@ -4001,7 +4727,9 @@
   "pinyin": "nèiyī",
   "pos": "N",
   "gloss": "underwear",
-  "km": "ខោអាវក្នុង"
+  "km": "ខោអាវក្នុង",
+  "ex": "我買了幾件新的內衣。",
+  "ex_en": "I bought a few new pieces of underwear."
  },
  {
   "id": "l2-365",
@@ -4012,7 +4740,9 @@
   "pinyin": "shàngyī",
   "pos": "N",
   "gloss": "top; upper garment",
-  "km": "អាវ"
+  "km": "អាវ",
+  "ex": "這件上衣是新買的。",
+  "ex_en": "This top is newly bought."
  },
  {
   "id": "l2-366",
@@ -4023,7 +4753,9 @@
   "pinyin": "píxié",
   "pos": "N",
   "gloss": "leather shoes",
-  "km": "ស្បែកជើងស្បែក"
+  "km": "ស្បែកជើងស្បែក",
+  "ex": "他上班都穿黑色的皮鞋。",
+  "ex_en": "He wears black leather shoes to work."
  },
  {
   "id": "l2-367",
@@ -4034,7 +4766,9 @@
   "pinyin": "shǒutào",
   "pos": "N",
   "gloss": "gloves",
-  "km": "ស្រោមដៃ"
+  "km": "ស្រោមដៃ",
+  "ex": "冬天出門要戴手套。",
+  "ex_en": "Wear gloves when going out in winter."
  },
  {
   "id": "l2-368",
@@ -4045,7 +4779,9 @@
   "pinyin": "kǒudài",
   "pos": "N",
   "gloss": "pocket",
-  "km": "ហោប៉ៅ"
+  "km": "ហោប៉ៅ",
+  "ex": "鑰匙就在我的口袋裡。",
+  "ex_en": "The keys are right in my pocket."
  },
  {
   "id": "l2-369",
@@ -4056,7 +4792,9 @@
   "pinyin": "xiǎofèi",
   "pos": "N",
   "gloss": "tip; gratuity",
-  "km": "ប្រាក់ទឹកតែ"
+  "km": "ប្រាក់ទឹកតែ",
+  "ex": "在美國吃飯要給小費。",
+  "ex_en": "In America you have to tip when dining out."
  },
  {
   "id": "l2-370",
@@ -4067,7 +4805,9 @@
   "pinyin": "dǎzhé",
   "pos": "V-sep",
   "gloss": "to give a discount",
-  "km": "បញ្ចុះតម្លៃ"
+  "km": "បញ្ចុះតម្លៃ",
+  "ex": "這些衣服現在都在打折。",
+  "ex_en": "These clothes are all on sale now."
  },
  {
   "id": "l2-371",
@@ -4078,7 +4818,9 @@
   "pinyin": "língqián",
   "pos": "N",
   "gloss": "small change",
-  "km": "លុយកាក់"
+  "km": "លុយកាក់",
+  "ex": "我身上沒有零錢了。",
+  "ex_en": "I don't have any small change on me."
  },
  {
   "id": "l2-372",
@@ -4089,7 +4831,9 @@
   "pinyin": "língyòngqián",
   "pos": "N",
   "gloss": "pocket money; allowance",
-  "km": "លុយហោប៉ៅ"
+  "km": "លុយហោប៉ៅ",
+  "ex": "媽媽每個星期給我零用錢。",
+  "ex_en": "Mom gives me pocket money every week."
  },
  {
   "id": "l2-373",
@@ -4100,7 +4844,9 @@
   "pinyin": "cún",
   "pos": "V",
   "gloss": "to deposit; to save",
-  "km": "សន្សំ"
+  "km": "សន្សំ",
+  "ex": "我每個月都會存一點錢。",
+  "ex_en": "I save a little money every month."
  },
  {
   "id": "l2-374",
@@ -4111,7 +4857,9 @@
   "pinyin": "máo",
   "pos": "M",
   "gloss": "measure word for dimes",
-  "km": "កាក់"
+  "km": "កាក់",
+  "ex": "一共是十塊五毛。",
+  "ex_en": "That's ten dollars and fifty cents in total."
  },
  {
   "id": "l2-375",
@@ -4122,7 +4870,9 @@
   "pinyin": "gāojí",
   "pos": "Vs",
   "gloss": "high-class; high-grade",
-  "km": "លំដាប់ខ្ពស់"
+  "km": "លំដាប់ខ្ពស់",
+  "ex": "這是一家高級餐廳。",
+  "ex_en": "This is a high-class restaurant."
  },
  {
   "id": "l2-376",
@@ -4133,7 +4883,9 @@
   "pinyin": "yībān",
   "pos": "Vs",
   "gloss": "ordinary; general",
-  "km": "ធម្មតា"
+  "km": "ធម្មតា",
+  "ex": "這家店的菜很一般。",
+  "ex_en": "The food at this shop is just average."
  },
  {
   "id": "l2-377",
@@ -4144,7 +4896,9 @@
   "pinyin": "héshì",
   "pos": "Vs",
   "gloss": "suitable; fitting",
-  "km": "សមរម្យ"
+  "km": "សមរម្យ",
+  "ex": "這件衣服大小很合適。",
+  "ex_en": "This piece of clothing fits just right."
  },
  {
   "id": "l2-378",
@@ -4155,7 +4909,9 @@
   "pinyin": "shìhé",
   "pos": "Vst",
   "gloss": "to suit; to fit",
-  "km": "សមនឹង"
+  "km": "សមនឹង",
+  "ex": "這雙鞋很適合你。",
+  "ex_en": "This pair of shoes really suits you."
  },
  {
   "id": "l2-379",
@@ -4166,7 +4922,9 @@
   "pinyin": "yuán",
   "pos": "Vs",
   "gloss": "round",
-  "km": "មូល"
+  "km": "មូល",
+  "ex": "今天晚上的月亮好圓。",
+  "ex_en": "The moon tonight is so round."
  },
  {
   "id": "l2-380",
@@ -4177,7 +4935,9 @@
   "pinyin": "guāng",
   "pos": "Vp",
   "gloss": "used up; gone",
-  "km": "អស់"
+  "km": "អស់",
+  "ex": "錢都用光了，怎麼辦？",
+  "ex_en": "The money is all used up—what now?"
  },
  {
   "id": "l2-381",
@@ -4188,7 +4948,9 @@
   "pinyin": "sǐ",
   "pos": "Vp",
   "gloss": "to die",
-  "km": "ស្លាប់"
+  "km": "ស្លាប់",
+  "ex": "花沒有水就會死。",
+  "ex_en": "Flowers die without water."
  },
  {
   "id": "l2-382",
@@ -4199,7 +4961,9 @@
   "pinyin": "zāng",
   "pos": "Vs",
   "gloss": "dirty",
-  "km": "កខ្វក់"
+  "km": "កខ្វក់",
+  "ex": "你的手好髒，快去洗。",
+  "ex_en": "Your hands are so dirty—go wash them."
  },
  {
   "id": "l2-383",
@@ -4210,7 +4974,9 @@
   "pinyin": "pò",
   "pos": "Vp",
   "gloss": "broken; torn",
-  "km": "បែក; រហែក"
+  "km": "បែក; រហែក",
+  "ex": "這件衣服已經破了。",
+  "ex_en": "This piece of clothing is already torn."
  },
  {
   "id": "l2-384",
@@ -4221,7 +4987,9 @@
   "pinyin": "dài",
   "pos": "M",
   "gloss": "measure word for bags",
-  "km": "ថង់"
+  "km": "ថង់",
+  "ex": "我買了一袋水果。",
+  "ex_en": "I bought a bag of fruit."
  },
  {
   "id": "l2-385",
@@ -4232,7 +5000,9 @@
   "pinyin": "tào",
   "pos": "M",
   "gloss": "measure word for sets, suits",
-  "km": "ឈុត"
+  "km": "ឈុត",
+  "ex": "他買了一套新衣服。",
+  "ex_en": "He bought a new set of clothes."
  },
  {
   "id": "l2-386",
@@ -4243,7 +5013,9 @@
   "pinyin": "shālā",
   "pos": "N",
   "gloss": "salad",
-  "km": "សាឡាដ"
+  "km": "សាឡាដ",
+  "ex": "中午我只吃了一盤沙拉。",
+  "ex_en": "For lunch I only ate a plate of salad."
  },
  {
   "id": "l2-387",
@@ -4254,7 +5026,9 @@
   "pinyin": "niúpái",
   "pos": "N",
   "gloss": "steak",
-  "km": "ស្តេកសាច់គោ"
+  "km": "ស្តេកសាច់គោ",
+  "ex": "這家店的牛排很好吃。",
+  "ex_en": "The steak at this place is delicious."
  },
  {
   "id": "l2-388",
@@ -4265,7 +5039,9 @@
   "pinyin": "hǎixiān",
   "pos": "N",
   "gloss": "seafood",
-  "km": "អាហារសមុទ្រ"
+  "km": "អាហារសមុទ្រ",
+  "ex": "我們去海邊吃海鮮吧。",
+  "ex_en": "Let's go to the seaside and eat seafood."
  },
  {
   "id": "l2-389",
@@ -4276,7 +5052,9 @@
   "pinyin": "huǒtuǐ",
   "pos": "N",
   "gloss": "ham",
-  "km": "សាច់ហាំ"
+  "km": "សាច់ហាំ",
+  "ex": "我要一個火腿三明治。",
+  "ex_en": "I'd like a ham sandwich."
  },
  {
   "id": "l2-390",
@@ -4287,7 +5065,9 @@
   "pinyin": "règǒu",
   "pos": "N",
   "gloss": "hot dog",
-  "km": "ហតដក"
+  "km": "ហតដក",
+  "ex": "弟弟最喜歡吃熱狗。",
+  "ex_en": "My little brother loves hot dogs the most."
  },
  {
   "id": "l2-391",
@@ -4298,7 +5078,9 @@
   "pinyin": "mántou",
   "pos": "N",
   "gloss": "steamed bun",
-  "km": "នំចំហុយ"
+  "km": "នំចំហុយ",
+  "ex": "早餐我吃了一個饅頭。",
+  "ex_en": "I ate a steamed bun for breakfast."
  },
  {
   "id": "l2-392",
@@ -4309,7 +5091,9 @@
   "pinyin": "mǐ",
   "pos": "N",
   "gloss": "uncooked rice",
-  "km": "អង្ករ"
+  "km": "អង្ករ",
+  "ex": "家裡的米快吃完了。",
+  "ex_en": "We're almost out of rice at home."
  },
  {
   "id": "l2-393",
@@ -4320,7 +5104,9 @@
   "pinyin": "dòufu",
   "pos": "N",
   "gloss": "tofu",
-  "km": "តៅហ៊ូ"
+  "km": "តៅហ៊ូ",
+  "ex": "這家店的豆腐很有名。",
+  "ex_en": "This shop's tofu is very famous."
  },
  {
   "id": "l2-394",
@@ -4331,7 +5117,9 @@
   "pinyin": "jú(zi )",
   "pos": "N",
   "gloss": "tangerine",
-  "km": "ក្រូចខ្វិច"
+  "km": "ក្រូចខ្វិច",
+  "ex": "冬天的橘子又甜又便宜。",
+  "ex_en": "Winter tangerines are sweet and cheap."
  },
  {
   "id": "l2-395",
@@ -4342,7 +5130,9 @@
   "pinyin": "pútao",
   "pos": "N",
   "gloss": "grape",
-  "km": "ទំពាំងបាយជូរ"
+  "km": "ទំពាំងបាយជូរ",
+  "ex": "這些葡萄看起來很新鮮。",
+  "ex_en": "These grapes look very fresh."
  },
  {
   "id": "l2-396",
@@ -4353,7 +5143,9 @@
   "pinyin": "mángguǒ",
   "pos": "N",
   "gloss": "mango",
-  "km": "ស្វាយ"
+  "km": "ស្វាយ",
+  "ex": "夏天我最愛吃芒果冰。",
+  "ex_en": "In summer I love mango ice the most."
  },
  {
   "id": "l2-397",
@@ -4364,7 +5156,9 @@
   "pinyin": "wūlóngchá",
   "pos": "N",
   "gloss": "oolong tea",
-  "km": "តែអូឡុង"
+  "km": "តែអូឡុង",
+  "ex": "請給我一杯熱烏龍茶。",
+  "ex_en": "Please give me a cup of hot oolong tea."
  },
  {
   "id": "l2-398",
@@ -4375,7 +5169,9 @@
   "pinyin": "dòujiāng",
   "pos": "N",
   "gloss": "soy milk",
-  "km": "ទឹកសណ្តែក"
+  "km": "ទឹកសណ្តែក",
+  "ex": "我早餐常喝豆漿。",
+  "ex_en": "I often drink soy milk for breakfast."
  },
  {
   "id": "l2-399",
@@ -4386,7 +5182,9 @@
   "pinyin": "kělè",
   "pos": "N",
   "gloss": "cola",
-  "km": "កូឡា"
+  "km": "កូឡា",
+  "ex": "天氣熱，我想喝冰可樂。",
+  "ex_en": "It's hot—I want an iced cola."
  },
  {
   "id": "l2-400",
@@ -4397,7 +5195,9 @@
   "pinyin": "nǎichá",
   "pos": "N",
   "gloss": "milk tea",
-  "km": "តែទឹកដោះគោ"
+  "km": "តែទឹកដោះគោ",
+  "ex": "台灣的奶茶非常有名。",
+  "ex_en": "Taiwan's milk tea is very famous."
  },
  {
   "id": "l2-401",
@@ -4408,7 +5208,9 @@
   "pinyin": "qìshuǐ",
   "pos": "N",
   "gloss": "soda; soft drink",
-  "km": "សូដា"
+  "km": "សូដា",
+  "ex": "少喝汽水，多喝水。",
+  "ex_en": "Drink less soda and more water."
  },
  {
   "id": "l2-402",
@@ -4419,7 +5221,9 @@
   "pinyin": "bīngkuài/bīngkuàir",
   "pos": "N",
   "gloss": "ice cube",
-  "km": "ដុំទឹកកក"
+  "km": "ដុំទឹកកក",
+  "ex": "請幫我加一點冰塊。",
+  "ex_en": "Please add some ice cubes for me."
  },
  {
   "id": "l2-403",
@@ -4430,7 +5234,9 @@
   "pinyin": "tiándiǎn",
   "pos": "N",
   "gloss": "dessert",
-  "km": "បង្អែម"
+  "km": "បង្អែម",
+  "ex": "吃完飯，我們點甜點吧。",
+  "ex_en": "After the meal, let's order dessert."
  },
  {
   "id": "l2-404",
@@ -4441,7 +5247,9 @@
   "pinyin": "bǐnggān",
   "pos": "N",
   "gloss": "cookie; cracker",
-  "km": "នំប៊ីស្គីត"
+  "km": "នំប៊ីស្គីត",
+  "ex": "她做的餅乾真好吃。",
+  "ex_en": "The cookies she makes are really tasty."
  },
  {
   "id": "l2-405",
@@ -4452,7 +5260,9 @@
   "pinyin": "yán",
   "pos": "N",
   "gloss": "salt",
-  "km": "អំបិល"
+  "km": "អំបិល",
+  "ex": "這個湯的鹽放太多了。",
+  "ex_en": "Too much salt was put in this soup."
  },
  {
   "id": "l2-406",
@@ -4463,7 +5273,9 @@
   "pinyin": "wèi/wèir",
   "pos": "N",
   "gloss": "taste; smell",
-  "km": "រសជាតិ; ក្លិន"
+  "km": "រសជាតិ; ក្លិន",
+  "ex": "這個菜的味道真好。",
+  "ex_en": "This dish tastes really good."
  },
  {
   "id": "l2-407",
@@ -4474,7 +5286,9 @@
   "pinyin": "wén",
   "pos": "V",
   "gloss": "to smell",
-  "km": "ហិត"
+  "km": "ហិត",
+  "ex": "你聞聞看，這花真香。",
+  "ex_en": "Smell it—this flower is really fragrant."
  },
  {
   "id": "l2-408",
@@ -4485,7 +5299,9 @@
   "pinyin": "chòu",
   "pos": "Vs",
   "gloss": "smelly; stinky",
-  "km": "ស្អុយ"
+  "km": "ស្អុយ",
+  "ex": "這個東西聞起來好臭。",
+  "ex_en": "This thing smells really bad."
  },
  {
   "id": "l2-409",
@@ -4496,7 +5312,9 @@
   "pinyin": "kǒu",
   "pos": "M",
   "gloss": "measure word for mouthfuls, bites",
-  "km": "ម៉ាត់"
+  "km": "ម៉ាត់",
+  "ex": "我只吃了一口飯。",
+  "ex_en": "I only ate one bite of rice."
  },
  {
   "id": "l2-410",
@@ -4507,7 +5325,9 @@
   "pinyin": "guàn",
   "pos": "M",
   "gloss": "measure word for cans, jars",
-  "km": "កំប៉ុង"
+  "km": "កំប៉ុង",
+  "ex": "他買了三罐汽水。",
+  "ex_en": "He bought three cans of soda."
  },
  {
   "id": "l2-411",
@@ -4518,7 +5338,9 @@
   "pinyin": "kē",
   "pos": "M",
   "gloss": "measure word for small round things",
-  "km": "គ្រាប់"
+  "km": "គ្រាប់",
+  "ex": "我吃了兩顆糖，很甜。",
+  "ex_en": "I ate two pieces of candy; they were sweet."
  },
  {
   "id": "l2-412",
@@ -4529,7 +5351,9 @@
   "pinyin": "rènhé",
   "pos": "Det",
   "gloss": "any",
-  "km": "ណាមួយ"
+  "km": "ណាមួយ",
+  "ex": "有任何問題都可以問我。",
+  "ex_en": "You can ask me about any questions you have."
  },
  {
   "id": "l2-413",
@@ -4540,7 +5364,9 @@
   "pinyin": "xǔduō",
   "pos": "Det",
   "gloss": "many; a lot of",
-  "km": "ជាច្រើន"
+  "km": "ជាច្រើន",
+  "ex": "公園裡有許多人在運動。",
+  "ex_en": "Many people are exercising in the park."
  },
  {
   "id": "l2-414",
@@ -4551,7 +5377,9 @@
   "pinyin": "xīnxian",
   "pos": "Vs",
   "gloss": "fresh",
-  "km": "ស្រស់"
+  "km": "ស្រស់",
+  "ex": "早上的菜最新鮮。",
+  "ex_en": "The vegetables in the morning are the freshest."
  },
  {
   "id": "l2-415",
@@ -4562,7 +5390,9 @@
   "pinyin": "shóu",
   "pos": "Vs",
   "gloss": "cooked; ripe; familiar",
-  "km": "ឆ្អិន; ទុំ"
+  "km": "ឆ្អិន; ទុំ",
+  "ex": "這些香蕉還沒熟。",
+  "ex_en": "These bananas aren't ripe yet."
  },
  {
   "id": "l2-416",
@@ -4573,7 +5403,9 @@
   "pinyin": "chǎo",
   "pos": "V",
   "gloss": "to stir-fry",
-  "km": "ឆា"
+  "km": "ឆា",
+  "ex": "媽媽炒的青菜很好吃。",
+  "ex_en": "The greens Mom stir-fries are delicious."
  },
  {
   "id": "l2-417",
@@ -4584,7 +5416,9 @@
   "pinyin": "zhá",
   "pos": "V",
   "gloss": "to deep-fry",
-  "km": "បំពង"
+  "km": "បំពង",
+  "ex": "炸的東西不要吃太多。",
+  "ex_en": "Don't eat too much deep-fried food."
  },
  {
   "id": "l2-418",
@@ -4595,7 +5429,9 @@
   "pinyin": "cháng",
   "pos": "V",
   "gloss": "to taste",
-  "km": "ភ្លក់"
+  "km": "ភ្លក់",
+  "ex": "你嚐嚐看這個湯的味道。",
+  "ex_en": "Taste this soup and see how it is."
  },
  {
   "id": "l2-419",
@@ -4606,7 +5442,9 @@
   "pinyin": "zhuāng",
   "pos": "V",
   "gloss": "to pack; to fill",
-  "km": "ច្រក"
+  "km": "ច្រក",
+  "ex": "我把書都裝進袋子裡了。",
+  "ex_en": "I packed all the books into the bag."
  },
  {
   "id": "l2-420",
@@ -4617,7 +5455,9 @@
   "pinyin": "bùyòng",
   "pos": "Adv",
   "gloss": "no need to",
-  "km": "មិនបាច់"
+  "km": "មិនបាច់",
+  "ex": "今天不用上班，真開心。",
+  "ex_en": "No need to work today—so happy."
  },
  {
   "id": "l2-421",
@@ -4628,7 +5468,9 @@
   "pinyin": "bùdàn",
   "pos": "Conj",
   "gloss": "not only",
-  "km": "មិនត្រឹមតែ"
+  "km": "មិនត្រឹមតែ",
+  "ex": "她不但漂亮，人也很好。",
+  "ex_en": "She is not only pretty but also very nice."
  },
  {
   "id": "l2-422",
@@ -4639,7 +5481,9 @@
   "pinyin": "bùbì",
   "pos": "Vaux",
   "gloss": "need not",
-  "km": "មិនចាំបាច់"
+  "km": "មិនចាំបាច់",
+  "ex": "你不必擔心，我沒事。",
+  "ex_en": "You needn't worry; I'm fine."
  },
  {
   "id": "l2-423",
@@ -4650,7 +5494,9 @@
   "pinyin": "bùdéliǎo",
   "pos": "Vs",
   "gloss": "extremely; terribly",
-  "km": "ខ្លាំងណាស់"
+  "km": "ខ្លាំងណាស់",
+  "ex": "外面熱得不得了。",
+  "ex_en": "It's terribly hot outside."
  },
  {
   "id": "l2-424",
@@ -4661,7 +5507,9 @@
   "pinyin": "bùguǎn",
   "pos": "Conj",
   "gloss": "no matter",
-  "km": "មិនថា"
+  "km": "មិនថា",
+  "ex": "不管多忙，他都會運動。",
+  "ex_en": "No matter how busy he is, he always exercises."
  },
  {
   "id": "l2-425",
@@ -4672,7 +5520,9 @@
   "pinyin": "zhǐhǎo",
   "pos": "Adv",
   "gloss": "have to; can only",
-  "km": "បង្ខំចិត្ត"
+  "km": "បង្ខំចិត្ត",
+  "ex": "下雨了，我們只好在家。",
+  "ex_en": "It rained, so we had no choice but to stay home."
  },
  {
   "id": "l2-426",
@@ -4683,7 +5533,9 @@
   "pinyin": "huò",
   "pos": "Conj",
   "gloss": "or",
-  "km": "ឬ"
+  "km": "ឬ",
+  "ex": "你想喝茶或咖啡？",
+  "ex_en": "Would you like tea or coffee?"
  },
  {
   "id": "l2-427",
@@ -4694,7 +5546,9 @@
   "pinyin": "kěnéng",
   "pos": "N",
   "gloss": "possibility",
-  "km": "លទ្ធភាព"
+  "km": "លទ្ធភាព",
+  "ex": "明天有可能會下雨。",
+  "ex_en": "There's a possibility it will rain tomorrow."
  },
  {
   "id": "l2-428",
@@ -4705,7 +5559,9 @@
   "pinyin": "érqiě",
   "pos": "Conj",
   "gloss": "moreover; and also",
-  "km": "ថែមទាំង"
+  "km": "ថែមទាំង",
+  "ex": "這裡的菜好吃，而且便宜。",
+  "ex_en": "The food here is tasty, and cheap too."
  },
  {
   "id": "l2-429",
@@ -4716,7 +5572,9 @@
   "pinyin": "yuánlái",
   "pos": "Adv",
   "gloss": "originally; as it turns out",
-  "km": "ដើមឡើយ"
+  "km": "ដើមឡើយ",
+  "ex": "原來你們早就認識了。",
+  "ex_en": "So you two already knew each other."
  },
  {
   "id": "l2-430",
@@ -4727,7 +5585,9 @@
   "pinyin": "yěxǔ",
   "pos": "Adv",
   "gloss": "perhaps; maybe",
-  "km": "ប្រហែលជា"
+  "km": "ប្រហែលជា",
+  "ex": "他也許明天就回來了。",
+  "ex_en": "Perhaps he'll be back tomorrow."
  },
  {
   "id": "l2-431",
@@ -4738,7 +5598,9 @@
   "pinyin": "bìxū",
   "pos": "Adv",
   "gloss": "must",
-  "km": "ត្រូវតែ"
+  "km": "ត្រូវតែ",
+  "ex": "學生必須每天上課。",
+  "ex_en": "Students must attend class every day."
  },
  {
   "id": "l2-432",
@@ -4749,7 +5611,9 @@
   "pinyin": "duōme",
   "pos": "Adv",
   "gloss": "how; so (exclamatory)",
-  "km": "ប៉ុណ្ណា"
+  "km": "ប៉ុណ្ណា",
+  "ex": "今天的天氣多麼好啊！",
+  "ex_en": "What lovely weather it is today!"
  },
  {
   "id": "l2-433",
@@ -4760,7 +5624,9 @@
   "pinyin": "zhèyàng",
   "pos": "Vs",
   "gloss": "like this",
-  "km": "បែបនេះ"
+  "km": "បែបនេះ",
+  "ex": "這樣做比較快。",
+  "ex_en": "Doing it this way is faster."
  },
  {
   "id": "l2-434",
@@ -4771,7 +5637,9 @@
   "pinyin": "nàyàng",
   "pos": "Adv / Vs",
   "gloss": "like that",
-  "km": "បែបនោះ"
+  "km": "បែបនោះ",
+  "ex": "你別像他那樣說話。",
+  "ex_en": "Don't talk the way he does."
  },
  {
   "id": "l2-435",
@@ -4782,7 +5650,9 @@
   "pinyin": "děng/děngděng",
   "pos": "Ptc",
   "gloss": "and so on; etc.",
-  "km": "ជាដើម"
+  "km": "ជាដើម",
+  "ex": "我買了水果、麵包等東西。",
+  "ex_en": "I bought fruit, bread, and other such things."
  },
  {
   "id": "l2-436",
@@ -4793,7 +5663,9 @@
   "pinyin": "biéde",
   "pos": "Det",
   "gloss": "other",
-  "km": "ផ្សេងទៀត"
+  "km": "ផ្សេងទៀត",
+  "ex": "這個不好，我看看別的。",
+  "ex_en": "This one isn't good; let me look at other ones."
  },
  {
   "id": "l2-437",
@@ -4804,7 +5676,9 @@
   "pinyin": "chúle",
   "pos": "Prep",
   "gloss": "except; besides",
-  "km": "ក្រៅពី"
+  "km": "ក្រៅពី",
+  "ex": "除了他，大家都來了。",
+  "ex_en": "Everyone came except him."
  },
  {
   "id": "l2-438",
@@ -4815,7 +5689,9 @@
   "pinyin": "cónglái",
   "pos": "Adv",
   "gloss": "always; (with negation) never",
-  "km": "ពីមុនមក"
+  "km": "ពីមុនមក",
+  "ex": "我從來沒去過日本。",
+  "ex_en": "I have never been to Japan."
  },
  {
   "id": "l2-439",
@@ -4826,7 +5702,9 @@
   "pinyin": "dàgài",
   "pos": "Adv",
   "gloss": "probably; approximately",
-  "km": "ប្រហែល"
+  "km": "ប្រហែល",
+  "ex": "從這裡走大概十分鐘。",
+  "ex_en": "It's about a ten-minute walk from here."
  },
  {
   "id": "l2-440",
@@ -4837,7 +5715,9 @@
   "pinyin": "háihǎo",
   "pos": "Adv",
   "gloss": "fortunately; not bad",
-  "km": "សំណាងល្អ"
+  "km": "សំណាងល្អ",
+  "ex": "還好你來了，謝謝你。",
+  "ex_en": "Thankfully you came—thank you."
  },
  {
   "id": "l2-441",
@@ -4848,7 +5728,9 @@
   "pinyin": "jí",
   "pos": "Adv",
   "gloss": "extremely",
-  "km": "បំផុត"
+  "km": "បំផុត",
+  "ex": "這個蛋糕好吃極了。",
+  "ex_en": "This cake is extremely delicious."
  },
  {
   "id": "l2-442",
@@ -4859,7 +5741,9 @@
   "pinyin": "jiēzhe",
   "pos": "Adv",
   "gloss": "next; then",
-  "km": "បន្ទាប់មក"
+  "km": "បន្ទាប់មក",
+  "ex": "他先洗澡，接著就睡覺了。",
+  "ex_en": "He showered first and then went to sleep."
  },
  {
   "id": "l2-443",
@@ -4870,7 +5754,9 @@
   "pinyin": "jiéguǒ",
   "pos": "Conj",
   "gloss": "as a result",
-  "km": "ជាលទ្ធផល"
+  "km": "ជាលទ្ធផល",
+  "ex": "他跑得很快，結果還是晚了。",
+  "ex_en": "He ran fast, but ended up late anyway."
  },
  {
   "id": "l2-444",
@@ -4881,7 +5767,9 @@
   "pinyin": "lìkè",
   "pos": "Adv",
   "gloss": "immediately",
-  "km": "ភ្លាមៗ"
+  "km": "ភ្លាមៗ",
+  "ex": "下課後，我立刻回家了。",
+  "ex_en": "After class, I went home immediately."
  },
  {
   "id": "l2-445",
@@ -4892,7 +5780,9 @@
   "pinyin": "méixiǎngdào",
   "pos": "",
   "gloss": "unexpectedly; who would have thought",
-  "km": "នឹកស្មានមិនដល់"
+  "km": "នឹកស្មានមិនដល់",
+  "ex": "沒想到你也在這裡！",
+  "ex_en": "I didn't expect you to be here too!"
  },
  {
   "id": "l2-446",
@@ -4903,7 +5793,9 @@
   "pinyin": "qíshí",
   "pos": "Adv",
   "gloss": "actually",
-  "km": "តាមពិត"
+  "km": "តាមពិត",
+  "ex": "他看起來年輕，其實四十了。",
+  "ex_en": "He looks young, but he's actually forty."
  },
  {
   "id": "l2-447",
@@ -4914,7 +5806,9 @@
   "pinyin": "qízhōng",
   "pos": "Det",
   "gloss": "among which",
-  "km": "ក្នុងនោះ"
+  "km": "ក្នុងនោះ",
+  "ex": "我有三支手機，其中一支壞了。",
+  "ex_en": "I have three phones, one of which is broken."
  },
  {
   "id": "l2-448",
@@ -4925,7 +5819,9 @@
   "pinyin": "wánquán",
   "pos": "Adv",
   "gloss": "completely",
-  "km": "ទាំងស្រុង"
+  "km": "ទាំងស្រុង",
+  "ex": "這件事我完全不知道。",
+  "ex_en": "I knew absolutely nothing about this."
  },
  {
   "id": "l2-449",
@@ -4936,7 +5832,9 @@
   "pinyin": "xiāngdāng",
   "pos": "Adv",
   "gloss": "quite; fairly",
-  "km": "គួរសម"
+  "km": "គួរសម",
+  "ex": "這個問題相當難。",
+  "ex_en": "This question is quite difficult."
  },
  {
   "id": "l2-450",
@@ -4947,7 +5845,9 @@
   "pinyin": "yīqiè",
   "pos": "Det",
   "gloss": "all; everything",
-  "km": "អ្វីៗទាំងអស់"
+  "km": "អ្វីៗទាំងអស់",
+  "ex": "放心，一切都很順利。",
+  "ex_en": "Don't worry—everything is going smoothly."
  },
  {
   "id": "l2-451",
@@ -4958,7 +5858,9 @@
   "pinyin": "yǐ",
   "pos": "Adv",
   "gloss": "already",
-  "km": "រួចហើយ"
+  "km": "រួចហើយ",
+  "ex": "時間已不早了，快走吧。",
+  "ex_en": "It's already late—let's go."
  },
  {
   "id": "l2-452",
@@ -4969,7 +5871,9 @@
   "pinyin": "yóuqí",
   "pos": "Adv",
   "gloss": "especially",
-  "km": "ជាពិសេស"
+  "km": "ជាពិសេស",
+  "ex": "我愛吃水果，尤其是芒果。",
+  "ex_en": "I love fruit, especially mangoes."
  },
  {
   "id": "l2-453",
@@ -4980,7 +5884,9 @@
   "pinyin": "yuè",
   "pos": "Adv",
   "gloss": "the more",
-  "km": "កាន់តែ"
+  "km": "កាន់តែ",
+  "ex": "雨越下越大了。",
+  "ex_en": "The rain is getting heavier and heavier."
  },
  {
   "id": "l2-454",
@@ -4991,7 +5897,9 @@
   "pinyin": "zhěng",
   "pos": "Det",
   "gloss": "whole; entire",
-  "km": "ទាំងមូល"
+  "km": "ទាំងមូល",
+  "ex": "他整天都在家看電視。",
+  "ex_en": "He watched TV at home the whole day."
  },
  {
   "id": "l2-455",
@@ -5002,7 +5910,9 @@
   "pinyin": "zhèng",
   "pos": "Adv",
   "gloss": "just; in the middle of",
-  "km": "កំពុងតែ"
+  "km": "កំពុងតែ",
+  "ex": "我正想打電話給你呢。",
+  "ex_en": "I was just about to call you."
  },
  {
   "id": "l2-456",
@@ -5013,7 +5923,9 @@
   "pinyin": "zhǐyào",
   "pos": "Conj",
   "gloss": "as long as",
-  "km": "ឲ្យតែ"
+  "km": "ឲ្យតែ",
+  "ex": "只要你來，我就開心。",
+  "ex_en": "As long as you come, I'll be happy."
  },
  {
   "id": "l2-457",
@@ -5024,7 +5936,9 @@
   "pinyin": "zuìhǎo",
   "pos": "Adv",
   "gloss": "had better",
-  "km": "គួរតែ"
+  "km": "គួរតែ",
+  "ex": "你最好早一點出門。",
+  "ex_en": "You'd better leave home a bit early."
  },
  {
   "id": "l2-458",
@@ -5035,7 +5949,9 @@
   "pinyin": "tóngyàng",
   "pos": "Adv / Vs-attr",
   "gloss": "same; equally",
-  "km": "ដូចគ្នា"
+  "km": "ដូចគ្នា",
+  "ex": "我們兩個買了同樣的鞋子。",
+  "ex_en": "The two of us bought the same shoes."
  },
  {
   "id": "l2-459",
@@ -5046,7 +5962,9 @@
   "pinyin": "kōng",
   "pos": "Vs",
   "gloss": "empty",
-  "km": "ទទេ"
+  "km": "ទទេ",
+  "ex": "這個盒子是空的。",
+  "ex_en": "This box is empty."
  },
  {
   "id": "l2-460",
@@ -5057,7 +5975,9 @@
   "pinyin": "kòng",
   "pos": "Vs",
   "gloss": "free; unoccupied",
-  "km": "ទំនេរ"
+  "km": "ទំនេរ",
+  "ex": "你明天有空嗎？",
+  "ex_en": "Are you free tomorrow?"
  },
  {
   "id": "l2-461",
@@ -5068,7 +5988,9 @@
   "pinyin": "lián",
   "pos": "Conj / Vst",
   "gloss": "even; to connect",
-  "km": "សូម្បីតែ; ភ្ជាប់"
+  "km": "សូម្បីតែ; ភ្ជាប់",
+  "ex": "他連早飯都沒吃就走了。",
+  "ex_en": "He left without even eating breakfast."
  },
  {
   "id": "l2-462",
@@ -5079,7 +6001,9 @@
   "pinyin": "bèi",
   "pos": "N",
   "gloss": "times; -fold",
-  "km": "ដង"
+  "km": "ដង",
+  "ex": "這裡的房子貴了一倍。",
+  "ex_en": "Houses here have doubled in price."
  },
  {
   "id": "l2-463",
@@ -5090,7 +6014,9 @@
   "pinyin": "bāokuò",
   "pos": "Vst",
   "gloss": "to include",
-  "km": "រួមបញ្ចូល"
+  "km": "រួមបញ្ចូល",
+  "ex": "這個價錢包括早餐嗎？",
+  "ex_en": "Does this price include breakfast?"
  },
  {
   "id": "l2-464",
@@ -5101,7 +6027,9 @@
   "pinyin": "bù",
   "pos": "M",
   "gloss": "measure word for steps",
-  "km": "ជំហាន"
+  "km": "ជំហាន",
+  "ex": "請往前走幾步。",
+  "ex_en": "Please take a few steps forward."
  },
  {
   "id": "l2-465",
@@ -5112,7 +6040,9 @@
   "pinyin": "dāngshí",
   "pos": "N",
   "gloss": "at that time",
-  "km": "ពេលនោះ"
+  "km": "ពេលនោះ",
+  "ex": "當時我還是個學生。",
+  "ex_en": "At that time I was still a student."
  },
  {
   "id": "l2-466",
@@ -5123,7 +6053,9 @@
   "pinyin": "děngdào",
   "pos": "Prep",
   "gloss": "by the time; when",
-  "km": "ដល់ពេល"
+  "km": "ដល់ពេល",
+  "ex": "等到週末，我們再去玩。",
+  "ex_en": "Wait until the weekend, and then we'll go out."
  },
  {
   "id": "l2-467",
@@ -5134,7 +6066,9 @@
   "pinyin": "fán",
   "pos": "Vs",
   "gloss": "annoyed; annoying",
-  "km": "ធុញទ្រាន់"
+  "km": "ធុញទ្រាន់",
+  "ex": "這件事讓我很煩。",
+  "ex_en": "This matter really annoys me."
  },
  {
   "id": "l2-468",
@@ -5145,7 +6079,9 @@
   "pinyin": "gānghǎo",
   "pos": "Vs",
   "gloss": "just right; coincidental",
-  "km": "ត្រូវល្មម"
+  "km": "ត្រូវល្មម",
+  "ex": "我剛好也要去車站。",
+  "ex_en": "I happen to be going to the station too."
  },
  {
   "id": "l2-469",
@@ -5156,7 +6092,9 @@
   "pinyin": "huòzhě",
   "pos": "Conj",
   "gloss": "or; either",
-  "km": "ឬក៏"
+  "km": "ឬក៏",
+  "ex": "我們坐車或者走路都可以。",
+  "ex_en": "We can take a bus or walk—either is fine."
  },
  {
   "id": "l2-470",
@@ -5167,7 +6105,9 @@
   "pinyin": "wā",
   "pos": "Ptc",
   "gloss": "wow",
-  "km": "វ៉ាវ"
+  "km": "វ៉ាវ",
+  "ex": "哇！這個蛋糕好漂亮！",
+  "ex_en": "Wow! This cake is so beautiful!"
  },
  {
   "id": "l2-471",
@@ -5178,7 +6118,9 @@
   "pinyin": "xū",
   "pos": "Vst",
   "gloss": "to need",
-  "km": "ត្រូវការ"
+  "km": "ត្រូវការ",
+  "ex": "這件事還需一點時間。",
+  "ex_en": "This matter still needs a little time."
  },
  {
   "id": "l2-472",
@@ -5189,7 +6131,9 @@
   "pinyin": "xū",
   "pos": "Adv",
   "gloss": "must",
-  "km": "ត្រូវតែ"
+  "km": "ត្រូវតែ",
+  "ex": "學生上課須帶課本。",
+  "ex_en": "Students must bring their textbooks to class."
  },
  {
   "id": "l2-473",
@@ -5200,7 +6144,9 @@
   "pinyin": "zhíjiē",
   "pos": "Vs",
   "gloss": "direct",
-  "km": "ផ្ទាល់"
+  "km": "ផ្ទាល់",
+  "ex": "下班後我直接回家了。",
+  "ex_en": "After work I went straight home."
  },
  {
   "id": "l2-474",
@@ -5211,7 +6157,9 @@
   "pinyin": "zǒng",
   "pos": "Adv",
   "gloss": "always; invariably",
-  "km": "តែងតែ"
+  "km": "តែងតែ",
+  "ex": "他總是很早起床。",
+  "ex_en": "He always gets up very early."
  },
  {
   "id": "l2-475",
@@ -5222,7 +6170,9 @@
   "pinyin": "pào",
   "pos": "V",
   "gloss": "to soak; to brew",
-  "km": "ត្រាំ; ឆុង"
+  "km": "ត្រាំ; ឆុង",
+  "ex": "我泡了一杯熱茶給你。",
+  "ex_en": "I brewed a cup of hot tea for you."
  },
  {
   "id": "l2-476",
@@ -5233,7 +6183,9 @@
   "pinyin": "qiě",
   "pos": "Conj",
   "gloss": "and; moreover",
-  "km": "ម្យ៉ាងទៀត"
+  "km": "ម្យ៉ាងទៀត",
+  "ex": "這個方法簡單且有用。",
+  "ex_en": "This method is simple and useful."
  },
  {
   "id": "l2-477",
@@ -5244,7 +6196,9 @@
   "pinyin": "bǐfāng",
   "pos": "N",
   "gloss": "example; analogy",
-  "km": "ឧទាហរណ៍"
+  "km": "ឧទាហរណ៍",
+  "ex": "你可以給我一個比方嗎？",
+  "ex_en": "Can you give me an example?"
  },
  {
   "id": "l2-478",
@@ -5255,7 +6209,9 @@
   "pinyin": "bǐfāngshūo",
   "pos": "Vst",
   "gloss": "for example",
-  "km": "ឧទាហរណ៍ដូចជា"
+  "km": "ឧទាហរណ៍ដូចជា",
+  "ex": "我喜歡運動，比方說游泳。",
+  "ex_en": "I like sports—for example, swimming."
  },
  {
   "id": "l2-479",
@@ -5266,7 +6222,9 @@
   "pinyin": "chuán",
   "pos": "V",
   "gloss": "to pass on; to transmit",
-  "km": "បញ្ជូនបន្ត"
+  "km": "បញ្ជូនបន្ត",
+  "ex": "請把這張照片傳給我。",
+  "ex_en": "Please send this photo to me."
  },
  {
   "id": "l2-480",
@@ -5277,7 +6235,9 @@
   "pinyin": "lìng",
   "pos": "Det",
   "gloss": "another; the other",
-  "km": "មួយទៀត"
+  "km": "មួយទៀត",
+  "ex": "這個不行，我們想另一個辦法。",
+  "ex_en": "This won't work; let's think of another way."
  },
  {
   "id": "l2-481",
@@ -5288,7 +6248,9 @@
   "pinyin": "lìngwài",
   "pos": "Conj / Det",
   "gloss": "in addition; another",
-  "km": "ក្រៅពីនេះ"
+  "km": "ក្រៅពីនេះ",
+  "ex": "另外，明天記得帶雨傘。",
+  "ex_en": "In addition, remember to bring an umbrella tomorrow."
  },
  {
   "id": "l2-482",
@@ -5299,7 +6261,9 @@
   "pinyin": "zuǒyòu",
   "pos": "N / V",
   "gloss": "around; approximately",
-  "km": "ប្រមាណ"
+  "km": "ប្រមាណ",
+  "ex": "我五點左右到你家。",
+  "ex_en": "I'll arrive at your place around five."
  },
  {
   "id": "l2-483",
@@ -5310,7 +6274,9 @@
   "pinyin": "dāng",
   "pos": "Prep",
   "gloss": "when; at (the time)",
-  "km": "នៅពេល"
+  "km": "នៅពេល",
+  "ex": "當你不在的時候，我很想你。",
+  "ex_en": "When you're not here, I miss you a lot."
  },
  {
   "id": "l2-484",
@@ -5321,7 +6287,9 @@
   "pinyin": "lèi",
   "pos": "M",
   "gloss": "measure word for kinds, categories",
-  "km": "ប្រភេទ"
+  "km": "ប្រភេទ",
+  "ex": "我不喜歡吃這類東西。",
+  "ex_en": "I don't like eating this kind of thing."
  },
  {
   "id": "l2-485",
@@ -5332,6 +6300,8 @@
   "pinyin": "yàng",
   "pos": "M",
   "gloss": "measure word for kinds, types",
-  "km": "យ៉ាង"
+  "km": "យ៉ាង",
+  "ex": "媽媽做了好幾樣菜。",
+  "ex_en": "Mom made quite a few kinds of dishes."
  }
 ]

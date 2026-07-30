@@ -802,5 +802,1623 @@
     "answer": 0
    }
   ]
+ },
+ {
+  "id": "tw-13",
+  "level": "l1",
+  "title_zh": "台灣的早餐店",
+  "title_en": "Taiwan's Breakfast Shops",
+  "body": "台灣的早餐店很多，差不多每條街都有。早上，很多人去早餐店買蛋餅、三明治，喝一杯熱豆漿。早餐店的東西便宜又好吃，花一點錢就可以吃得很飽。很多學生上課以前，都會先去早餐店買早餐。",
+  "translation_en": "Taiwan has many breakfast shops — there is one on almost every street. In the morning, many people go to a breakfast shop to buy an egg pancake or a sandwich and drink a cup of hot soy milk. The food at breakfast shops is cheap and tasty; you can eat until you are full for very little money. Before class, many students first stop by a breakfast shop to buy breakfast.",
+  "vocab": [
+   {
+    "w": "早餐店",
+    "p": "zǎocāndiàn",
+    "en": "breakfast shop"
+   },
+   {
+    "w": "早餐",
+    "p": "zǎocān",
+    "en": "breakfast"
+   },
+   {
+    "w": "蛋餅",
+    "p": "dànbǐng",
+    "en": "egg pancake (Taiwanese egg crepe)"
+   },
+   {
+    "w": "三明治",
+    "p": "sānmíngzhì",
+    "en": "sandwich"
+   },
+   {
+    "w": "豆漿",
+    "p": "dòujiāng",
+    "en": "soy milk"
+   }
+  ],
+  "questions": [
+   {
+    "q": "在早餐店，你可以買什麼？",
+    "options": [
+     "蛋餅和三明治",
+     "魚和肉",
+     "書和筆",
+     "衣服和帽子"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "早餐店的東西怎麼樣？",
+    "options": [
+     "很貴",
+     "便宜又好吃",
+     "不好吃",
+     "很少"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "很多學生什麼時候去早餐店？",
+    "options": [
+     "晚上",
+     "中午",
+     "上課以前",
+     "睡覺以前"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-14",
+  "level": "l1",
+  "title_zh": "手搖飲料店",
+  "title_en": "Hand-Shaken Drink Shops",
+  "body": "在台灣，街上有很多手搖飲料店，賣紅茶、奶茶和很多好喝的飲料。買的時候，老闆會問你要多甜、要多少冰塊，很多人都說「半糖少冰」。夏天很熱，下課以後喝一杯，非常舒服。",
+  "translation_en": "In Taiwan, the streets are full of hand-shaken drink shops selling black tea, milk tea, and many other tasty drinks. When you order, the owner will ask how sweet you want it and how much ice you want — many people say \"half sugar, less ice.\" Summer is very hot, and a cup after class feels wonderful.",
+  "vocab": [
+   {
+    "w": "手搖飲料店",
+    "p": "shǒuyáo yǐnliàodiàn",
+    "en": "hand-shaken drink shop"
+   },
+   {
+    "w": "冰塊",
+    "p": "bīngkuài",
+    "en": "ice cubes"
+   },
+   {
+    "w": "半糖",
+    "p": "bàntáng",
+    "en": "half sugar"
+   },
+   {
+    "w": "少冰",
+    "p": "shǎobīng",
+    "en": "less ice"
+   },
+   {
+    "w": "老闆",
+    "p": "lǎobǎn",
+    "en": "boss; shop owner"
+   }
+  ],
+  "questions": [
+   {
+    "q": "買飲料的時候，老闆會問你什麼？",
+    "options": [
+     "你叫什麼名字",
+     "你住在哪裡",
+     "你今年幾歲",
+     "要多甜、要多少冰塊"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "很多人買飲料的時候都說什麼？",
+    "options": [
+     "半糖少冰",
+     "不要錢",
+     "我要吃飯",
+     "再見"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "什麼時候喝一杯飲料非常舒服？",
+    "options": [
+     "冬天很冷的時候",
+     "夏天很熱的時候",
+     "早上起床的時候",
+     "下雨的時候"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-15",
+  "level": "l1",
+  "title_zh": "滿街的機車",
+  "title_en": "Scooters Everywhere",
+  "body": "在台灣，路上有很多機車，很多人每天騎機車上班、上學。騎機車的人都要戴安全帽，下雨的時候，他們會穿上雨衣。你過馬路的時候要小心，先看左邊，再看右邊，看見沒有車了再走過去。",
+  "translation_en": "In Taiwan, the roads are full of scooters, and many people ride one to work or school every day. Everyone who rides a scooter must wear a helmet, and when it rains, they put on raincoats. When you cross the road, be careful: look left first, then look right, and only walk across when you see there are no vehicles coming.",
+  "vocab": [
+   {
+    "w": "機車",
+    "p": "jīchē",
+    "en": "scooter; motorbike"
+   },
+   {
+    "w": "安全帽",
+    "p": "ānquánmào",
+    "en": "helmet"
+   },
+   {
+    "w": "雨衣",
+    "p": "yǔyī",
+    "en": "raincoat"
+   },
+   {
+    "w": "過馬路",
+    "p": "guò mǎlù",
+    "en": "to cross the road"
+   },
+   {
+    "w": "小心",
+    "p": "xiǎoxīn",
+    "en": "to be careful"
+   }
+  ],
+  "questions": [
+   {
+    "q": "在台灣，很多人騎機車做什麼？",
+    "options": [
+     "上班、上學",
+     "去游泳",
+     "去看病",
+     "去唱歌"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "下雨的時候，騎機車的人會穿什麼？",
+    "options": [
+     "大衣",
+     "外套",
+     "雨衣",
+     "新衣服"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "過馬路的時候，你要怎麼做？",
+    "options": [
+     "快快地走過去",
+     "一邊走一邊看手機",
+     "不用看車",
+     "先看左邊，再看右邊"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-16",
+  "level": "l1",
+  "title_zh": "颱風假",
+  "title_en": "Typhoon Days Off",
+  "body": "台灣夏天常常有颱風。颱風來的時候，風很大，雨也很大，學校和公司都會放假，大家叫它「颱風假」。放假以前，很多人會先去超市買麵、麵包和水。颱風天最好不要出去，在家休息、看看電視，等颱風過去。",
+  "translation_en": "In summer, Taiwan often has typhoons. When a typhoon comes, the wind and rain are very strong, so schools and companies close for the day — people call it a \"typhoon day off.\" Before the day off, many people first go to the supermarket to buy noodles, bread, and water. On a typhoon day it is best not to go out; rest at home, watch some TV, and wait for the typhoon to pass.",
+  "vocab": [
+   {
+    "w": "颱風",
+    "p": "táifēng",
+    "en": "typhoon"
+   },
+   {
+    "w": "颱風假",
+    "p": "táifēngjià",
+    "en": "typhoon day off"
+   },
+   {
+    "w": "放假",
+    "p": "fàngjià",
+    "en": "to have a day off"
+   },
+   {
+    "w": "超市",
+    "p": "chāoshì",
+    "en": "supermarket"
+   },
+   {
+    "w": "休息",
+    "p": "xiūxí",
+    "en": "to rest"
+   }
+  ],
+  "questions": [
+   {
+    "q": "颱風來的時候，天氣怎麼樣？",
+    "options": [
+     "天氣很好",
+     "風很大，雨也很大",
+     "很熱",
+     "不下雨"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "放假以前，很多人會先做什麼？",
+    "options": [
+     "去游泳",
+     "去看電影",
+     "去公園玩",
+     "去超市買麵、麵包和水"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "颱風天最好在哪裡？",
+    "options": [
+     "學校",
+     "路上",
+     "家裡",
+     "山上"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-17",
+  "level": "l1",
+  "title_zh": "便當",
+  "title_en": "Bento Boxes",
+  "body": "很多台灣人中午吃便當。便當是一個盒子，裡面有飯，上面放著肉、蛋和青菜，有的還有魚。便當便宜又方便，花七八十塊錢就可以買一個。學校附近有很多便當店，中午的時候，學生都喜歡去買便當。",
+  "translation_en": "Many Taiwanese people eat a bento box for lunch. A bento is a box with rice inside, topped with meat, egg, and green vegetables — some also have fish. Bento boxes are cheap and convenient; for about seventy or eighty NT dollars you can buy one. There are many bento shops near schools, and at noon students love going to buy one.",
+  "vocab": [
+   {
+    "w": "便當",
+    "p": "biàndāng",
+    "en": "bento; lunch box"
+   },
+   {
+    "w": "盒子",
+    "p": "hézi",
+    "en": "box"
+   },
+   {
+    "w": "青菜",
+    "p": "qīngcài",
+    "en": "green vegetables"
+   },
+   {
+    "w": "方便",
+    "p": "fāngbiàn",
+    "en": "convenient"
+   },
+   {
+    "w": "附近",
+    "p": "fùjìn",
+    "en": "nearby"
+   }
+  ],
+  "questions": [
+   {
+    "q": "便當裡面有什麼？",
+    "options": [
+     "只有水果",
+     "飯、肉、蛋和青菜",
+     "只有麵包",
+     "只有飲料"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "一個便當差不多多少錢？",
+    "options": [
+     "七八十塊錢",
+     "七八百塊錢",
+     "一千塊錢",
+     "不用錢"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "中午的時候，很多學生喜歡做什麼？",
+    "options": [
+     "回家睡覺",
+     "去打球",
+     "去圖書館",
+     "去買便當"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-18",
+  "level": "l1",
+  "title_zh": "宿舍生活",
+  "title_en": "Dorm Life",
+  "body": "很多外國學生住在學校的宿舍裡。宿舍的房間不大，你會跟室友一起住，大家一起讀書、聊天，非常快樂。宿舍裡有洗衣機，你可以自己洗衣服，很方便。晚上讀書讀得餓了，同學們常常一起去買宵夜吃。",
+  "translation_en": "Many international students live in the school dormitory. Dorm rooms are not big; you live together with roommates, and everyone studies and chats together — it is a lot of fun. The dorm has washing machines, so you can wash your own clothes, which is very convenient. When studying at night makes them hungry, classmates often go out together to buy late-night snacks.",
+  "vocab": [
+   {
+    "w": "宿舍",
+    "p": "sùshè",
+    "en": "dormitory"
+   },
+   {
+    "w": "室友",
+    "p": "shìyǒu",
+    "en": "roommate"
+   },
+   {
+    "w": "洗衣機",
+    "p": "xǐyījī",
+    "en": "washing machine"
+   },
+   {
+    "w": "宵夜",
+    "p": "xiāoyè",
+    "en": "late-night snack"
+   },
+   {
+    "w": "聊天",
+    "p": "liáotiān",
+    "en": "to chat"
+   }
+  ],
+  "questions": [
+   {
+    "q": "學生住在宿舍，跟誰一起住？",
+    "options": [
+     "老師",
+     "爸爸媽媽",
+     "室友",
+     "老闆"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "宿舍裡有什麼，很方便？",
+    "options": [
+     "電影院",
+     "超市",
+     "飯店",
+     "洗衣機"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "晚上讀書讀得餓了，同學們常常做什麼？",
+    "options": [
+     "去上課",
+     "一起去買宵夜",
+     "去洗衣服",
+     "去公園"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-19",
+  "level": "l1",
+  "title_zh": "台灣人的問候",
+  "title_en": "Taiwanese Greetings",
+  "body": "台灣人見面的時候，常常問：「吃飽沒？」他們不是真的問你吃飯了沒有，這是打招呼，就是「你好」的意思。他們也常問你要去哪裡、最近忙不忙。這樣的問候，讓人覺得很溫暖。",
+  "translation_en": "When Taiwanese people meet, they often ask, \"Have you eaten yet?\" They are not really asking whether you have had a meal — it is a way of saying hello. They also like to ask where you are going or whether you have been busy lately. Greetings like these make people feel very warm inside.",
+  "vocab": [
+   {
+    "w": "問候",
+    "p": "wènhòu",
+    "en": "greeting"
+   },
+   {
+    "w": "吃飽沒",
+    "p": "chībǎo méi",
+    "en": "Have you eaten? (a common hello)"
+   },
+   {
+    "w": "打招呼",
+    "p": "dǎ zhāohū",
+    "en": "to greet; to say hi"
+   },
+   {
+    "w": "意思",
+    "p": "yìsi",
+    "en": "meaning"
+   },
+   {
+    "w": "溫暖",
+    "p": "wēnnuǎn",
+    "en": "warm (feeling)"
+   }
+  ],
+  "questions": [
+   {
+    "q": "台灣人見面的時候，常常說什麼？",
+    "options": [
+     "再見",
+     "對不起",
+     "吃飽沒",
+     "謝謝"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "「吃飽沒」是什麼意思？",
+    "options": [
+     "打招呼，就是「你好」",
+     "真的問你吃飯了沒有",
+     "請你吃飯",
+     "說再見"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "聽到這樣的問候，人會覺得怎麼樣？",
+    "options": [
+     "很生氣",
+     "很累",
+     "很冷",
+     "很溫暖"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-20",
+  "level": "l1",
+  "title_zh": "咖啡店與讀書",
+  "title_en": "Cafes and Studying",
+  "body": "台灣有很多咖啡店。很多學生喜歡在咖啡店讀書、寫功課，因為那裡安靜，也有網路。買一杯咖啡，就可以坐一個下午。考試以前，咖啡店裡常常都是讀書的學生。",
+  "translation_en": "Taiwan has many cafes. Lots of students like to study and do homework in cafes, because they are quiet and have wifi. Buy one cup of coffee and you can sit there all afternoon. Before exams, cafes are often full of students studying.",
+  "vocab": [
+   {
+    "w": "咖啡店",
+    "p": "kāfēidiàn",
+    "en": "cafe; coffee shop"
+   },
+   {
+    "w": "功課",
+    "p": "gōngkè",
+    "en": "homework"
+   },
+   {
+    "w": "安靜",
+    "p": "ānjìng",
+    "en": "quiet"
+   },
+   {
+    "w": "網路",
+    "p": "wǎnglù",
+    "en": "internet; wifi"
+   },
+   {
+    "w": "考試",
+    "p": "kǎoshì",
+    "en": "exam; test"
+   }
+  ],
+  "questions": [
+   {
+    "q": "很多學生喜歡在咖啡店做什麼？",
+    "options": [
+     "睡覺",
+     "讀書、寫功課",
+     "唱歌",
+     "運動"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "學生為什麼喜歡在咖啡店讀書？",
+    "options": [
+     "那裡很熱",
+     "咖啡不要錢",
+     "可以看電視",
+     "那裡安靜，也有網路"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "什麼時候咖啡店裡常常都是讀書的學生？",
+    "options": [
+     "考試以前",
+     "過年的時候",
+     "早上六點",
+     "下雨的時候"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "tw-21",
+  "level": "l1",
+  "title_zh": "台灣的山",
+  "title_en": "Taiwan's Mountains",
+  "body": "台灣有很多高山，最高的山是玉山，有三千九百五十二公尺。很多人週末喜歡去爬山，山上的空氣很涼，風景也很美。爬山不用花很多錢，還可以運動，跟朋友一起去，更快樂。",
+  "translation_en": "Taiwan has many high mountains. The tallest is Yushan (Jade Mountain), at 3,952 meters. Many people love to go hiking on weekends — the air in the mountains is cool, and the scenery is beautiful. Hiking does not cost much money and is good exercise, and going with friends makes it even more fun.",
+  "vocab": [
+   {
+    "w": "玉山",
+    "p": "Yùshān",
+    "en": "Yushan (Jade Mountain, Taiwan's tallest)"
+   },
+   {
+    "w": "公尺",
+    "p": "gōngchǐ",
+    "en": "meter"
+   },
+   {
+    "w": "爬山",
+    "p": "páshān",
+    "en": "to hike; to climb a mountain"
+   },
+   {
+    "w": "空氣",
+    "p": "kōngqì",
+    "en": "air"
+   },
+   {
+    "w": "涼",
+    "p": "liáng",
+    "en": "cool (temperature)"
+   },
+   {
+    "w": "風景",
+    "p": "fēngjǐng",
+    "en": "scenery"
+   }
+  ],
+  "questions": [
+   {
+    "q": "台灣最高的山是哪一個？",
+    "options": [
+     "玉山",
+     "阿里山",
+     "陽明山",
+     "日月潭"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "玉山有多高？",
+    "options": [
+     "一千公尺",
+     "兩千公尺",
+     "三千九百五十二公尺",
+     "五百公尺"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "山上怎麼樣？",
+    "options": [
+     "很熱",
+     "空氣很涼，風景很美",
+     "不能運動",
+     "要花很多錢"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-22",
+  "level": "l1",
+  "title_zh": "夜市的遊戲",
+  "title_en": "Night Market Games",
+  "body": "台灣的夜市不只有好吃的東西，還有好玩的遊戲，像撈金魚、套圈圈。玩一次不貴，大人小孩都喜歡玩。晚上跟朋友去夜市，先吃小吃，再玩遊戲，大家又叫又笑，非常快樂。",
+  "translation_en": "Taiwan's night markets have more than just delicious food — they also have fun games, like goldfish scooping and ring toss. One round is cheap, and adults and kids alike love to play. Go to the night market with friends in the evening, eat some snacks first, then play the games — everyone shouts and laughs, and it is great fun.",
+  "vocab": [
+   {
+    "w": "夜市",
+    "p": "yèshì",
+    "en": "night market"
+   },
+   {
+    "w": "遊戲",
+    "p": "yóuxì",
+    "en": "game"
+   },
+   {
+    "w": "撈金魚",
+    "p": "lāo jīnyú",
+    "en": "goldfish scooping (game)"
+   },
+   {
+    "w": "套圈圈",
+    "p": "tào quānquān",
+    "en": "ring toss (game)"
+   },
+   {
+    "w": "小吃",
+    "p": "xiǎochī",
+    "en": "snacks; street food"
+   }
+  ],
+  "questions": [
+   {
+    "q": "夜市有什麼好玩的遊戲？",
+    "options": [
+     "打球",
+     "游泳",
+     "唱歌",
+     "撈金魚、套圈圈"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "夜市的遊戲貴不貴？",
+    "options": [
+     "很貴",
+     "不貴",
+     "不能玩",
+     "只有大人能玩"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "晚上跟朋友去夜市，大家覺得怎麼樣？",
+    "options": [
+     "很累",
+     "很生氣",
+     "非常快樂",
+     "想回家"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-23",
+  "level": "l1",
+  "title_zh": "台灣的天氣",
+  "title_en": "Taiwan's Weather",
+  "body": "台灣的夏天很熱，也很悶，常常下雨；冬天不太冷，很舒服。因為常常下雨，出門的時候，最好帶一把雨傘。夏天太陽很大，別忘了多喝水，太熱的時候，就在家裡休息吧。",
+  "translation_en": "Summer in Taiwan is hot and humid, and it rains often; winter is not too cold and is quite comfortable. Because it rains so often, it is best to bring an umbrella when you go out. In summer the sun is strong, so remember to drink plenty of water — and when it is too hot, just rest at home.",
+  "vocab": [
+   {
+    "w": "悶",
+    "p": "mēn",
+    "en": "humid; stuffy"
+   },
+   {
+    "w": "下雨",
+    "p": "xiàyǔ",
+    "en": "to rain"
+   },
+   {
+    "w": "雨傘",
+    "p": "yǔsǎn",
+    "en": "umbrella"
+   },
+   {
+    "w": "舒服",
+    "p": "shūfú",
+    "en": "comfortable"
+   },
+   {
+    "w": "太陽",
+    "p": "tàiyáng",
+    "en": "sun"
+   }
+  ],
+  "questions": [
+   {
+    "q": "台灣的夏天怎麼樣？",
+    "options": [
+     "很冷",
+     "不常下雨",
+     "很熱，也很悶",
+     "跟冬天一樣"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "出門的時候，最好帶什麼？",
+    "options": [
+     "雨傘",
+     "書",
+     "椅子",
+     "電視"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "台灣的冬天怎麼樣？",
+    "options": [
+     "很熱",
+     "不太冷，很舒服",
+     "非常冷",
+     "不能出門"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-24",
+  "level": "l1",
+  "title_zh": "搭公車",
+  "title_en": "Taking the Bus",
+  "body": "在台灣坐公車又便宜又方便，用悠遊卡就可以。要注意，公車來的時候，你要跟司機招手，公車才會停下來。車上看到老人的時候，很多人會站起來，把位子讓給他們坐。",
+  "translation_en": "Taking the bus in Taiwan is cheap and convenient — an EasyCard is all you need. But take note: when the bus comes, you have to wave to the driver, or the bus may not stop. When people see an elderly person on board, many will stand up and give them their seat.",
+  "vocab": [
+   {
+    "w": "搭",
+    "p": "dā",
+    "en": "to take (transport)"
+   },
+   {
+    "w": "悠遊卡",
+    "p": "Yōuyóukǎ",
+    "en": "EasyCard (transit card)"
+   },
+   {
+    "w": "招手",
+    "p": "zhāoshǒu",
+    "en": "to wave (one's hand)"
+   },
+   {
+    "w": "司機",
+    "p": "sījī",
+    "en": "driver"
+   },
+   {
+    "w": "停",
+    "p": "tíng",
+    "en": "to stop"
+   },
+   {
+    "w": "位子",
+    "p": "wèizi",
+    "en": "seat"
+   }
+  ],
+  "questions": [
+   {
+    "q": "在台灣坐公車，可以用什麼？",
+    "options": [
+     "護照",
+     "悠遊卡",
+     "課本",
+     "照片"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "公車來的時候，你要做什麼？",
+    "options": [
+     "快跑",
+     "大叫",
+     "坐下",
+     "跟司機招手"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "車上看到老人的時候，很多人會怎麼做？",
+    "options": [
+     "站起來，把位子讓給他們",
+     "睡覺",
+     "下車",
+     "看手機"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "tw-25",
+  "level": "l2",
+  "title_zh": "中秋節烤肉",
+  "title_en": "Mid-Autumn BBQ",
+  "body": "中秋節是台灣重要的節日。這一天，月亮又大又圓，家人會一起吃月餅、吃柚子。很多台灣人也喜歡在中秋節烤肉。晚上，大家在門口或公園烤肉，吃東西、聊天，非常熱鬧。涼涼的秋天夜晚，坐在外面看月亮，心情特別好。要是台灣朋友請你去烤肉，別客氣，快樂地參加吧！這是認識新朋友的好機會。",
+  "translation_en": "The Mid-Autumn Festival is an important holiday in Taiwan. On this day the moon is big and round, and families eat mooncakes and pomelos together. Many Taiwanese also love to barbecue on Mid-Autumn. In the evening, people grill at their doorways or in parks, eating and chatting — it is very lively. On a cool autumn night, sitting outside and watching the moon puts everyone in a wonderful mood. If Taiwanese friends invite you to a barbecue, don't be shy — join in happily! It's a great chance to make new friends.",
+  "vocab": [
+   {
+    "w": "中秋節",
+    "p": "Zhōngqiūjié",
+    "en": "Mid-Autumn Festival"
+   },
+   {
+    "w": "月餅",
+    "p": "yuèbǐng",
+    "en": "mooncake"
+   },
+   {
+    "w": "柚子",
+    "p": "yòuzi",
+    "en": "pomelo"
+   },
+   {
+    "w": "烤肉",
+    "p": "kǎoròu",
+    "en": "barbecue"
+   },
+   {
+    "w": "熱鬧",
+    "p": "rènào",
+    "en": "lively; bustling"
+   }
+  ],
+  "questions": [
+   {
+    "q": "中秋節的月亮怎麼樣？",
+    "options": [
+     "又大又圓",
+     "很小",
+     "看不見",
+     "是黑色的"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "中秋節家人一起吃什麼？",
+    "options": [
+     "餃子",
+     "月餅和柚子",
+     "漢堡",
+     "熱狗"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "晚上大家在哪裡烤肉？",
+    "options": [
+     "圖書館",
+     "教室",
+     "門口或公園",
+     "游泳池"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-26",
+  "level": "l2",
+  "title_zh": "端午節",
+  "title_en": "Dragon Boat Festival",
+  "body": "端午節是台灣的傳統節日，時間在夏天。這一天，大家都吃粽子。粽子裡面有米，也有肉，有的還有蛋，非常好吃。很多地方還有划龍舟比賽，龍舟又長又漂亮。比賽的時候，河邊站滿了人，大家幫比賽的人加油，非常熱鬧。要是你夏天在台灣，別忘了嚐一嚐粽子，也去看看划龍舟比賽吧！",
+  "translation_en": "The Dragon Boat Festival is a traditional holiday in Taiwan, held in summer. On this day everyone eats zongzi. Zongzi have rice and meat inside — some even have egg — and are delicious. Many places also hold dragon boat races, and the dragon boats are long and beautiful. During the races, the riverbanks are packed with people cheering for the racers — it is very lively. If you are in Taiwan in summer, don't forget to try zongzi and go watch a dragon boat race!",
+  "vocab": [
+   {
+    "w": "端午節",
+    "p": "Duānwǔjié",
+    "en": "Dragon Boat Festival"
+   },
+   {
+    "w": "粽子",
+    "p": "zòngzi",
+    "en": "zongzi (sticky rice dumpling)"
+   },
+   {
+    "w": "划龍舟",
+    "p": "huá lóngzhōu",
+    "en": "to race dragon boats"
+   },
+   {
+    "w": "加油",
+    "p": "jiāyóu",
+    "en": "to cheer (someone) on"
+   },
+   {
+    "w": "傳統",
+    "p": "chuántǒng",
+    "en": "traditional"
+   }
+  ],
+  "questions": [
+   {
+    "q": "端午節大家都吃什麼？",
+    "options": [
+     "月餅",
+     "蛋糕",
+     "冰淇淋",
+     "粽子"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "粽子裡面有什麼？",
+    "options": [
+     "米和肉",
+     "水果",
+     "巧克力",
+     "麵包"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "大家在哪裡看划龍舟比賽？",
+    "options": [
+     "教室",
+     "河邊",
+     "圖書館",
+     "飛機場"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-27",
+  "level": "l2",
+  "title_zh": "吃火鍋",
+  "title_en": "Eating Hot Pot",
+  "body": "台灣人非常喜歡吃火鍋，尤其是冬天。天氣冷的時候，跟朋友一起吃熱熱的火鍋，最舒服了。台灣的火鍋店很多，有的店是「吃到飽」：付了錢以後，肉、青菜和飲料都可以一直拿，吃多少都可以。朋友生日或是考完試，大家常常約去吃火鍋，吃東西、聊天，非常開心。",
+  "translation_en": "Taiwanese people love hot pot, especially in winter. When the weather is cold, sharing a steaming hot pot with friends feels wonderful. Taiwan has many hot pot restaurants, and some are all-you-can-eat: after you pay, you can keep taking meat, vegetables, and drinks — eat as much as you like. For birthdays or after exams, friends often arrange to go eat hot pot together, eating and chatting happily.",
+  "vocab": [
+   {
+    "w": "火鍋",
+    "p": "huǒguō",
+    "en": "hot pot"
+   },
+   {
+    "w": "吃到飽",
+    "p": "chīdàobǎo",
+    "en": "all-you-can-eat"
+   },
+   {
+    "w": "尤其",
+    "p": "yóuqí",
+    "en": "especially"
+   },
+   {
+    "w": "約",
+    "p": "yuē",
+    "en": "to arrange to meet; to invite"
+   },
+   {
+    "w": "舒服",
+    "p": "shūfú",
+    "en": "comfortable"
+   }
+  ],
+  "questions": [
+   {
+    "q": "台灣人什麼時候最喜歡吃火鍋？",
+    "options": [
+     "春天",
+     "夏天",
+     "秋天",
+     "冬天"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "在「吃到飽」的店，可以怎麼樣？",
+    "options": [
+     "只能吃一點",
+     "可以一直拿東西吃",
+     "不可以喝飲料",
+     "只能吃青菜"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "朋友生日的時候，大家常常做什麼？",
+    "options": [
+     "去看醫生",
+     "在家睡覺",
+     "約去吃火鍋",
+     "去圖書館念書"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-28",
+  "level": "l2",
+  "title_zh": "泡溫泉",
+  "title_en": "Soaking in Hot Springs",
+  "body": "台灣有很多溫泉，台北的北投特別有名。天氣冷的時候去泡溫泉，身體會熱起來，非常舒服，很多人覺得對健康也很好。可是要注意：進溫泉以前，必須先洗澡，把身體洗乾淨。在溫泉裡不可以游泳，也不要大聲說話。學習累了的時候，去泡溫泉，輕鬆一下吧！",
+  "translation_en": "Taiwan has many hot springs; Beitou in Taipei is especially famous. Soaking in a hot spring on a cold day warms you up and feels wonderful, and many people feel it is good for their health too. But take note: before entering the spring, you must shower first and wash yourself clean. In the hot spring you may not swim, and you should not talk loudly. When you are tired from studying, go soak in a hot spring and relax!",
+  "vocab": [
+   {
+    "w": "泡溫泉",
+    "p": "pào wēnquán",
+    "en": "to soak in a hot spring"
+   },
+   {
+    "w": "北投",
+    "p": "Běitóu",
+    "en": "Beitou (hot spring area in Taipei)"
+   },
+   {
+    "w": "健康",
+    "p": "jiànkāng",
+    "en": "health"
+   },
+   {
+    "w": "注意",
+    "p": "zhùyì",
+    "en": "to pay attention; take note"
+   },
+   {
+    "w": "輕鬆",
+    "p": "qīngsōng",
+    "en": "relaxed; to relax"
+   }
+  ],
+  "questions": [
+   {
+    "q": "台北哪裡的溫泉特別有名？",
+    "options": [
+     "北投",
+     "夜市",
+     "機場",
+     "學校"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "進溫泉以前，必須先做什麼？",
+    "options": [
+     "吃飯",
+     "睡覺",
+     "洗澡",
+     "唱歌"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "在溫泉裡不可以做什麼？",
+    "options": [
+     "休息",
+     "游泳",
+     "慢慢坐著",
+     "把身體弄熱"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-29",
+  "level": "l2",
+  "title_zh": "到銀行開戶和辦手機",
+  "title_en": "Opening a Bank Account and Getting a Phone Number",
+  "body": "剛到台灣的學生，有兩件重要的事要辦：到銀行開戶和辦手機號碼。去辦的時候，記得帶護照和居留證，有的銀行還會要求別的資料。開戶以後，你可以把錢安全地存在銀行裡。有了手機號碼，打電話、上網都很方便。這兩件事辦好了，在台灣的生活就容易多了！",
+  "translation_en": "Students who have just arrived in Taiwan have two important tasks: opening a bank account and getting a mobile phone number. When you go, remember to bring your passport and your ARC (residence permit); some banks may ask for other documents too. After opening an account, you can keep your money safely in the bank. With a phone number, calling and going online are convenient. Once these two things are done, life in Taiwan becomes much easier!",
+  "vocab": [
+   {
+    "w": "開戶",
+    "p": "kāihù",
+    "en": "to open a (bank) account"
+   },
+   {
+    "w": "護照",
+    "p": "hùzhào",
+    "en": "passport"
+   },
+   {
+    "w": "居留證",
+    "p": "jūliúzhèng",
+    "en": "ARC; residence permit"
+   },
+   {
+    "w": "號碼",
+    "p": "hàomǎ",
+    "en": "number"
+   },
+   {
+    "w": "資料",
+    "p": "zīliào",
+    "en": "documents; information"
+   }
+  ],
+  "questions": [
+   {
+    "q": "去銀行開戶，記得帶什麼？",
+    "options": [
+     "課本和筆",
+     "護照和居留證",
+     "雨傘和外套",
+     "水果和飲料"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "開戶以後，可以做什麼？",
+    "options": [
+     "把錢安全地存在銀行裡",
+     "得到新手機",
+     "上學不用錢",
+     "天天放假"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "有了手機號碼，做什麼很方便？",
+    "options": [
+     "游泳和跑步",
+     "唱歌和跳舞",
+     "洗衣服",
+     "打電話和上網"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-30",
+  "level": "l2",
+  "title_zh": "學生打工",
+  "title_en": "Students Working Part-Time",
+  "body": "很多外國學生想在台灣打工，這樣可以練習中文，也可以有一點零用錢。可是要注意：打工以前，必須先辦工作許可，沒有它，就不可以工作。上課的學期中，一個星期最多只能工作二十個小時。很多學生在餐廳或商店打工，也有人在學校裡幫老師做事。只要注意這些，打工會是很好的經驗！",
+  "translation_en": "Many international students want to work part-time in Taiwan — it's a way to practice Chinese and earn some pocket money. But take note: before working, you must first get a work permit; without it, you may not work. During the semester, you can work at most twenty hours a week. Many students work in restaurants or shops, and some help teachers with jobs on campus. As long as you follow these rules, part-time work can be a great experience!",
+  "vocab": [
+   {
+    "w": "打工",
+    "p": "dǎgōng",
+    "en": "to work part-time"
+   },
+   {
+    "w": "工作許可",
+    "p": "gōngzuò xǔkě",
+    "en": "work permit"
+   },
+   {
+    "w": "學期",
+    "p": "xuéqí",
+    "en": "semester"
+   },
+   {
+    "w": "零用錢",
+    "p": "língyòngqián",
+    "en": "pocket money"
+   },
+   {
+    "w": "經驗",
+    "p": "jīngyàn",
+    "en": "experience"
+   }
+  ],
+  "questions": [
+   {
+    "q": "外國學生打工以前，必須先辦什麼？",
+    "options": [
+     "信用卡",
+     "門票",
+     "工作許可",
+     "新護照"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "上課的學期中，一個星期最多可以工作幾個小時？",
+    "options": [
+     "十個小時",
+     "二十個小時",
+     "三十個小時",
+     "四十個小時"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "很多學生在哪裡打工？",
+    "options": [
+     "餐廳或商店",
+     "飛機上",
+     "醫院裡當醫生",
+     "銀行裡當經理"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "tw-31",
+  "level": "l2",
+  "title_zh": "台鐵和高鐵",
+  "title_en": "Trains in Taiwan",
+  "body": "在台灣，坐火車旅行很方便。高鐵最快，從台北到高雄，只要一個半小時多，可是票比較貴。台鐵比較慢，票也比較便宜，差不多每個城市都有車站。高鐵和台鐵的車上都很乾淨、很舒服。你可以在車站買票，也可以用手機買。放假的時候，坐車的人非常多，最好早一點買票。學生買票，有時候還可以打折。",
+  "translation_en": "In Taiwan, traveling by train is very convenient. The High Speed Rail is the fastest — from Taipei to Kaohsiung takes only a bit more than an hour and a half, but tickets are more expensive. Taiwan Railways (TRA) trains are slower and cheaper, and almost every city has a station. Both HSR and TRA trains are clean and comfortable. You can buy tickets at the station or on your phone. During holidays there are a lot of travelers, so it is best to buy tickets early. Students can sometimes even get a discount.",
+  "vocab": [
+   {
+    "w": "高鐵",
+    "p": "gāotiě",
+    "en": "High Speed Rail (HSR)"
+   },
+   {
+    "w": "台鐵",
+    "p": "Táitiě",
+    "en": "Taiwan Railways (TRA)"
+   },
+   {
+    "w": "火車",
+    "p": "huǒchē",
+    "en": "train"
+   },
+   {
+    "w": "車站",
+    "p": "chēzhàn",
+    "en": "station"
+   },
+   {
+    "w": "打折",
+    "p": "dǎzhé",
+    "en": "to give a discount"
+   }
+  ],
+  "questions": [
+   {
+    "q": "坐高鐵從台北到高雄要多久？",
+    "options": [
+     "一個半小時多",
+     "半天",
+     "十個小時",
+     "三天"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "台鐵的票怎麼樣？",
+    "options": [
+     "最貴",
+     "比較便宜",
+     "買不到",
+     "跟高鐵一樣貴"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "放假的時候，最好怎麼做？",
+    "options": [
+     "不要坐車",
+     "走路去高雄",
+     "早一點買票",
+     "在車站等一天"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-32",
+  "level": "l2",
+  "title_zh": "垃圾分類",
+  "title_en": "Sorting the Trash",
+  "body": "在台灣，丟垃圾要分類。紙和瓶子這些可以回收的東西，不能跟一般垃圾放在一起；吃不完的飯菜是廚餘，也要分開。在台北，一般垃圾要放進特別的藍色袋子，這種袋子在商店買得到。剛來的時候可能覺得麻煩，可是習慣了就好。垃圾分類讓台灣的環境又乾淨又漂亮。",
+  "translation_en": "In Taiwan, you have to sort your trash before throwing it away. Recyclable things like paper and bottles cannot go in with the general trash, and leftover food is kitchen waste, which must also be separated. In Taipei, general trash must go into special blue bags, which you can buy at stores. It may feel troublesome when you first arrive, but once you are used to it, it's easy. Sorting the trash keeps Taiwan's environment clean and beautiful.",
+  "vocab": [
+   {
+    "w": "分類",
+    "p": "fēnlèi",
+    "en": "to sort; to classify"
+   },
+   {
+    "w": "回收",
+    "p": "huíshōu",
+    "en": "to recycle"
+   },
+   {
+    "w": "廚餘",
+    "p": "chúyú",
+    "en": "kitchen waste; food scraps"
+   },
+   {
+    "w": "瓶子",
+    "p": "píngzi",
+    "en": "bottle"
+   },
+   {
+    "w": "環境",
+    "p": "huánjìng",
+    "en": "environment"
+   }
+  ],
+  "questions": [
+   {
+    "q": "吃不完的飯菜叫什麼？",
+    "options": [
+     "廚餘",
+     "回收",
+     "一般垃圾",
+     "紙"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "在台北，一般垃圾要放進什麼顏色的袋子？",
+    "options": [
+     "紅色",
+     "白色",
+     "黑色",
+     "藍色"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "垃圾分類讓台灣的環境怎麼樣？",
+    "options": [
+     "更髒",
+     "又乾淨又漂亮",
+     "更麻煩",
+     "更熱"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "tw-33",
+  "level": "l2",
+  "title_zh": "去診所看病",
+  "title_en": "Going to the Clinic",
+  "body": "在台灣感冒了，不用去大醫院，家附近的診所又方便又便宜。看病的時候，要帶健保卡，先掛號，等一下就可以看醫生。看完病，醫生會開藥，你在診所就可以拿藥。醫生和護士都很客氣，會慢慢告訴你怎麼吃藥。有健保，看一次病只要花一百五十塊左右。所以在台灣生病了，不用太擔心。",
+  "translation_en": "If you catch a cold in Taiwan, you don't need to go to a big hospital — the clinics near your home are convenient and cheap. When you go, bring your NHI card and register first; after a short wait you can see the doctor. After the visit, the doctor prescribes medicine, and you can pick it up right at the clinic. The doctors and nurses are very kind and will patiently explain how to take the medicine. With health insurance, one visit only costs around 150 NT dollars. So if you get sick in Taiwan, there's no need to worry too much.",
+  "vocab": [
+   {
+    "w": "診所",
+    "p": "zhěnsuǒ",
+    "en": "clinic"
+   },
+   {
+    "w": "健保卡",
+    "p": "jiànbǎokǎ",
+    "en": "NHI (health insurance) card"
+   },
+   {
+    "w": "掛號",
+    "p": "guàhào",
+    "en": "to register (at a clinic)"
+   },
+   {
+    "w": "開藥",
+    "p": "kāi yào",
+    "en": "to prescribe medicine"
+   },
+   {
+    "w": "擔心",
+    "p": "dānxīn",
+    "en": "to worry"
+   }
+  ],
+  "questions": [
+   {
+    "q": "去診所看病，要帶什麼？",
+    "options": [
+     "課本",
+     "健保卡",
+     "車票",
+     "行李"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "到了診所，要先做什麼？",
+    "options": [
+     "掛號",
+     "拿藥",
+     "回家",
+     "買東西"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "有健保，看一次病要花多少錢？",
+    "options": [
+     "五千塊",
+     "不用錢",
+     "一百五十塊左右",
+     "三千塊"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "tw-34",
+  "level": "l2",
+  "title_zh": "台北101跨年",
+  "title_en": "New Year's Eve at Taipei 101",
+  "body": "每年十二月三十一日的晚上，很多人會去台北101跨年。夜裡十二點的時候，101大樓會放煙火，又高又漂亮，大家一起大聲說：「新年快樂！」跨年的晚上人非常多，可是不用擔心，捷運整個晚上都不休息，看完煙火還可以坐捷運回家。如果有機會，你一定要去看一次。",
+  "translation_en": "Every year on the night of December 31st, many people go to Taipei 101 to count down to the new year. At midnight, the 101 tower sets off fireworks — tall and beautiful — and everyone shouts together, \"Happy New Year!\" There are huge crowds that night, but don't worry: the MRT runs all night long, so after the fireworks you can still take the MRT home. If you have the chance, you must go see it once.",
+  "vocab": [
+   {
+    "w": "跨年",
+    "p": "kuànián",
+    "en": "to celebrate New Year's Eve; countdown"
+   },
+   {
+    "w": "煙火",
+    "p": "yānhuǒ",
+    "en": "fireworks"
+   },
+   {
+    "w": "大樓",
+    "p": "dàlóu",
+    "en": "tall building; tower"
+   },
+   {
+    "w": "大聲",
+    "p": "dàshēng",
+    "en": "loudly"
+   },
+   {
+    "w": "捷運",
+    "p": "jiéyùn",
+    "en": "MRT; metro"
+   }
+  ],
+  "questions": [
+   {
+    "q": "101大樓什麼時候放煙火？",
+    "options": [
+     "早上八點",
+     "中午十二點",
+     "下午三點",
+     "夜裡十二點"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "跨年的晚上，捷運怎麼樣？",
+    "options": [
+     "很早關門",
+     "整個晚上都不休息",
+     "不能坐",
+     "只有白天開"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "放煙火的時候，大家一起大聲說什麼？",
+    "options": [
+     "「新年快樂」",
+     "「再見」",
+     "「對不起」",
+     "「謝謝」"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "tw-35",
+  "level": "l2",
+  "title_zh": "廟宇文化",
+  "title_en": "Temple Culture",
+  "body": "台灣的廟很多，差不多每個地方都有，很多廟又老又漂亮。大家常去廟裡拜拜：他們把香拿在手上，跟神明說話，希望家人健康、快樂。考試以前，很多學生會去拜文昌帝君，希望考試考得好。過年的時候，廟裡人更多，非常熱鬧。不拜拜也沒關係，你可以去廟裡走走，看看台灣的傳統文化，也是很好的經驗。",
+  "translation_en": "Taiwan has many temples — there is one almost everywhere — and many are old and beautiful. People often go to the temple to worship: they hold incense in their hands and speak to the gods, wishing their families health and happiness. Before exams, many students go to pray to Wenchang Dijun, the god of studies, hoping to do well. During Lunar New Year, temples are even more crowded and lively. It's fine if you don't worship — you can still visit a temple, take a walk around, and see Taiwan's traditional culture. That is a great experience too.",
+  "vocab": [
+   {
+    "w": "廟",
+    "p": "miào",
+    "en": "temple"
+   },
+   {
+    "w": "拜拜",
+    "p": "bàibài",
+    "en": "to worship; to pray"
+   },
+   {
+    "w": "香",
+    "p": "xiāng",
+    "en": "incense"
+   },
+   {
+    "w": "神明",
+    "p": "shénmíng",
+    "en": "gods; deities"
+   },
+   {
+    "w": "文昌帝君",
+    "p": "Wénchāng Dìjūn",
+    "en": "Wenchang Dijun (god of studies)"
+   }
+  ],
+  "questions": [
+   {
+    "q": "很多人去廟裡做什麼？",
+    "options": [
+     "買東西",
+     "上課",
+     "拜拜",
+     "游泳"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "考試以前，很多學生會去拜誰？",
+    "options": [
+     "文昌帝君",
+     "老師",
+     "醫生",
+     "老闆"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "拜拜的時候，大家把什麼拿在手上？",
+    "options": [
+     "筆",
+     "錢包",
+     "手機",
+     "香"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "tw-36",
+  "level": "l2",
+  "title_zh": "台灣的圖書館",
+  "title_en": "Libraries in Taiwan",
+  "body": "台灣的圖書館又多又舒服，進去不用錢。裡面很安靜，夏天還有冷氣，是讀書最好的地方。圖書館裡書很多，也有電腦，可以上網找資料。考試以前，很多學生一大早就去圖書館，找一個位子，準備考試。有了學生證，還可以把書借回家慢慢看。週末沒事的時候，去圖書館看看書吧！",
+  "translation_en": "Taiwan's libraries are numerous and comfortable, and entry is free. Inside it is very quiet, and in summer there is air conditioning — the best place to study. Libraries have lots of books, plus computers you can use to go online and look things up. Before exams, many students go to the library early in the morning to find a seat and prepare. With a student card, you can also borrow books and take them home to read at your own pace. When you're free on the weekend, go read at the library!",
+  "vocab": [
+   {
+    "w": "圖書館",
+    "p": "túshūguǎn",
+    "en": "library"
+   },
+   {
+    "w": "安靜",
+    "p": "ānjìng",
+    "en": "quiet"
+   },
+   {
+    "w": "冷氣",
+    "p": "lěngqì",
+    "en": "air conditioning"
+   },
+   {
+    "w": "學生證",
+    "p": "xuéshēngzhèng",
+    "en": "student ID card"
+   },
+   {
+    "w": "借",
+    "p": "jiè",
+    "en": "to borrow"
+   }
+  ],
+  "questions": [
+   {
+    "q": "進圖書館要花多少錢？",
+    "options": [
+     "一百塊",
+     "不用錢",
+     "五十塊",
+     "十塊"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "考試以前，很多學生去圖書館做什麼？",
+    "options": [
+     "睡覺",
+     "聊天",
+     "準備考試",
+     "吃東西"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "有了什麼，就可以把書借回家？",
+    "options": [
+     "錢包",
+     "車票",
+     "手機",
+     "學生證"
+    ],
+    "answer": 3
+   }
+  ]
  }
 ]

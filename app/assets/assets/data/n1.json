@@ -8,7 +8,9 @@
   "pinyin": "wǒ",
   "pos": "N",
   "gloss": "I; me",
-  "km": "ខ្ញុំ"
+  "km": "ខ្ញុំ",
+  "ex": "我是學生。",
+  "ex_en": "I am a student."
  },
  {
   "id": "n1-002",
@@ -19,7 +21,9 @@
   "pinyin": "nǐ",
   "pos": "N",
   "gloss": "you",
-  "km": "អ្នក"
+  "km": "អ្នក",
+  "ex": "你今天好嗎？",
+  "ex_en": "How are you today?"
  },
  {
   "id": "n1-003",
@@ -30,7 +34,9 @@
   "pinyin": "tā",
   "pos": "N",
   "gloss": "he; she",
-  "km": "គាត់; នាង"
+  "km": "គាត់; នាង",
+  "ex": "他是我朋友。",
+  "ex_en": "He is my friend."
  },
  {
   "id": "n1-004",
@@ -41,7 +47,9 @@
   "pinyin": "wǒmen",
   "pos": "N",
   "gloss": "we; us",
-  "km": "ពួកយើង"
+  "km": "ពួកយើង",
+  "ex": "我們去學校。",
+  "ex_en": "We are going to school."
  },
  {
   "id": "n1-005",
@@ -52,7 +60,9 @@
   "pinyin": "nǐmen",
   "pos": "N",
   "gloss": "you (plural)",
-  "km": "ពួកអ្នក"
+  "km": "ពួកអ្នក",
+  "ex": "你們好嗎？",
+  "ex_en": "How are you all?"
  },
  {
   "id": "n1-006",
@@ -63,7 +73,9 @@
   "pinyin": "tāmen",
   "pos": "N",
   "gloss": "they; them",
-  "km": "ពួកគេ"
+  "km": "ពួកគេ",
+  "ex": "他們是學生。",
+  "ex_en": "They are students."
  },
  {
   "id": "n1-007",
@@ -74,7 +86,9 @@
   "pinyin": "nín",
   "pos": "N",
   "gloss": "you (polite)",
-  "km": "លោក; អ្នក (គួរសម)"
+  "km": "លោក; អ្នក (គួរសម)",
+  "ex": "您是老師嗎？",
+  "ex_en": "Are you a teacher?"
  },
  {
   "id": "n1-008",
@@ -85,7 +99,9 @@
   "pinyin": "shéi",
   "pos": "N",
   "gloss": "who",
-  "km": "នរណា"
+  "km": "នរណា",
+  "ex": "那個人是誰？",
+  "ex_en": "Who is that person?"
  },
  {
   "id": "n1-009",
@@ -96,7 +112,9 @@
   "pinyin": "xìngmíng",
   "pos": "N",
   "gloss": "full name",
-  "km": "ឈ្មោះពេញ"
+  "km": "ឈ្មោះពេញ",
+  "ex": "請寫你的姓名。",
+  "ex_en": "Please write your full name."
  },
  {
   "id": "n1-010",
@@ -107,7 +125,9 @@
   "pinyin": "rén",
   "pos": "N",
   "gloss": "person; people",
-  "km": "មនុស្ស"
+  "km": "មនុស្ស",
+  "ex": "他是好人。",
+  "ex_en": "He is a good person."
  },
  {
   "id": "n1-011",
@@ -118,7 +138,9 @@
   "pinyin": "guó",
   "pos": "N",
   "gloss": "country; nation",
-  "km": "ប្រទេស"
+  "km": "ប្រទេស",
+  "ex": "你是哪國人？",
+  "ex_en": "Which country are you from?"
  },
  {
   "id": "n1-012",
@@ -129,7 +151,9 @@
   "pinyin": "zhōngguó",
   "pos": "N",
   "gloss": "China",
-  "km": "ប្រទេសចិន"
+  "km": "ប្រទេសចិន",
+  "ex": "他是中國人。",
+  "ex_en": "He is Chinese."
  },
  {
   "id": "n1-013",
@@ -140,7 +164,9 @@
   "pinyin": "měiguó",
   "pos": "N",
   "gloss": "the United States; America",
-  "km": "សហរដ្ឋអាមេរិក"
+  "km": "សហរដ្ឋអាមេរិក",
+  "ex": "我想去美國。",
+  "ex_en": "I want to go to America."
  },
  {
   "id": "n1-014",
@@ -151,7 +177,9 @@
   "pinyin": "rìběn",
   "pos": "N",
   "gloss": "Japan",
-  "km": "ប្រទេសជប៉ុន"
+  "km": "ប្រទេសជប៉ុន",
+  "ex": "她是日本人。",
+  "ex_en": "She is Japanese."
  },
  {
   "id": "n1-015",
@@ -162,7 +190,9 @@
   "pinyin": "táiwān",
   "pos": "N",
   "gloss": "Taiwan",
-  "km": "តៃវ៉ាន់"
+  "km": "តៃវ៉ាន់",
+  "ex": "我住在台灣。",
+  "ex_en": "I live in Taiwan."
  },
  {
   "id": "n1-016",
@@ -173,7 +203,9 @@
   "pinyin": "míngzi",
   "pos": "N",
   "gloss": "name",
-  "km": "ឈ្មោះ"
+  "km": "ឈ្មោះ",
+  "ex": "你叫什麼名字？",
+  "ex_en": "What is your name?"
  },
  {
   "id": "n1-017",
@@ -184,7 +216,9 @@
   "pinyin": "jiā",
   "pos": "N",
   "gloss": "home; family",
-  "km": "ផ្ទះ; គ្រួសារ"
+  "km": "ផ្ទះ; គ្រួសារ",
+  "ex": "我家很大。",
+  "ex_en": "My home is big."
  },
  {
   "id": "n1-018",
@@ -195,7 +229,9 @@
   "pinyin": "diànhuà",
   "pos": "N",
   "gloss": "telephone; phone call",
-  "km": "ទូរស័ព្ទ"
+  "km": "ទូរស័ព្ទ",
+  "ex": "我沒有電話。",
+  "ex_en": "I do not have a phone."
  },
  {
   "id": "n1-019",
@@ -206,7 +242,9 @@
   "pinyin": "shíjiān",
   "pos": "N",
   "gloss": "time",
-  "km": "ពេលវេលា"
+  "km": "ពេលវេលា",
+  "ex": "我沒有時間。",
+  "ex_en": "I do not have time."
  },
  {
   "id": "n1-020",
@@ -217,7 +255,9 @@
   "pinyin": "xiǎoshí",
   "pos": "N",
   "gloss": "hour",
-  "km": "ម៉ោង"
+  "km": "ម៉ោង",
+  "ex": "我等了一個小時。",
+  "ex_en": "I waited for an hour."
  },
  {
   "id": "n1-021",
@@ -228,7 +268,9 @@
   "pinyin": "xiànzài",
   "pos": "N",
   "gloss": "now",
-  "km": "ឥឡូវនេះ"
+  "km": "ឥឡូវនេះ",
+  "ex": "現在幾點？",
+  "ex_en": "What time is it now?"
  },
  {
   "id": "n1-022",
@@ -239,7 +281,9 @@
   "pinyin": "jīnnián",
   "pos": "N",
   "gloss": "this year",
-  "km": "ឆ្នាំនេះ"
+  "km": "ឆ្នាំនេះ",
+  "ex": "我今年十歲。",
+  "ex_en": "I am ten years old this year."
  },
  {
   "id": "n1-023",
@@ -250,7 +294,9 @@
   "pinyin": "jīntiān",
   "pos": "N",
   "gloss": "today",
-  "km": "ថ្ងៃនេះ"
+  "km": "ថ្ងៃនេះ",
+  "ex": "今天我很忙。",
+  "ex_en": "I am busy today."
  },
  {
   "id": "n1-024",
@@ -261,7 +307,9 @@
   "pinyin": "míngtiān",
   "pos": "N",
   "gloss": "tomorrow",
-  "km": "ថ្ងៃស្អែក"
+  "km": "ថ្ងៃស្អែក",
+  "ex": "我明天去學校。",
+  "ex_en": "I am going to school tomorrow."
  },
  {
   "id": "n1-025",
@@ -272,7 +320,9 @@
   "pinyin": "zuótiān",
   "pos": "N",
   "gloss": "yesterday",
-  "km": "ម្សិលមិញ"
+  "km": "ម្សិលមិញ",
+  "ex": "昨天我很忙。",
+  "ex_en": "I was busy yesterday."
  },
  {
   "id": "n1-026",
@@ -283,7 +333,9 @@
   "pinyin": "zǎoshàng",
   "pos": "N",
   "gloss": "morning",
-  "km": "ពេលព្រឹក"
+  "km": "ពេលព្រឹក",
+  "ex": "我早上去學校。",
+  "ex_en": "I go to school in the morning."
  },
  {
   "id": "n1-027",
@@ -294,7 +346,9 @@
   "pinyin": "shàngwǔ",
   "pos": "N",
   "gloss": "morning; before noon",
-  "km": "ពេលព្រឹក (មុនថ្ងៃត្រង់)"
+  "km": "ពេលព្រឹក (មុនថ្ងៃត្រង់)",
+  "ex": "我上午上課。",
+  "ex_en": "I have class in the morning."
  },
  {
   "id": "n1-028",
@@ -305,7 +359,9 @@
   "pinyin": "zhōngwǔ",
   "pos": "N",
   "gloss": "noon",
-  "km": "ថ្ងៃត្រង់"
+  "km": "ថ្ងៃត្រង់",
+  "ex": "中午我們吃飯。",
+  "ex_en": "We eat lunch at noon."
  },
  {
   "id": "n1-029",
@@ -316,7 +372,9 @@
   "pinyin": "xiàwǔ",
   "pos": "N",
   "gloss": "afternoon",
-  "km": "ពេលរសៀល"
+  "km": "ពេលរសៀល",
+  "ex": "下午我不忙。",
+  "ex_en": "I am not busy in the afternoon."
  },
  {
   "id": "n1-030",
@@ -327,7 +385,9 @@
   "pinyin": "wǎnshàng",
   "pos": "N",
   "gloss": "evening; night",
-  "km": "ពេលល្ងាច; ពេលយប់"
+  "km": "ពេលល្ងាច; ពេលយប់",
+  "ex": "晚上我看電視。",
+  "ex_en": "I watch TV in the evening."
  },
  {
   "id": "n1-031",
@@ -338,7 +398,9 @@
   "pinyin": "yī",
   "pos": "N",
   "gloss": "one",
-  "km": "មួយ"
+  "km": "មួយ",
+  "ex": "我有一個弟弟。",
+  "ex_en": "I have one younger brother."
  },
  {
   "id": "n1-032",
@@ -349,7 +411,9 @@
   "pinyin": "èr",
   "pos": "N",
   "gloss": "two",
-  "km": "ពីរ"
+  "km": "ពីរ",
+  "ex": "現在是二月。",
+  "ex_en": "It is February now."
  },
  {
   "id": "n1-033",
@@ -360,7 +424,9 @@
   "pinyin": "sān",
   "pos": "N",
   "gloss": "three",
-  "km": "បី"
+  "km": "បី",
+  "ex": "我三點上課。",
+  "ex_en": "I have class at three o'clock."
  },
  {
   "id": "n1-034",
@@ -371,7 +437,9 @@
   "pinyin": "sì",
   "pos": "N",
   "gloss": "four",
-  "km": "បួន"
+  "km": "បួន",
+  "ex": "他家有四個人。",
+  "ex_en": "There are four people in his family."
  },
  {
   "id": "n1-035",
@@ -382,7 +450,9 @@
   "pinyin": "wǔ",
   "pos": "N",
   "gloss": "five",
-  "km": "ប្រាំ"
+  "km": "ប្រាំ",
+  "ex": "現在五點了。",
+  "ex_en": "It is five o'clock now."
  },
  {
   "id": "n1-036",
@@ -393,7 +463,9 @@
   "pinyin": "liù",
   "pos": "N",
   "gloss": "six",
-  "km": "ប្រាំមួយ"
+  "km": "ប្រាំមួយ",
+  "ex": "我六點吃飯。",
+  "ex_en": "I eat at six o'clock."
  },
  {
   "id": "n1-037",
@@ -404,7 +476,9 @@
   "pinyin": "qī",
   "pos": "N",
   "gloss": "seven",
-  "km": "ប្រាំពីរ"
+  "km": "ប្រាំពីរ",
+  "ex": "我七點上課。",
+  "ex_en": "I have class at seven o'clock."
  },
  {
   "id": "n1-038",
@@ -415,7 +489,9 @@
   "pinyin": "bā",
   "pos": "N",
   "gloss": "eight",
-  "km": "ប្រាំបី"
+  "km": "ប្រាំបី",
+  "ex": "我八點回家。",
+  "ex_en": "I go home at eight o'clock."
  },
  {
   "id": "n1-039",
@@ -426,7 +502,9 @@
   "pinyin": "jiǔ",
   "pos": "N",
   "gloss": "nine",
-  "km": "ប្រាំបួន"
+  "km": "ប្រាំបួន",
+  "ex": "現在九點了。",
+  "ex_en": "It is nine o'clock now."
  },
  {
   "id": "n1-040",
@@ -437,7 +515,9 @@
   "pinyin": "shí",
   "pos": "N",
   "gloss": "ten",
-  "km": "ដប់"
+  "km": "ដប់",
+  "ex": "我弟弟十歲。",
+  "ex_en": "My younger brother is ten years old."
  },
  {
   "id": "n1-041",
@@ -448,7 +528,9 @@
   "pinyin": "liǎng",
   "pos": "N",
   "gloss": "two (before measure words)",
-  "km": "ពីរ (មុនពាក្យរាប់)"
+  "km": "ពីរ (មុនពាក្យរាប់)",
+  "ex": "我有兩個哥哥。",
+  "ex_en": "I have two older brothers."
  },
  {
   "id": "n1-042",
@@ -459,7 +541,9 @@
   "pinyin": "shíhòu",
   "pos": "N",
   "gloss": "time; moment",
-  "km": "ពេល"
+  "km": "ពេល",
+  "ex": "你什麼時候來？",
+  "ex_en": "When are you coming?"
  },
  {
   "id": "n1-043",
@@ -470,7 +554,9 @@
   "pinyin": "bǎi",
   "pos": "N",
   "gloss": "hundred",
-  "km": "រយ"
+  "km": "រយ",
+  "ex": "這本書一百塊。",
+  "ex_en": "This book is one hundred dollars."
  },
  {
   "id": "n1-044",
@@ -481,7 +567,9 @@
   "pinyin": "bàn",
   "pos": "N",
   "gloss": "half",
-  "km": "កន្លះ"
+  "km": "កន្លះ",
+  "ex": "現在七點半。",
+  "ex_en": "It is seven thirty now."
  },
  {
   "id": "n1-045",
@@ -492,7 +580,9 @@
   "pinyin": "qiān",
   "pos": "N",
   "gloss": "thousand",
-  "km": "ពាន់"
+  "km": "ពាន់",
+  "ex": "這個一千塊。",
+  "ex_en": "This one is one thousand dollars."
  },
  {
   "id": "n1-046",
@@ -503,7 +593,9 @@
   "pinyin": "bàba/bà",
   "pos": "N",
   "gloss": "dad; father",
-  "km": "ប៉ា; ឪពុក"
+  "km": "ប៉ា; ឪពុក",
+  "ex": "我爸爸很忙。",
+  "ex_en": "My dad is very busy."
  },
  {
   "id": "n1-047",
@@ -514,7 +606,9 @@
   "pinyin": "māma/mā",
   "pos": "N",
   "gloss": "mom; mother",
-  "km": "ម៉ាក់; ម្តាយ"
+  "km": "ម៉ាក់; ម្តាយ",
+  "ex": "媽媽在家嗎？",
+  "ex_en": "Is Mom at home?"
  },
  {
   "id": "n1-048",
@@ -525,7 +619,9 @@
   "pinyin": "gēge/gē",
   "pos": "N",
   "gloss": "older brother",
-  "km": "បងប្រុស"
+  "km": "បងប្រុស",
+  "ex": "我哥哥很高。",
+  "ex_en": "My older brother is tall."
  },
  {
   "id": "n1-049",
@@ -536,7 +632,9 @@
   "pinyin": "dìdi/dì",
   "pos": "N",
   "gloss": "younger brother",
-  "km": "ប្អូនប្រុស"
+  "km": "ប្អូនប្រុស",
+  "ex": "弟弟今年五歲。",
+  "ex_en": "My younger brother is five this year."
  },
  {
   "id": "n1-050",
@@ -547,7 +645,9 @@
   "pinyin": "jiějie/jiě",
   "pos": "N",
   "gloss": "older sister",
-  "km": "បងស្រី"
+  "km": "បងស្រី",
+  "ex": "我姊姊很漂亮。",
+  "ex_en": "My older sister is very pretty."
  },
  {
   "id": "n1-051",
@@ -558,7 +658,9 @@
   "pinyin": "mèimei/mèi",
   "pos": "N",
   "gloss": "younger sister",
-  "km": "ប្អូនស្រី"
+  "km": "ប្អូនស្រី",
+  "ex": "妹妹喜歡看書。",
+  "ex_en": "My younger sister likes reading books."
  },
  {
   "id": "n1-052",
@@ -569,7 +671,9 @@
   "pinyin": "xiǎohái(zi)",
   "pos": "N",
   "gloss": "child; kid",
-  "km": "កូនក្មេង"
+  "km": "កូនក្មេង",
+  "ex": "那個小孩是誰？",
+  "ex_en": "Who is that child?"
  },
  {
   "id": "n1-053",
@@ -580,7 +684,9 @@
   "pinyin": "de",
   "pos": "Ptc",
   "gloss": "possessive or modifying particle",
-  "km": "របស់ (ភាគសម្គាល់កម្មសិទ្ធិ)"
+  "km": "របស់ (ភាគសម្គាល់កម្មសិទ្ធិ)",
+  "ex": "這是我的書。",
+  "ex_en": "This is my book."
  },
  {
   "id": "n1-054",
@@ -591,7 +697,9 @@
   "pinyin": "dì",
   "pos": "Det",
   "gloss": "ordinal prefix (-th)",
-  "km": "ទី (លេខរៀង)"
+  "km": "ទី (លេខរៀង)",
+  "ex": "這是第一課。",
+  "ex_en": "This is lesson one."
  },
  {
   "id": "n1-055",
@@ -602,7 +710,9 @@
   "pinyin": "fēn",
   "pos": "M",
   "gloss": "measure word for minutes",
-  "km": "នាទី"
+  "km": "នាទី",
+  "ex": "現在三點十分。",
+  "ex_en": "It is three ten now."
  },
  {
   "id": "n1-056",
@@ -613,7 +723,9 @@
   "pinyin": "diǎn",
   "pos": "M",
   "gloss": "o'clock; measure word for hours",
-  "km": "ម៉ោង (ប្រាប់ម៉ោង)"
+  "km": "ម៉ោង (ប្រាប់ម៉ោង)",
+  "ex": "我們六點吃飯。",
+  "ex_en": "We eat at six o'clock."
  },
  {
   "id": "n1-057",
@@ -624,7 +736,9 @@
   "pinyin": "ge",
   "pos": "M",
   "gloss": "general measure word",
-  "km": "ពាក្យរាប់ទូទៅ"
+  "km": "ពាក្យរាប់ទូទៅ",
+  "ex": "我有三個朋友。",
+  "ex_en": "I have three friends."
  },
  {
   "id": "n1-058",
@@ -635,7 +749,9 @@
   "pinyin": "suì",
   "pos": "M",
   "gloss": "measure word for years of age",
-  "km": "ឆ្នាំ (អាយុ)"
+  "km": "ឆ្នាំ (អាយុ)",
+  "ex": "你今年幾歲？",
+  "ex_en": "How old are you this year?"
  },
  {
   "id": "n1-059",
@@ -646,7 +762,9 @@
   "pinyin": "nián",
   "pos": "M",
   "gloss": "measure word for years",
-  "km": "ឆ្នាំ"
+  "km": "ឆ្នាំ",
+  "ex": "我學中文一年了。",
+  "ex_en": "I have studied Chinese for one year."
  },
  {
   "id": "n1-060",
@@ -657,7 +775,9 @@
   "pinyin": "zhù",
   "pos": "V",
   "gloss": "to live; to reside",
-  "km": "រស់នៅ"
+  "km": "រស់នៅ",
+  "ex": "你住在哪裡？",
+  "ex_en": "Where do you live?"
  },
  {
   "id": "n1-061",
@@ -668,7 +788,9 @@
   "pinyin": "lái",
   "pos": "V",
   "gloss": "to come",
-  "km": "មក"
+  "km": "មក",
+  "ex": "請你來我家。",
+  "ex_en": "Please come to my home."
  },
  {
   "id": "n1-062",
@@ -679,7 +801,9 @@
   "pinyin": "shì",
   "pos": "Vst",
   "gloss": "to be",
-  "km": "ជា; គឺ"
+  "km": "ជា; គឺ",
+  "ex": "我是台灣人。",
+  "ex_en": "I am Taiwanese."
  },
  {
   "id": "n1-063",
@@ -690,7 +814,9 @@
   "pinyin": "xìng",
   "pos": "Vst",
   "gloss": "to be surnamed",
-  "km": "មានត្រកូល"
+  "km": "មានត្រកូល",
+  "ex": "他姓王嗎？",
+  "ex_en": "Is his surname Wang?"
  },
  {
   "id": "n1-064",
@@ -701,7 +827,9 @@
   "pinyin": "juéde",
   "pos": "Vst",
   "gloss": "to feel; to think",
-  "km": "មានអារម្មណ៍ថា; គិតថា"
+  "km": "មានអារម្មណ៍ថា; គិតថា",
+  "ex": "我覺得很好。",
+  "ex_en": "I think it is very good."
  },
  {
   "id": "n1-065",
@@ -712,7 +840,9 @@
   "pinyin": "xǐhuān",
   "pos": "Vst",
   "gloss": "to like",
-  "km": "ចូលចិត្ត"
+  "km": "ចូលចិត្ត",
+  "ex": "我喜歡看電影。",
+  "ex_en": "I like watching movies."
  },
  {
   "id": "n1-066",
@@ -723,7 +853,9 @@
   "pinyin": "dǎdiànhuà",
   "pos": "Vi",
   "gloss": "to make a phone call",
-  "km": "ហៅទូរស័ព្ទ"
+  "km": "ហៅទូរស័ព្ទ",
+  "ex": "我打電話給媽媽。",
+  "ex_en": "I make a phone call to Mom."
  },
  {
   "id": "n1-067",
@@ -734,7 +866,9 @@
   "pinyin": "piàolìang",
   "pos": "Vs",
   "gloss": "pretty; beautiful",
-  "km": "ស្អាត"
+  "km": "ស្អាត",
+  "ex": "這裡很漂亮。",
+  "ex_en": "It is very pretty here."
  },
  {
   "id": "n1-068",
@@ -745,7 +879,9 @@
   "pinyin": "gāo",
   "pos": "Vs",
   "gloss": "tall; high",
-  "km": "ខ្ពស់"
+  "km": "ខ្ពស់",
+  "ex": "我弟弟很高。",
+  "ex_en": "My younger brother is very tall."
  },
  {
   "id": "n1-069",
@@ -756,7 +892,9 @@
   "pinyin": "lǎo",
   "pos": "Vs",
   "gloss": "old (aged)",
-  "km": "ចាស់"
+  "km": "ចាស់",
+  "ex": "我爸爸不老。",
+  "ex_en": "My dad is not old."
  },
  {
   "id": "n1-070",
@@ -767,7 +905,9 @@
   "pinyin": "hǎo",
   "pos": "Adv",
   "gloss": "very; so",
-  "km": "ណាស់"
+  "km": "ណាស់",
+  "ex": "這本書好貴。",
+  "ex_en": "This book is so expensive."
  },
  {
   "id": "n1-071",
@@ -778,7 +918,9 @@
   "pinyin": "hěn",
   "pos": "Adv",
   "gloss": "very",
-  "km": "ណាស់; ខ្លាំង"
+  "km": "ណាស់; ខ្លាំង",
+  "ex": "我媽媽很忙。",
+  "ex_en": "My mom is very busy."
  },
  {
   "id": "n1-072",
@@ -789,7 +931,9 @@
   "pinyin": "zhēn",
   "pos": "Adv",
   "gloss": "really; truly",
-  "km": "ពិតជា"
+  "km": "ពិតជា",
+  "ex": "你家真漂亮。",
+  "ex_en": "Your home is really pretty."
  },
  {
   "id": "n1-073",
@@ -800,7 +944,9 @@
   "pinyin": "diànnǎo",
   "pos": "N",
   "gloss": "computer",
-  "km": "កុំព្យូទ័រ"
+  "km": "កុំព្យូទ័រ",
+  "ex": "我的電腦很貴。",
+  "ex_en": "My computer is expensive."
  },
  {
   "id": "n1-074",
@@ -811,7 +957,9 @@
   "pinyin": "lǎoshī",
   "pos": "N",
   "gloss": "teacher",
-  "km": "គ្រូបង្រៀន"
+  "km": "គ្រូបង្រៀន",
+  "ex": "王老師很好。",
+  "ex_en": "Teacher Wang is very nice."
  },
  {
   "id": "n1-075",
@@ -822,7 +970,9 @@
   "pinyin": "mǎi",
   "pos": "V",
   "gloss": "to buy",
-  "km": "ទិញ"
+  "km": "ទិញ",
+  "ex": "我想買電腦。",
+  "ex_en": "I want to buy a computer."
  },
  {
   "id": "n1-076",
@@ -833,7 +983,9 @@
   "pinyin": "máng",
   "pos": "Vs",
   "gloss": "busy",
-  "km": "រវល់"
+  "km": "រវល់",
+  "ex": "我今天很忙。",
+  "ex_en": "I am very busy today."
  },
  {
   "id": "n1-077",
@@ -844,7 +996,9 @@
   "pinyin": "xuéshēng",
   "pos": "N",
   "gloss": "student",
-  "km": "សិស្ស"
+  "km": "សិស្ស",
+  "ex": "他們都是學生。",
+  "ex_en": "They are all students."
  },
  {
   "id": "n1-078",
@@ -855,7 +1009,9 @@
   "pinyin": "dàxué",
   "pos": "N",
   "gloss": "university; college",
-  "km": "សាកលវិទ្យាល័យ"
+  "km": "សាកលវិទ្យាល័យ",
+  "ex": "我在大學學中文。",
+  "ex_en": "I study Chinese at university."
  },
  {
   "id": "n1-079",
@@ -866,7 +1022,9 @@
   "pinyin": "xuéxiào",
   "pos": "N",
   "gloss": "school",
-  "km": "សាលារៀន"
+  "km": "សាលារៀន",
+  "ex": "我們的學校很大。",
+  "ex_en": "Our school is big."
  },
  {
   "id": "n1-080",
@@ -877,7 +1035,9 @@
   "pinyin": "zhōngwén",
   "pos": "N",
   "gloss": "Chinese (language)",
-  "km": "ភាសាចិន"
+  "km": "ភាសាចិន",
+  "ex": "我在學中文。",
+  "ex_en": "I am learning Chinese."
  },
  {
   "id": "n1-081",
@@ -888,7 +1048,9 @@
   "pinyin": "tóngxué",
   "pos": "N",
   "gloss": "classmate",
-  "km": "មិត្តរួមថ្នាក់"
+  "km": "មិត្តរួមថ្នាក់",
+  "ex": "他是我的同學。",
+  "ex_en": "He is my classmate."
  },
  {
   "id": "n1-082",
@@ -899,7 +1061,9 @@
   "pinyin": "zì",
   "pos": "N",
   "gloss": "character; word",
-  "km": "តួអក្សរ; ពាក្យ"
+  "km": "តួអក្សរ; ពាក្យ",
+  "ex": "這個字怎麼寫？",
+  "ex_en": "How do you write this character?"
  },
  {
   "id": "n1-083",
@@ -910,7 +1074,9 @@
   "pinyin": "bǐ",
   "pos": "N",
   "gloss": "pen",
-  "km": "ប៊ិច"
+  "km": "ប៊ិច",
+  "ex": "這是我的筆。",
+  "ex_en": "This is my pen."
  },
  {
   "id": "n1-084",
@@ -921,7 +1087,9 @@
   "pinyin": "xué",
   "pos": "V",
   "gloss": "to learn; to study",
-  "km": "រៀន"
+  "km": "រៀន",
+  "ex": "我想學中文。",
+  "ex_en": "I want to learn Chinese."
  },
  {
   "id": "n1-085",
@@ -932,7 +1100,9 @@
   "pinyin": "wèn",
   "pos": "V",
   "gloss": "to ask",
-  "km": "សួរ"
+  "km": "សួរ",
+  "ex": "我想問老師。",
+  "ex_en": "I want to ask the teacher."
  },
  {
   "id": "n1-086",
@@ -943,7 +1113,9 @@
   "pinyin": "shuō",
   "pos": "V",
   "gloss": "to speak; to say",
-  "km": "និយាយ"
+  "km": "និយាយ",
+  "ex": "請再說一次。",
+  "ex_en": "Please say it again."
  },
  {
   "id": "n1-087",
@@ -954,7 +1126,9 @@
   "pinyin": "xiě",
   "pos": "V",
   "gloss": "to write",
-  "km": "សរសេរ"
+  "km": "សរសេរ",
+  "ex": "請寫你的名字。",
+  "ex_en": "Please write your name."
  },
  {
   "id": "n1-088",
@@ -965,7 +1139,9 @@
   "pinyin": "tīng",
   "pos": "V",
   "gloss": "to listen",
-  "km": "ស្តាប់"
+  "km": "ស្តាប់",
+  "ex": "請聽老師說。",
+  "ex_en": "Please listen to the teacher."
  },
  {
   "id": "n1-089",
@@ -976,7 +1152,9 @@
   "pinyin": "duì",
   "pos": "Vs",
   "gloss": "correct; right",
-  "km": "ត្រូវ"
+  "km": "ត្រូវ",
+  "ex": "你說得對。",
+  "ex_en": "What you said is right."
  },
  {
   "id": "n1-090",
@@ -987,7 +1165,9 @@
   "pinyin": "néng",
   "pos": "Vaux",
   "gloss": "can; to be able to",
-  "km": "អាច"
+  "km": "អាច",
+  "ex": "你能來嗎？",
+  "ex_en": "Can you come?"
  },
  {
   "id": "n1-091",
@@ -998,7 +1178,9 @@
   "pinyin": "kěyǐ",
   "pos": "Vaux",
   "gloss": "can; may",
-  "km": "អាច; បាន"
+  "km": "អាច; បាន",
+  "ex": "我可以問嗎？",
+  "ex_en": "May I ask?"
  },
  {
   "id": "n1-092",
@@ -1009,7 +1191,9 @@
   "pinyin": "shàngkè",
   "pos": "V-sep",
   "gloss": "to attend class",
-  "km": "ចូលរៀន"
+  "km": "ចូលរៀន",
+  "ex": "我八點上課。",
+  "ex_en": "I have class at eight o'clock."
  },
  {
   "id": "n1-093",
@@ -1020,7 +1204,9 @@
   "pinyin": "zhīdào",
   "pos": "Vst",
   "gloss": "to know",
-  "km": "ដឹង"
+  "km": "ដឹង",
+  "ex": "我不知道。",
+  "ex_en": "I do not know."
  },
  {
   "id": "n1-094",
@@ -1031,7 +1217,9 @@
   "pinyin": "diànshì(jī)",
   "pos": "N",
   "gloss": "television; TV",
-  "km": "ទូរទស្សន៍"
+  "km": "ទូរទស្សន៍",
+  "ex": "我在看電視。",
+  "ex_en": "I am watching TV."
  },
  {
   "id": "n1-095",
@@ -1042,7 +1230,9 @@
   "pinyin": "shuǐ",
   "pos": "N",
   "gloss": "water",
-  "km": "ទឹក"
+  "km": "ទឹក",
+  "ex": "我想喝水。",
+  "ex_en": "I want to drink water."
  },
  {
   "id": "n1-096",
@@ -1053,7 +1243,9 @@
   "pinyin": "jiǔ",
   "pos": "Vs-pred",
   "gloss": "long (in time)",
-  "km": "យូរ"
+  "km": "យូរ",
+  "ex": "你等了很久嗎？",
+  "ex_en": "Did you wait a long time?"
  },
  {
   "id": "n1-097",
@@ -1064,7 +1256,9 @@
   "pinyin": "zǎo",
   "pos": "Vs",
   "gloss": "early",
-  "km": "ឆាប់; ព្រលឹម"
+  "km": "ឆាប់; ព្រលឹម",
+  "ex": "你來得真早。",
+  "ex_en": "You came really early."
  },
  {
   "id": "n1-098",
@@ -1075,7 +1269,9 @@
   "pinyin": "zài",
   "pos": "Adv",
   "gloss": "again",
-  "km": "ម្តងទៀត"
+  "km": "ម្តងទៀត",
+  "ex": "我想再看一次。",
+  "ex_en": "I want to watch it again."
  },
  {
   "id": "n1-099",
@@ -1086,7 +1282,9 @@
   "pinyin": "shū",
   "pos": "N",
   "gloss": "book",
-  "km": "សៀវភៅ"
+  "km": "សៀវភៅ",
+  "ex": "我喜歡看書。",
+  "ex_en": "I like reading books."
  },
  {
   "id": "n1-100",
@@ -1097,7 +1295,9 @@
   "pinyin": "diànyǐng",
   "pos": "N",
   "gloss": "movie; film",
-  "km": "ភាពយន្ត; កុន"
+  "km": "ភាពយន្ត; កុន",
+  "ex": "這個電影很好看。",
+  "ex_en": "This movie is very good."
  },
  {
   "id": "n1-101",
@@ -1108,7 +1308,9 @@
   "pinyin": "yǐqián",
   "pos": "N",
   "gloss": "before; in the past",
-  "km": "ពីមុន"
+  "km": "ពីមុន",
+  "ex": "我以前住台灣。",
+  "ex_en": "I lived in Taiwan before."
  },
  {
   "id": "n1-102",
@@ -1119,7 +1321,9 @@
   "pinyin": "yǐhòu",
   "pos": "N",
   "gloss": "after; later",
-  "km": "ក្រោយមក"
+  "km": "ក្រោយមក",
+  "ex": "以後再說吧。",
+  "ex_en": "Let's talk about it later."
  },
  {
   "id": "n1-103",
@@ -1130,7 +1334,9 @@
   "pinyin": "zǒu",
   "pos": "V",
   "gloss": "to walk; to leave",
-  "km": "ដើរ; ចាកចេញ"
+  "km": "ដើរ; ចាកចេញ",
+  "ex": "我們走吧！",
+  "ex_en": "Let's go!"
  },
  {
   "id": "n1-104",
@@ -1141,7 +1347,9 @@
   "pinyin": "děng",
   "pos": "V",
   "gloss": "to wait",
-  "km": "រង់ចាំ"
+  "km": "រង់ចាំ",
+  "ex": "請等一下。",
+  "ex_en": "Please wait a moment."
  },
  {
   "id": "n1-105",
@@ -1152,7 +1360,9 @@
   "pinyin": "kàn",
   "pos": "V",
   "gloss": "to look; to watch",
-  "km": "មើល"
+  "km": "មើល",
+  "ex": "你看，那是誰？",
+  "ex_en": "Look, who is that?"
  },
  {
   "id": "n1-106",
@@ -1163,7 +1373,9 @@
   "pinyin": "jiù",
   "pos": "Adv",
   "gloss": "then; right away",
-  "km": "ក៏; ភ្លាម"
+  "km": "ក៏; ភ្លាម",
+  "ex": "我現在就去。",
+  "ex_en": "I will go right now."
  },
  {
   "id": "n1-107",
@@ -1174,7 +1386,9 @@
   "pinyin": "shénme",
   "pos": "N",
   "gloss": "what",
-  "km": "អ្វី"
+  "km": "អ្វី",
+  "ex": "這是什麼？",
+  "ex_en": "What is this?"
  },
  {
   "id": "n1-108",
@@ -1185,7 +1399,9 @@
   "pinyin": "péngyǒu",
   "pos": "N",
   "gloss": "friend",
-  "km": "មិត្តភក្តិ"
+  "km": "មិត្តភក្តិ",
+  "ex": "他是我的好朋友。",
+  "ex_en": "He is my good friend."
  },
  {
   "id": "n1-109",
@@ -1196,7 +1412,9 @@
   "pinyin": "dōngxi",
   "pos": "N",
   "gloss": "thing; stuff",
-  "km": "របស់របរ"
+  "km": "របស់របរ",
+  "ex": "我要買東西。",
+  "ex_en": "I want to buy some things."
  },
  {
   "id": "n1-110",
@@ -1207,7 +1425,9 @@
   "pinyin": "ba",
   "pos": "Ptc",
   "gloss": "suggestion particle",
-  "km": "ទៅ (ពាក្យស្នើ)"
+  "km": "ទៅ (ពាក្យស្នើ)",
+  "ex": "我們吃飯吧！",
+  "ex_en": "Let's eat!"
  },
  {
   "id": "n1-111",
@@ -1218,7 +1438,9 @@
   "pinyin": "ne",
   "pos": "Ptc",
   "gloss": "question particle (what about)",
-  "km": "វិញ (ចុះ...?)"
+  "km": "វិញ (ចុះ...?)",
+  "ex": "我很好，你呢？",
+  "ex_en": "I am fine, and you?"
  },
  {
   "id": "n1-112",
@@ -1229,7 +1451,9 @@
   "pinyin": "ma",
   "pos": "Ptc",
   "gloss": "yes-no question particle",
-  "km": "ទេ? (ពាក្យសួរ)"
+  "km": "ទេ? (ពាក្យសួរ)",
+  "ex": "你是學生嗎？",
+  "ex_en": "Are you a student?"
  },
  {
   "id": "n1-113",
@@ -1240,7 +1464,9 @@
   "pinyin": "zhǎo",
   "pos": "V",
   "gloss": "to look for",
-  "km": "រក"
+  "km": "រក",
+  "ex": "你在找誰？",
+  "ex_en": "Who are you looking for?"
  },
  {
   "id": "n1-114",
@@ -1251,7 +1477,9 @@
   "pinyin": "zuò",
   "pos": "V",
   "gloss": "to do; to make",
-  "km": "ធ្វើ"
+  "km": "ធ្វើ",
+  "ex": "你在做什麼？",
+  "ex_en": "What are you doing?"
  },
  {
   "id": "n1-115",
@@ -1262,7 +1490,9 @@
   "pinyin": "zàijiàn",
   "pos": "Vi",
   "gloss": "goodbye; see you again",
-  "km": "លាហើយ"
+  "km": "លាហើយ",
+  "ex": "老師，再見！",
+  "ex_en": "Goodbye, teacher!"
  },
  {
   "id": "n1-116",
@@ -1273,7 +1503,9 @@
   "pinyin": "zěnmeyàng",
   "pos": "Vs",
   "gloss": "how; how about",
-  "km": "យ៉ាងម៉េច"
+  "km": "យ៉ាងម៉េច",
+  "ex": "這本書怎麼樣？",
+  "ex_en": "How is this book?"
  },
  {
   "id": "n1-117",
@@ -1284,7 +1516,9 @@
   "pinyin": "jiào",
   "pos": "Vst / V",
   "gloss": "to be called; to call",
-  "km": "មានឈ្មោះ; ហៅ"
+  "km": "មានឈ្មោះ; ហៅ",
+  "ex": "我叫王小明。",
+  "ex_en": "My name is Wang Xiaoming."
  },
  {
   "id": "n1-118",
@@ -1295,7 +1529,9 @@
   "pinyin": "xièxie",
   "pos": "Vst",
   "gloss": "to thank; thanks",
-  "km": "អរគុណ"
+  "km": "អរគុណ",
+  "ex": "謝謝你來。",
+  "ex_en": "Thank you for coming."
  },
  {
   "id": "n1-119",
@@ -1306,7 +1542,9 @@
   "pinyin": "duìbùqǐ",
   "pos": "",
   "gloss": "sorry; excuse me",
-  "km": "សុំទោស"
+  "km": "សុំទោស",
+  "ex": "對不起，我來晚了。",
+  "ex_en": "Sorry, I am late."
  },
  {
   "id": "n1-120",
@@ -1317,7 +1555,9 @@
   "pinyin": "qǐngwèn",
   "pos": "",
   "gloss": "excuse me, may I ask",
-  "km": "សុំសួរ"
+  "km": "សុំសួរ",
+  "ex": "請問你姓什麼？",
+  "ex_en": "Excuse me, what is your surname?"
  },
  {
   "id": "n1-121",
@@ -1328,7 +1568,9 @@
   "pinyin": "zhè",
   "pos": "Det",
   "gloss": "this",
-  "km": "នេះ"
+  "km": "នេះ",
+  "ex": "這是我的家。",
+  "ex_en": "This is my home."
  },
  {
   "id": "n1-122",
@@ -1339,7 +1581,9 @@
   "pinyin": "nà",
   "pos": "Det",
   "gloss": "that",
-  "km": "នោះ"
+  "km": "នោះ",
+  "ex": "那是誰的車？",
+  "ex_en": "Whose car is that?"
  },
  {
   "id": "n1-123",
@@ -1350,7 +1594,9 @@
   "pinyin": "gōnggòngqìchē/gōngchē",
   "pos": "N",
   "gloss": "bus",
-  "km": "ឡានក្រុង"
+  "km": "ឡានក្រុង",
+  "ex": "我坐公共汽車回家。",
+  "ex_en": "I take the bus home."
  },
  {
   "id": "n1-124",
@@ -1361,7 +1607,9 @@
   "pinyin": "chē(zi)",
   "pos": "N",
   "gloss": "car; vehicle",
-  "km": "ឡាន; រថយន្ត"
+  "km": "ឡាន; រថយន្ត",
+  "ex": "我爸爸有車。",
+  "ex_en": "My dad has a car."
  },
  {
   "id": "n1-125",
@@ -1372,7 +1620,9 @@
   "pinyin": "dào",
   "pos": "V",
   "gloss": "to arrive; to reach",
-  "km": "មកដល់"
+  "km": "មកដល់",
+  "ex": "我到學校了。",
+  "ex_en": "I have arrived at school."
  },
  {
   "id": "n1-126",
@@ -1383,7 +1633,9 @@
   "pinyin": "qù",
   "pos": "V",
   "gloss": "to go",
-  "km": "ទៅ"
+  "km": "ទៅ",
+  "ex": "我要去台灣。",
+  "ex_en": "I am going to Taiwan."
  },
  {
   "id": "n1-127",
@@ -1394,7 +1646,9 @@
   "pinyin": "huí",
   "pos": "V",
   "gloss": "to return; to go back",
-  "km": "ត្រឡប់"
+  "km": "ត្រឡប់",
+  "ex": "你什麼時候回家？",
+  "ex_en": "When are you going home?"
  },
  {
   "id": "n1-128",
@@ -1405,7 +1659,9 @@
   "pinyin": "zuò",
   "pos": "Vi",
   "gloss": "to sit; to take (transport)",
-  "km": "អង្គុយ; ជិះ"
+  "km": "អង្គុយ; ជិះ",
+  "ex": "請坐這裡。",
+  "ex_en": "Please sit here."
  },
  {
   "id": "n1-129",
@@ -1416,7 +1672,9 @@
   "pinyin": "zhèlǐ/zhèr",
   "pos": "N",
   "gloss": "here",
-  "km": "ទីនេះ"
+  "km": "ទីនេះ",
+  "ex": "這裡人很多。",
+  "ex_en": "There are many people here."
  },
  {
   "id": "n1-130",
@@ -1427,7 +1685,9 @@
   "pinyin": "nàlǐ/nàr",
   "pos": "N",
   "gloss": "there",
-  "km": "ទីនោះ"
+  "km": "ទីនោះ",
+  "ex": "那裡有很多車。",
+  "ex_en": "There are many cars there."
  },
  {
   "id": "n1-131",
@@ -1438,7 +1698,9 @@
   "pinyin": "nǎlǐ/nǎr",
   "pos": "N",
   "gloss": "where",
-  "km": "ឯណា; ទីណា"
+  "km": "ឯណា; ទីណា",
+  "ex": "你要去哪裡？",
+  "ex_en": "Where are you going?"
  },
  {
   "id": "n1-132",
@@ -1449,7 +1711,9 @@
   "pinyin": "kāichē",
   "pos": "V-sep",
   "gloss": "to drive a car",
-  "km": "បើកឡាន"
+  "km": "បើកឡាន",
+  "ex": "我爸爸會開車。",
+  "ex_en": "My dad can drive."
  },
  {
   "id": "n1-133",
@@ -1460,7 +1724,9 @@
   "pinyin": "qián",
   "pos": "N",
   "gloss": "money",
-  "km": "លុយ"
+  "km": "លុយ",
+  "ex": "我沒有錢。",
+  "ex_en": "I do not have money."
  },
  {
   "id": "n1-134",
@@ -1471,7 +1737,9 @@
   "pinyin": "duōshǎo",
   "pos": "N",
   "gloss": "how much; how many",
-  "km": "ប៉ុន្មាន"
+  "km": "ប៉ុន្មាន",
+  "ex": "這個多少錢？",
+  "ex_en": "How much is this?"
  },
  {
   "id": "n1-135",
@@ -1482,7 +1750,9 @@
   "pinyin": "gěi",
   "pos": "V",
   "gloss": "to give",
-  "km": "ឱ្យ"
+  "km": "ឱ្យ",
+  "ex": "請給我水。",
+  "ex_en": "Please give me some water."
  },
  {
   "id": "n1-136",
@@ -1493,7 +1763,9 @@
   "pinyin": "guì",
   "pos": "Vs",
   "gloss": "expensive",
-  "km": "ថ្លៃ"
+  "km": "ថ្លៃ",
+  "ex": "這個太貴了。",
+  "ex_en": "This is too expensive."
  },
  {
   "id": "n1-137",
@@ -1504,7 +1776,9 @@
   "pinyin": "piányí",
   "pos": "Vs",
   "gloss": "cheap; inexpensive",
-  "km": "ថោក"
+  "km": "ថោក",
+  "ex": "這個很便宜。",
+  "ex_en": "This is very cheap."
  },
  {
   "id": "n1-138",
@@ -1515,7 +1789,9 @@
   "pinyin": "dà",
   "pos": "Vs",
   "gloss": "big; large",
-  "km": "ធំ"
+  "km": "ធំ",
+  "ex": "他的家很大。",
+  "ex_en": "His home is very big."
  },
  {
   "id": "n1-139",
@@ -1526,7 +1802,9 @@
   "pinyin": "xiǎo",
   "pos": "Vs",
   "gloss": "small; little",
-  "km": "តូច"
+  "km": "តូច",
+  "ex": "我的車很小。",
+  "ex_en": "My car is small."
  },
  {
   "id": "n1-140",
@@ -1537,7 +1815,9 @@
   "pinyin": "nán",
   "pos": "Vs",
   "gloss": "difficult; hard",
-  "km": "ពិបាក"
+  "km": "ពិបាក",
+  "ex": "中文不難。",
+  "ex_en": "Chinese is not difficult."
  },
  {
   "id": "n1-141",
@@ -1548,7 +1828,9 @@
   "pinyin": "róngyì",
   "pos": "Vs",
   "gloss": "easy",
-  "km": "ងាយស្រួល"
+  "km": "ងាយស្រួល",
+  "ex": "這個字很容易。",
+  "ex_en": "This character is easy."
  },
  {
   "id": "n1-142",
@@ -1559,7 +1841,9 @@
   "pinyin": "yǒu",
   "pos": "Vst",
   "gloss": "to have; there is",
-  "km": "មាន"
+  "km": "មាន",
+  "ex": "我有很多朋友。",
+  "ex_en": "I have many friends."
  },
  {
   "id": "n1-143",
@@ -1570,7 +1854,9 @@
   "pinyin": "xiǎng",
   "pos": "Vst",
   "gloss": "to want to; to think",
-  "km": "ចង់; គិត"
+  "km": "ចង់; គិត",
+  "ex": "我想回家。",
+  "ex_en": "I want to go home."
  },
  {
   "id": "n1-144",
@@ -1581,7 +1867,9 @@
   "pinyin": "jǐ",
   "pos": "Det",
   "gloss": "how many; several",
-  "km": "ប៉ុន្មាន"
+  "km": "ប៉ុន្មាន",
+  "ex": "你有幾本書？",
+  "ex_en": "How many books do you have?"
  },
  {
   "id": "n1-145",
@@ -1592,7 +1880,9 @@
   "pinyin": "kuài",
   "pos": "M",
   "gloss": "measure word for dollars; pieces",
-  "km": "ដុំ; (រាប់លុយ)"
+  "km": "ដុំ; (រាប់លុយ)",
+  "ex": "這個五十塊。",
+  "ex_en": "This is fifty dollars."
  },
  {
   "id": "n1-146",
@@ -1603,7 +1893,9 @@
   "pinyin": "wèi",
   "pos": "M",
   "gloss": "measure word for people (polite)",
-  "km": "នាក់ (គួរសម)"
+  "km": "នាក់ (គួរសម)",
+  "ex": "請問你們幾位？",
+  "ex_en": "Excuse me, how many are in your party?"
  },
  {
   "id": "n1-147",
@@ -1614,7 +1906,9 @@
   "pinyin": "fàn",
   "pos": "N",
   "gloss": "rice; meal",
-  "km": "បាយ"
+  "km": "បាយ",
+  "ex": "我要吃飯了。",
+  "ex_en": "I am going to eat now."
  },
  {
   "id": "n1-148",
@@ -1625,7 +1919,9 @@
   "pinyin": "chī",
   "pos": "V",
   "gloss": "to eat",
-  "km": "ញ៉ាំ"
+  "km": "ញ៉ាំ",
+  "ex": "你吃飯了嗎？",
+  "ex_en": "Have you eaten?"
  },
  {
   "id": "n1-149",
@@ -1636,7 +1932,9 @@
   "pinyin": "qǐng",
   "pos": "V",
   "gloss": "to invite; please",
-  "km": "អញ្ជើញ; សូម"
+  "km": "អញ្ជើញ; សូម",
+  "ex": "我請你吃飯。",
+  "ex_en": "I will treat you to a meal."
  },
  {
   "id": "n1-150",
@@ -1647,7 +1945,9 @@
   "pinyin": "yě",
   "pos": "Adv",
   "gloss": "also; too",
-  "km": "ក៏...ដែរ"
+  "km": "ក៏...ដែរ",
+  "ex": "我也是學生。",
+  "ex_en": "I am also a student."
  },
  {
   "id": "n1-151",
@@ -1658,7 +1958,9 @@
   "pinyin": "bù",
   "pos": "Adv",
   "gloss": "not; no",
-  "km": "មិន...ទេ"
+  "km": "មិន...ទេ",
+  "ex": "我不喜歡開車。",
+  "ex_en": "I do not like driving."
  },
  {
   "id": "n1-152",
@@ -1669,7 +1971,9 @@
   "pinyin": "méi",
   "pos": "Adv",
   "gloss": "not; have not",
-  "km": "មិនបាន; គ្មាន"
+  "km": "មិនបាន; គ្មាន",
+  "ex": "我沒去學校。",
+  "ex_en": "I did not go to school."
  },
  {
   "id": "n1-153",
@@ -1680,7 +1984,9 @@
   "pinyin": "dōu",
   "pos": "Adv",
   "gloss": "all; both",
-  "km": "ទាំងអស់"
+  "km": "ទាំងអស់",
+  "ex": "我們都是學生。",
+  "ex_en": "We are all students."
  },
  {
   "id": "n1-154",
@@ -1691,7 +1997,9 @@
   "pinyin": "zhǐ",
   "pos": "Adv",
   "gloss": "only",
-  "km": "គ្រាន់តែ"
+  "km": "គ្រាន់តែ",
+  "ex": "我只有十塊。",
+  "ex_en": "I only have ten dollars."
  },
  {
   "id": "n1-155",
@@ -1702,7 +2010,9 @@
   "pinyin": "kěshì",
   "pos": "Conj",
   "gloss": "but; however",
-  "km": "ប៉ុន្តែ"
+  "km": "ប៉ុន្តែ",
+  "ex": "我想去，可是我很忙。",
+  "ex_en": "I want to go, but I am busy."
  },
  {
   "id": "n1-156",
@@ -1713,7 +2023,9 @@
   "pinyin": "háishì",
   "pos": "Conj",
   "gloss": "or (in questions)",
-  "km": "ឬ (ក្នុងសំណួរ)"
+  "km": "ឬ (ក្នុងសំណួរ)",
+  "ex": "你要水還是茶？",
+  "ex_en": "Do you want water or tea?"
  },
  {
   "id": "n1-157",
@@ -1724,7 +2036,9 @@
   "pinyin": "le",
   "pos": "Ptc",
   "gloss": "completed action particle",
-  "km": "ហើយ"
+  "km": "ហើយ",
+  "ex": "我吃飯了。",
+  "ex_en": "I have eaten."
  },
  {
   "id": "n1-158",
@@ -1735,7 +2049,9 @@
   "pinyin": "de",
   "pos": "Ptc",
   "gloss": "complement particle",
-  "km": "បាន (ភាគបំពេញ)"
+  "km": "បាន (ភាគបំពេញ)",
+  "ex": "他說得很好。",
+  "ex_en": "He speaks very well."
  },
  {
   "id": "n1-159",
@@ -1746,7 +2062,9 @@
   "pinyin": "guò",
   "pos": "Ptc",
   "gloss": "experiential aspect particle",
-  "km": "ធ្លាប់"
+  "km": "ធ្លាប់",
+  "ex": "我去過日本。",
+  "ex_en": "I have been to Japan."
  },
  {
   "id": "n1-160",
@@ -1757,6 +2075,8 @@
   "pinyin": "méiyǒu",
   "pos": "Ptc",
   "gloss": "negation particle (have not)",
-  "km": "មិនបាន; គ្មាន"
+  "km": "មិនបាន; គ្មាន",
+  "ex": "我沒有去過美國。",
+  "ex_en": "I have never been to America."
  }
 ]
