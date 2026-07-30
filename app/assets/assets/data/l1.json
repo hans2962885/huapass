@@ -334,8 +334,8 @@
   "pos": "N",
   "gloss": "summer",
   "km": "រដូវក្តៅ",
-  "ex": "台灣的夏天很熱。",
-  "ex_en": "Summer in Taiwan is very hot."
+  "ex": "夏天我常去游泳。",
+  "ex_en": "In summer I often go swimming."
  },
  {
   "id": "l1-027",
@@ -698,7 +698,7 @@
   "pos": "Vs",
   "gloss": "hardworking; diligent",
   "km": "ខិតខំ",
-  "ex": "他學習很努力。",
+  "ex": "他讀書很努力。",
   "ex_en": "He studies very hard."
  },
  {
@@ -3272,8 +3272,8 @@
   "pos": "N",
   "gloss": "hair",
   "km": "សក់",
-  "ex": "她的頭髮很長。",
-  "ex_en": "Her hair is very long."
+  "ex": "我想去剪頭髮。",
+  "ex_en": "I want to get a haircut."
  },
  {
   "id": "l1-253",
@@ -3597,7 +3597,7 @@
   "pos": "N",
   "gloss": "pants",
   "km": "ខោ",
-  "ex": "這件褲子太大了。",
+  "ex": "這條褲子太大了。",
   "ex_en": "These pants are too big."
  },
  {

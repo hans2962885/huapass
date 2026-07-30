@@ -61,7 +61,7 @@
   "pos": "N",
   "gloss": "form; chart",
   "km": "តារាង",
-  "ex": "請把這張表寫好。",
+  "ex": "請把這張表填好。",
   "ex_en": "Please fill out this form."
  },
  {
@@ -3961,8 +3961,8 @@
   "pos": "Ptc",
   "gloss": "verb complement: up; start",
   "km": "ឡើង",
-  "ex": "他早上六點就起來了。",
-  "ex_en": "He got up at six in the morning."
+  "ex": "天氣慢慢熱起來了。",
+  "ex_en": "The weather is slowly getting hot."
  },
  {
   "id": "l2-306",
@@ -5976,8 +5976,8 @@
   "pos": "Vs",
   "gloss": "free; unoccupied",
   "km": "ទំនេរ",
-  "ex": "你明天有空嗎？",
-  "ex_en": "Are you free tomorrow?"
+  "ex": "我今天下午有空。",
+  "ex_en": "I am free this afternoon."
  },
  {
   "id": "l2-461",
@@ -6197,7 +6197,7 @@
   "pos": "N",
   "gloss": "example; analogy",
   "km": "ឧទាហរណ៍",
-  "ex": "你可以給我一個比方嗎？",
+  "ex": "你可以打個比方嗎？",
   "ex_en": "Can you give me an example?"
  },
  {

@@ -477,8 +477,8 @@
   "pos": "N",
   "gloss": "evening; night",
   "km": "ល្ងាច; យប់",
-  "ex": "今天晚上你有空嗎？",
-  "ex_en": "Are you free tonight?"
+  "ex": "他從早到晚都在工作。",
+  "ex_en": "He works from morning till night."
  },
  {
   "id": "n2-038",
@@ -555,8 +555,8 @@
   "pos": "N",
   "gloss": "it",
   "km": "វា",
-  "ex": "它是我的小狗。",
-  "ex_en": "It is my puppy."
+  "ex": "我的手機很舊，可是它還很好用。",
+  "ex_en": "My cell phone is old, but it still works well."
  },
  {
   "id": "n2-044",
@@ -1127,8 +1127,8 @@
   "pos": "V",
   "gloss": "to open; to turn on",
   "km": "បើក",
-  "ex": "我哥哥會開車。",
-  "ex_en": "My older brother can drive."
+  "ex": "太熱了，請開窗戶。",
+  "ex_en": "It's too hot; please open the window."
  },
  {
   "id": "n2-088",
@@ -1686,8 +1686,8 @@
   "pos": "Adv",
   "gloss": "how; why",
   "km": "យ៉ាងម៉េច",
-  "ex": "這個字怎麼寫？",
-  "ex_en": "How do you write this character?"
+  "ex": "這個菜怎麼做？",
+  "ex_en": "How do you make this dish?"
  },
  {
   "id": "n2-131",
