@@ -1,0 +1,2726 @@
+{
+ "我": {
+  "book": 1,
+  "lesson": 1
+ },
+ "你/妳": {
+  "book": 1,
+  "lesson": 2
+ },
+ "他/她": {
+  "book": 1,
+  "lesson": 1
+ },
+ "他們/她們": {
+  "book": 1,
+  "lesson": 3
+ },
+ "您": {
+  "book": 1,
+  "lesson": 1
+ },
+ "誰": {
+  "book": 1,
+  "lesson": 5
+ },
+ "人": {
+  "book": 1,
+  "lesson": 1
+ },
+ "美國": {
+  "book": 1,
+  "lesson": 1
+ },
+ "日本": {
+  "book": 2,
+  "lesson": 6
+ },
+ "台灣/臺灣": {
+  "book": 1,
+  "lesson": 1
+ },
+ "名字": {
+  "book": 1,
+  "lesson": 1
+ },
+ "家": {
+  "book": 1,
+  "lesson": 6
+ },
+ "電話": {
+  "book": 1,
+  "lesson": 7
+ },
+ "時間": {
+  "book": 1,
+  "lesson": 9
+ },
+ "現在": {
+  "book": 1,
+  "lesson": 5
+ },
+ "今年": {
+  "book": 1,
+  "lesson": 8
+ },
+ "今天": {
+  "book": 1,
+  "lesson": 4
+ },
+ "明天": {
+  "book": 1,
+  "lesson": 8
+ },
+ "昨天": {
+  "book": 2,
+  "lesson": 1
+ },
+ "早上": {
+  "book": 2,
+  "lesson": 8
+ },
+ "上午": {
+  "book": 1,
+  "lesson": 6
+ },
+ "下午": {
+  "book": 1,
+  "lesson": 7
+ },
+ "晚上": {
+  "book": 1,
+  "lesson": 6
+ },
+ "一": {
+  "book": 1,
+  "lesson": 2
+ },
+ "二": {
+  "book": 1,
+  "lesson": 7
+ },
+ "三": {
+  "book": 1,
+  "lesson": 7
+ },
+ "四": {
+  "book": 1,
+  "lesson": 7
+ },
+ "五": {
+  "book": 1,
+  "lesson": 7
+ },
+ "六": {
+  "book": 1,
+  "lesson": 7
+ },
+ "七": {
+  "book": 1,
+  "lesson": 7
+ },
+ "八": {
+  "book": 1,
+  "lesson": 7
+ },
+ "九": {
+  "book": 1,
+  "lesson": 7
+ },
+ "十": {
+  "book": 1,
+  "lesson": 7
+ },
+ "兩": {
+  "book": 1,
+  "lesson": 2
+ },
+ "時候": {
+  "book": 2,
+  "lesson": 1
+ },
+ "百": {
+  "book": 1,
+  "lesson": 7
+ },
+ "半": {
+  "book": 1,
+  "lesson": 9
+ },
+ "千": {
+  "book": 4,
+  "lesson": 3
+ },
+ "爸爸/爸": {
+  "book": 1,
+  "lesson": 4
+ },
+ "媽媽/媽": {
+  "book": 1,
+  "lesson": 4
+ },
+ "哥哥/哥": {
+  "book": 1,
+  "lesson": 2
+ },
+ "弟弟/弟": {
+  "book": 1,
+  "lesson": 2
+ },
+ "姊姊/姐姐/姊/姐": {
+  "book": 1,
+  "lesson": 2
+ },
+ "妹妹/妹": {
+  "book": 1,
+  "lesson": 2
+ },
+ "小孩(子)": {
+  "book": 1,
+  "lesson": 3
+ },
+ "第": {
+  "book": 3,
+  "lesson": 1
+ },
+ "分": {
+  "book": 2,
+  "lesson": 5
+ },
+ "點": {
+  "book": 1,
+  "lesson": 9
+ },
+ "個": {
+  "book": 1,
+  "lesson": 2
+ },
+ "歲": {
+  "book": 1,
+  "lesson": 8
+ },
+ "年": {
+  "book": 1,
+  "lesson": 9
+ },
+ "來": {
+  "book": 1,
+  "lesson": 5
+ },
+ "是": {
+  "book": 1,
+  "lesson": 1
+ },
+ "姓": {
+  "book": 1,
+  "lesson": 1
+ },
+ "覺得": {
+  "book": 1,
+  "lesson": 10
+ },
+ "喜歡": {
+  "book": 1,
+  "lesson": 4
+ },
+ "打電話": {
+  "book": 1,
+  "lesson": 7
+ },
+ "漂亮": {
+  "book": 2,
+  "lesson": 7
+ },
+ "高": {
+  "book": 4,
+  "lesson": 6
+ },
+ "好": {
+  "book": 1,
+  "lesson": 1
+ },
+ "很": {
+  "book": 1,
+  "lesson": 4
+ },
+ "真": {
+  "book": 2,
+  "lesson": 1
+ },
+ "電腦": {
+  "book": 1,
+  "lesson": 3
+ },
+ "老師": {
+  "book": 1,
+  "lesson": 4
+ },
+ "買": {
+  "book": 1,
+  "lesson": 8
+ },
+ "忙": {
+  "book": 1,
+  "lesson": 4
+ },
+ "學生": {
+  "book": 1,
+  "lesson": 3
+ },
+ "大學": {
+  "book": 1,
+  "lesson": 3
+ },
+ "學校": {
+  "book": 1,
+  "lesson": 5
+ },
+ "同學": {
+  "book": 3,
+  "lesson": 1
+ },
+ "字": {
+  "book": 1,
+  "lesson": 10
+ },
+ "學": {
+  "book": 1,
+  "lesson": 10
+ },
+ "說": {
+  "book": 1,
+  "lesson": 4
+ },
+ "聽": {
+  "book": 1,
+  "lesson": 6
+ },
+ "對": {
+  "book": 2,
+  "lesson": 1
+ },
+ "能": {
+  "book": 2,
+  "lesson": 1
+ },
+ "可以": {
+  "book": 3,
+  "lesson": 3
+ },
+ "上課": {
+  "book": 2,
+  "lesson": 10
+ },
+ "知道": {
+  "book": 3,
+  "lesson": 4
+ },
+ "電視(機)": {
+  "book": 1,
+  "lesson": 6
+ },
+ "水": {
+  "book": 2,
+  "lesson": 4
+ },
+ "早": {
+  "book": 3,
+  "lesson": 3
+ },
+ "再": {
+  "book": 2,
+  "lesson": 5
+ },
+ "電影": {
+  "book": 2,
+  "lesson": 8
+ },
+ "以前": {
+  "book": 3,
+  "lesson": 1
+ },
+ "以後": {
+  "book": 1,
+  "lesson": 7
+ },
+ "等": {
+  "book": 2,
+  "lesson": 4
+ },
+ "看": {
+  "book": 1,
+  "lesson": 6
+ },
+ "就": {
+  "book": 2,
+  "lesson": 4
+ },
+ "什麼/甚麼": {
+  "book": 1,
+  "lesson": 1
+ },
+ "朋友": {
+  "book": 1,
+  "lesson": 5
+ },
+ "東西": {
+  "book": 2,
+  "lesson": 2
+ },
+ "吧": {
+  "book": 1,
+  "lesson": 10
+ },
+ "嗎": {
+  "book": 1,
+  "lesson": 2
+ },
+ "找": {
+  "book": 2,
+  "lesson": 10
+ },
+ "做": {
+  "book": 1,
+  "lesson": 6
+ },
+ "再見": {
+  "book": 1,
+  "lesson": 7
+ },
+ "怎麼樣": {
+  "book": 1,
+  "lesson": 9
+ },
+ "叫": {
+  "book": 1,
+  "lesson": 1
+ },
+ "謝謝": {
+  "book": 1,
+  "lesson": 7
+ },
+ "對不起": {
+  "book": 4,
+  "lesson": 1
+ },
+ "請問": {
+  "book": 1,
+  "lesson": 1
+ },
+ "這": {
+  "book": 1,
+  "lesson": 5
+ },
+ "那": {
+  "book": 1,
+  "lesson": 9
+ },
+ "公共汽車/公車": {
+  "book": 3,
+  "lesson": 7
+ },
+ "到": {
+  "book": 2,
+  "lesson": 6
+ },
+ "去": {
+  "book": 1,
+  "lesson": 5
+ },
+ "回": {
+  "book": 2,
+  "lesson": 2
+ },
+ "坐": {
+  "book": 3,
+  "lesson": 2
+ },
+ "這裡/這裏/這兒": {
+  "book": 2,
+  "lesson": 1
+ },
+ "那裡/那裏/那兒": {
+  "book": 2,
+  "lesson": 6
+ },
+ "哪裡/哪裏/哪兒": {
+  "book": 1,
+  "lesson": 3
+ },
+ "開車": {
+  "book": 2,
+  "lesson": 6
+ },
+ "錢": {
+  "book": 2,
+  "lesson": 5
+ },
+ "多少": {
+  "book": 1,
+  "lesson": 10
+ },
+ "給": {
+  "book": 1,
+  "lesson": 7
+ },
+ "貴": {
+  "book": 1,
+  "lesson": 10
+ },
+ "便宜": {
+  "book": 2,
+  "lesson": 2
+ },
+ "大": {
+  "book": 2,
+  "lesson": 1
+ },
+ "小": {
+  "book": 2,
+  "lesson": 4
+ },
+ "難": {
+  "book": 1,
+  "lesson": 10
+ },
+ "容易": {
+  "book": 3,
+  "lesson": 2
+ },
+ "有": {
+  "book": 1,
+  "lesson": 2
+ },
+ "想": {
+  "book": 1,
+  "lesson": 5
+ },
+ "塊": {
+  "book": 2,
+  "lesson": 4
+ },
+ "位": {
+  "book": 1,
+  "lesson": 7
+ },
+ "吃": {
+  "book": 1,
+  "lesson": 8
+ },
+ "請": {
+  "book": 1,
+  "lesson": 8
+ },
+ "也": {
+  "book": 1,
+  "lesson": 2
+ },
+ "不": {
+  "book": 1,
+  "lesson": 3
+ },
+ "沒": {
+  "book": 1,
+  "lesson": 2
+ },
+ "都": {
+  "book": 1,
+  "lesson": 3
+ },
+ "只": {
+  "book": 1,
+  "lesson": 2
+ },
+ "可是": {
+  "book": 1,
+  "lesson": 6
+ },
+ "還是": {
+  "book": 2,
+  "lesson": 3
+ },
+ "了": {
+  "book": 2,
+  "lesson": 5
+ },
+ "得": {
+  "book": 1,
+  "lesson": 10
+ },
+ "過": {
+  "book": 2,
+  "lesson": 10
+ },
+ "孩子": {
+  "book": 1,
+  "lesson": 3
+ },
+ "小姐": {
+  "book": 1,
+  "lesson": 7
+ },
+ "先生": {
+  "book": 1,
+  "lesson": 3
+ },
+ "太太": {
+  "book": 1,
+  "lesson": 6
+ },
+ "女兒": {
+  "book": 1,
+  "lesson": 3
+ },
+ "兒子": {
+  "book": 1,
+  "lesson": 3
+ },
+ "大家": {
+  "book": 3,
+  "lesson": 1
+ },
+ "手機": {
+  "book": 1,
+  "lesson": 7
+ },
+ "明年": {
+  "book": 2,
+  "lesson": 2
+ },
+ "去年": {
+  "book": 2,
+  "lesson": 2
+ },
+ "生日": {
+  "book": 1,
+  "lesson": 8
+ },
+ "月": {
+  "book": 1,
+  "lesson": 8
+ },
+ "日": {
+  "book": 1,
+  "lesson": 8
+ },
+ "週末/周末": {
+  "book": 1,
+  "lesson": 6
+ },
+ "號": {
+  "book": 1,
+  "lesson": 8
+ },
+ "從": {
+  "book": 2,
+  "lesson": 6
+ },
+ "在": {
+  "book": 1,
+  "lesson": 3
+ },
+ "愛": {
+  "book": 2,
+  "lesson": 3
+ },
+ "快樂": {
+  "book": 1,
+  "lesson": 8
+ },
+ "太": {
+  "book": 2,
+  "lesson": 1
+ },
+ "公園": {
+  "book": 1,
+  "lesson": 5
+ },
+ "國家": {
+  "book": 1,
+  "lesson": 5
+ },
+ "分鐘": {
+  "book": 2,
+  "lesson": 6
+ },
+ "家人": {
+  "book": 2,
+  "lesson": 2
+ },
+ "胖": {
+  "book": 2,
+  "lesson": 5
+ },
+ "萬": {
+  "book": 4,
+  "lesson": 3
+ },
+ "鐘頭": {
+  "book": 2,
+  "lesson": 6
+ },
+ "晚": {
+  "book": 3,
+  "lesson": 3
+ },
+ "後天": {
+  "book": 3,
+  "lesson": 5
+ },
+ "自己": {
+  "book": 1,
+  "lesson": 10
+ },
+ "它": {
+  "book": 4,
+  "lesson": 5
+ },
+ "最": {
+  "book": 1,
+  "lesson": 9
+ },
+ "怕": {
+  "book": 3,
+  "lesson": 3
+ },
+ "美": {
+  "book": 3,
+  "lesson": 2
+ },
+ "應該/應": {
+  "book": 2,
+  "lesson": 9
+ },
+ "非常": {
+  "book": 2,
+  "lesson": 3
+ },
+ "工作": {
+  "book": 1,
+  "lesson": 3
+ },
+ "醫生/醫師": {
+  "book": 2,
+  "lesson": 9
+ },
+ "一點/一點兒/一點點": {
+  "book": 3,
+  "lesson": 3
+ },
+ "一些": {
+  "book": 2,
+  "lesson": 10
+ },
+ "本": {
+  "book": 3,
+  "lesson": 6
+ },
+ "張": {
+  "book": 1,
+  "lesson": 1
+ },
+ "英文": {
+  "book": 2,
+  "lesson": 10
+ },
+ "問題": {
+  "book": 3,
+  "lesson": 8
+ },
+ "餐廳/飯館": {
+  "book": 1,
+  "lesson": 9
+ },
+ "畫/畫兒": {
+  "book": 3,
+  "lesson": 9
+ },
+ "會": {
+  "book": 1,
+  "lesson": 10
+ },
+ "為什麼": {
+  "book": 2,
+  "lesson": 2
+ },
+ "下課": {
+  "book": 1,
+  "lesson": 9
+ },
+ "說話": {
+  "book": 1,
+  "lesson": 10
+ },
+ "考試": {
+  "book": 3,
+  "lesson": 10
+ },
+ "懂": {
+  "book": 3,
+  "lesson": 6
+ },
+ "課": {
+  "book": 4,
+  "lesson": 1
+ },
+ "教": {
+  "book": 1,
+  "lesson": 4
+ },
+ "告訴": {
+  "book": 3,
+  "lesson": 6
+ },
+ "錯": {
+  "book": 3,
+  "lesson": 8
+ },
+ "教室": {
+  "book": 3,
+  "lesson": 1
+ },
+ "句子": {
+  "book": 3,
+  "lesson": 10
+ },
+ "休息": {
+  "book": 1,
+  "lesson": 10
+ },
+ "房(子)": {
+  "book": 2,
+  "lesson": 7
+ },
+ "房間": {
+  "book": 2,
+  "lesson": 7
+ },
+ "樓": {
+  "book": 2,
+  "lesson": 8
+ },
+ "桌(子)": {
+  "book": 3,
+  "lesson": 9
+ },
+ "椅(子)": {
+  "book": 3,
+  "lesson": 9
+ },
+ "開": {
+  "book": 3,
+  "lesson": 7
+ },
+ "不錯": {
+  "book": 1,
+  "lesson": 10
+ },
+ "天氣": {
+  "book": 2,
+  "lesson": 1
+ },
+ "冷": {
+  "book": 2,
+  "lesson": 1
+ },
+ "熱": {
+  "book": 2,
+  "lesson": 1
+ },
+ "下雨": {
+  "book": 2,
+  "lesson": 1
+ },
+ "山": {
+  "book": 3,
+  "lesson": 9
+ },
+ "魚": {
+  "book": 2,
+  "lesson": 3
+ },
+ "雞": {
+  "book": 2,
+  "lesson": 4
+ },
+ "咖啡": {
+  "book": 1,
+  "lesson": 10
+ },
+ "用": {
+  "book": 3,
+  "lesson": 7
+ },
+ "穿": {
+  "book": 2,
+  "lesson": 5
+ },
+ "起床": {
+  "book": 2,
+  "lesson": 8
+ },
+ "方便": {
+  "book": 2,
+  "lesson": 2
+ },
+ "先": {
+  "book": 2,
+  "lesson": 8
+ },
+ "常常/常": {
+  "book": 1,
+  "lesson": 6
+ },
+ "打": {
+  "book": 1,
+  "lesson": 6
+ },
+ "玩": {
+  "book": 1,
+  "lesson": 5
+ },
+ "運動": {
+  "book": 1,
+  "lesson": 6
+ },
+ "走路": {
+  "book": 2,
+  "lesson": 6
+ },
+ "唱歌": {
+  "book": 1,
+  "lesson": 6
+ },
+ "還": {
+  "book": 1,
+  "lesson": 6
+ },
+ "跳舞": {
+  "book": 1,
+  "lesson": 6
+ },
+ "又": {
+  "book": 2,
+  "lesson": 2
+ },
+ "介紹": {
+  "book": 2,
+  "lesson": 7
+ },
+ "沒關係": {
+  "book": 4,
+  "lesson": 1
+ },
+ "事/事兒": {
+  "book": 3,
+  "lesson": 1
+ },
+ "怎麼": {
+  "book": 2,
+  "lesson": 9
+ },
+ "哪": {
+  "book": 1,
+  "lesson": 7
+ },
+ "裡面/裏面": {
+  "book": 2,
+  "lesson": 7
+ },
+ "上(面)": {
+  "book": 2,
+  "lesson": 2
+ },
+ "下(面)": {
+  "book": 2,
+  "lesson": 2
+ },
+ "外(面)": {
+  "book": 2,
+  "lesson": 7
+ },
+ "前(面)": {
+  "book": 2,
+  "lesson": 7
+ },
+ "後(面)": {
+  "book": 2,
+  "lesson": 7
+ },
+ "左(邊)": {
+  "book": 2,
+  "lesson": 7
+ },
+ "右(邊)": {
+  "book": 2,
+  "lesson": 7
+ },
+ "旁(邊)": {
+  "book": 2,
+  "lesson": 7
+ },
+ "中": {
+  "book": 2,
+  "lesson": 4
+ },
+ "地方": {
+  "book": 2,
+  "lesson": 6
+ },
+ "附近": {
+  "book": 2,
+  "lesson": 6
+ },
+ "帶": {
+  "book": 2,
+  "lesson": 8
+ },
+ "拿": {
+  "book": 3,
+  "lesson": 9
+ },
+ "站": {
+  "book": 4,
+  "lesson": 4
+ },
+ "快": {
+  "book": 1,
+  "lesson": 10
+ },
+ "慢": {
+  "book": 3,
+  "lesson": 6
+ },
+ "計程車": {
+  "book": 4,
+  "lesson": 4
+ },
+ "火車": {
+  "book": 3,
+  "lesson": 7
+ },
+ "飛機": {
+  "book": 3,
+  "lesson": 2
+ },
+ "外國": {
+  "book": 3,
+  "lesson": 3
+ },
+ "身體": {
+  "book": 2,
+  "lesson": 9
+ },
+ "藥": {
+  "book": 2,
+  "lesson": 9
+ },
+ "累": {
+  "book": 1,
+  "lesson": 4
+ },
+ "頭": {
+  "book": 2,
+  "lesson": 9
+ },
+ "感冒": {
+  "book": 2,
+  "lesson": 9
+ },
+ "生病": {
+  "book": 2,
+  "lesson": 9
+ },
+ "餓": {
+  "book": 4,
+  "lesson": 2
+ },
+ "痛": {
+  "book": 2,
+  "lesson": 9
+ },
+ "衣服/衣": {
+  "book": 2,
+  "lesson": 2
+ },
+ "比": {
+  "book": 2,
+  "lesson": 1
+ },
+ "要": {
+  "book": 1,
+  "lesson": 8
+ },
+ "長": {
+  "book": 2,
+  "lesson": 10
+ },
+ "新": {
+  "book": 2,
+  "lesson": 7
+ },
+ "一樣": {
+  "book": 2,
+  "lesson": 4
+ },
+ "見": {
+  "book": 1,
+  "lesson": 9
+ },
+ "聽見": {
+  "book": 4,
+  "lesson": 7
+ },
+ "短": {
+  "book": 2,
+  "lesson": 10
+ },
+ "飽": {
+  "book": 4,
+  "lesson": 2
+ },
+ "舊": {
+  "book": 4,
+  "lesson": 3
+ },
+ "像": {
+  "book": 4,
+  "lesson": 1
+ },
+ "一共/共": {
+  "book": 2,
+  "lesson": 5
+ },
+ "夠": {
+  "book": 4,
+  "lesson": 4
+ },
+ "件": {
+  "book": 2,
+  "lesson": 2
+ },
+ "杯": {
+  "book": 1,
+  "lesson": 10
+ },
+ "杯(子)": {
+  "book": 1,
+  "lesson": 10
+ },
+ "菜": {
+  "book": 3,
+  "lesson": 3
+ },
+ "肉": {
+  "book": 2,
+  "lesson": 4
+ },
+ "喝": {
+  "book": 1,
+  "lesson": 10
+ },
+ "多": {
+  "book": 2,
+  "lesson": 9
+ },
+ "小吃": {
+  "book": 3,
+  "lesson": 10
+ },
+ "牛奶": {
+  "book": 2,
+  "lesson": 4
+ },
+ "蛋": {
+  "book": 2,
+  "lesson": 8
+ },
+ "湯": {
+  "book": 2,
+  "lesson": 3
+ },
+ "包子": {
+  "book": 2,
+  "lesson": 3
+ },
+ "蛋糕": {
+  "book": 2,
+  "lesson": 4
+ },
+ "麵包": {
+  "book": 3,
+  "lesson": 3
+ },
+ "水果": {
+  "book": 2,
+  "lesson": 7
+ },
+ "食物": {
+  "book": 4,
+  "lesson": 10
+ },
+ "飲料": {
+  "book": 2,
+  "lesson": 4
+ },
+ "果汁": {
+  "book": 2,
+  "lesson": 8
+ },
+ "甜": {
+  "book": 2,
+  "lesson": 4
+ },
+ "巧克力": {
+  "book": 2,
+  "lesson": 2
+ },
+ "碗": {
+  "book": 2,
+  "lesson": 3
+ },
+ "冰": {
+  "book": 2,
+  "lesson": 4
+ },
+ "一起": {
+  "book": 1,
+  "lesson": 9
+ },
+ "因為": {
+  "book": 2,
+  "lesson": 2
+ },
+ "和": {
+  "book": 1,
+  "lesson": 3
+ },
+ "所以": {
+  "book": 2,
+  "lesson": 2
+ },
+ "跟": {
+  "book": 1,
+  "lesson": 9
+ },
+ "一定": {
+  "book": 2,
+  "lesson": 1
+ },
+ "可能": {
+  "book": 2,
+  "lesson": 1
+ },
+ "別": {
+  "book": 3,
+  "lesson": 8
+ },
+ "馬上": {
+  "book": 2,
+  "lesson": 4
+ },
+ "然後": {
+  "book": 2,
+  "lesson": 8
+ },
+ "著": {
+  "book": 4,
+  "lesson": 6
+ },
+ "有點/有一點/有一點兒": {
+  "book": 1,
+  "lesson": 10
+ },
+ "零": {
+  "book": 1,
+  "lesson": 7
+ },
+ "家庭": {
+  "book": 4,
+  "lesson": 8
+ },
+ "別人": {
+  "book": 4,
+  "lesson": 10
+ },
+ "年輕": {
+  "book": 3,
+  "lesson": 6
+ },
+ "號碼": {
+  "book": 1,
+  "lesson": 7
+ },
+ "城市/城": {
+  "book": 2,
+  "lesson": 6
+ },
+ "剛剛/剛": {
+  "book": 3,
+  "lesson": 4
+ },
+ "春天/春": {
+  "book": 2,
+  "lesson": 1
+ },
+ "夏天/夏": {
+  "book": 2,
+  "lesson": 1
+ },
+ "秋天/秋": {
+  "book": 2,
+  "lesson": 1
+ },
+ "冬天/冬": {
+  "book": 2,
+  "lesson": 1
+ },
+ "高興": {
+  "book": 1,
+  "lesson": 5
+ },
+ "緊張": {
+  "book": 3,
+  "lesson": 10
+ },
+ "生氣": {
+  "book": 3,
+  "lesson": 8
+ },
+ "難過": {
+  "book": 3,
+  "lesson": 8
+ },
+ "相信": {
+  "book": 3,
+  "lesson": 6
+ },
+ "經驗": {
+  "book": 3,
+  "lesson": 4
+ },
+ "辛苦": {
+  "book": 3,
+  "lesson": 1
+ },
+ "願意": {
+  "book": 3,
+  "lesson": 6
+ },
+ "習慣": {
+  "book": 3,
+  "lesson": 5
+ },
+ "當然": {
+  "book": 3,
+  "lesson": 4
+ },
+ "更": {
+  "book": 3,
+  "lesson": 10
+ },
+ "醫院": {
+  "book": 2,
+  "lesson": 9
+ },
+ "公司": {
+  "book": 1,
+  "lesson": 3
+ },
+ "辦公室": {
+  "book": 1,
+  "lesson": 7
+ },
+ "老闆/老板": {
+  "book": 3,
+  "lesson": 7
+ },
+ "上班": {
+  "book": 2,
+  "lesson": 8
+ },
+ "下班": {
+  "book": 2,
+  "lesson": 8
+ },
+ "能力": {
+  "book": 3,
+  "lesson": 10
+ },
+ "努力": {
+  "book": 3,
+  "lesson": 10
+ },
+ "準備": {
+  "book": 2,
+  "lesson": 8
+ },
+ "打算": {
+  "book": 2,
+  "lesson": 9
+ },
+ "計畫/計劃": {
+  "book": 2,
+  "lesson": 10
+ },
+ "機會": {
+  "book": 2,
+  "lesson": 10
+ },
+ "如果": {
+  "book": 2,
+  "lesson": 4
+ },
+ "小學": {
+  "book": 1,
+  "lesson": 3
+ },
+ "作業": {
+  "book": 3,
+  "lesson": 10
+ },
+ "成績": {
+  "book": 3,
+  "lesson": 10
+ },
+ "語言": {
+  "book": 4,
+  "lesson": 9
+ },
+ "華語/華文": {
+  "book": 1,
+  "lesson": 10
+ },
+ "注意": {
+  "book": 2,
+  "lesson": 9
+ },
+ "句": {
+  "book": 3,
+  "lesson": 7
+ },
+ "想法": {
+  "book": 3,
+  "lesson": 10
+ },
+ "學習": {
+  "book": 3,
+  "lesson": 10
+ },
+ "練習": {
+  "book": 1,
+  "lesson": 10
+ },
+ "參加": {
+  "book": 3,
+  "lesson": 3
+ },
+ "文化": {
+  "book": 3,
+  "lesson": 7
+ },
+ "認為": {
+  "book": 4,
+  "lesson": 4
+ },
+ "清楚": {
+  "book": 3,
+  "lesson": 8
+ },
+ "決定": {
+  "book": 3,
+  "lesson": 2
+ },
+ "記得": {
+  "book": 3,
+  "lesson": 4
+ },
+ "行": {
+  "book": 1,
+  "lesson": 9
+ },
+ "加": {
+  "book": 2,
+  "lesson": 4
+ },
+ "交": {
+  "book": 3,
+  "lesson": 8
+ },
+ "有用": {
+  "book": 2,
+  "lesson": 2
+ },
+ "進步": {
+  "book": 3,
+  "lesson": 10
+ },
+ "間": {
+  "book": 2,
+  "lesson": 7
+ },
+ "大樓": {
+  "book": 4,
+  "lesson": 3
+ },
+ "樓上": {
+  "book": 2,
+  "lesson": 7
+ },
+ "樓下": {
+  "book": 2,
+  "lesson": 7
+ },
+ "樓梯": {
+  "book": 4,
+  "lesson": 3
+ },
+ "電梯": {
+  "book": 4,
+  "lesson": 3
+ },
+ "廚房": {
+  "book": 2,
+  "lesson": 7
+ },
+ "客廳": {
+  "book": 2,
+  "lesson": 7
+ },
+ "家具": {
+  "book": 4,
+  "lesson": 3
+ },
+ "盒/盒(子)": {
+  "book": 2,
+  "lesson": 2
+ },
+ "冰箱": {
+  "book": 4,
+  "lesson": 3
+ },
+ "乾淨": {
+  "book": 4,
+  "lesson": 3
+ },
+ "房租": {
+  "book": 4,
+  "lesson": 3
+ },
+ "租": {
+  "book": 3,
+  "lesson": 2
+ },
+ "世界": {
+  "book": 3,
+  "lesson": 4
+ },
+ "下雪": {
+  "book": 2,
+  "lesson": 1
+ },
+ "鳥": {
+  "book": 3,
+  "lesson": 1
+ },
+ "貓": {
+  "book": 3,
+  "lesson": 1
+ },
+ "狗": {
+  "book": 2,
+  "lesson": 8
+ },
+ "洗": {
+  "book": 2,
+  "lesson": 8
+ },
+ "洗澡": {
+  "book": 2,
+  "lesson": 8
+ },
+ "有空/有空兒": {
+  "book": 2,
+  "lesson": 2
+ },
+ "發現": {
+  "book": 3,
+  "lesson": 8
+ },
+ "游泳": {
+  "book": 2,
+  "lesson": 6
+ },
+ "跑/跑步": {
+  "book": 1,
+  "lesson": 6
+ },
+ "足球": {
+  "book": 4,
+  "lesson": 7
+ },
+ "籃球": {
+  "book": 4,
+  "lesson": 7
+ },
+ "網球": {
+  "book": 1,
+  "lesson": 6
+ },
+ "棒球": {
+  "book": 3,
+  "lesson": 9
+ },
+ "比賽": {
+  "book": 3,
+  "lesson": 9
+ },
+ "開始": {
+  "book": 2,
+  "lesson": 9
+ },
+ "騎": {
+  "book": 4,
+  "lesson": 4
+ },
+ "腳踏車/自行車": {
+  "book": 4,
+  "lesson": 4
+ },
+ "上網": {
+  "book": 2,
+  "lesson": 2
+ },
+ "網路": {
+  "book": 2,
+  "lesson": 2
+ },
+ "次": {
+  "book": 3,
+  "lesson": 2
+ },
+ "音樂": {
+  "book": 1,
+  "lesson": 6
+ },
+ "活動": {
+  "book": 3,
+  "lesson": 9
+ },
+ "聊天/聊天兒": {
+  "book": 1,
+  "lesson": 10
+ },
+ "有時候/有時": {
+  "book": 2,
+  "lesson": 8
+ },
+ "平常": {
+  "book": 1,
+  "lesson": 5
+ },
+ "總是": {
+  "book": 4,
+  "lesson": 6
+ },
+ "已經": {
+  "book": 2,
+  "lesson": 9
+ },
+ "後來": {
+  "book": 4,
+  "lesson": 7
+ },
+ "各": {
+  "book": 3,
+  "lesson": 2
+ },
+ "變": {
+  "book": 4,
+  "lesson": 6
+ },
+ "才": {
+  "book": 3,
+  "lesson": 7
+ },
+ "客人": {
+  "book": 4,
+  "lesson": 8
+ },
+ "客氣": {
+  "book": 2,
+  "lesson": 7
+ },
+ "不客氣": {
+  "book": 1,
+  "lesson": 7
+ },
+ "不好意思": {
+  "book": 4,
+  "lesson": 2
+ },
+ "喂": {
+  "book": 1,
+  "lesson": 7
+ },
+ "麻煩": {
+  "book": 1,
+  "lesson": 7
+ },
+ "禮物": {
+  "book": 1,
+  "lesson": 8
+ },
+ "歡迎": {
+  "book": 1,
+  "lesson": 5
+ },
+ "接": {
+  "book": 4,
+  "lesson": 1
+ },
+ "銀行": {
+  "book": 1,
+  "lesson": 3
+ },
+ "壞": {
+  "book": 4,
+  "lesson": 3
+ },
+ "幫忙": {
+  "book": 3,
+  "lesson": 3
+ },
+ "幫助": {
+  "book": 3,
+  "lesson": 4
+ },
+ "認識": {
+  "book": 1,
+  "lesson": 5
+ },
+ "最近": {
+  "book": 2,
+  "lesson": 5
+ },
+ "聽說": {
+  "book": 2,
+  "lesson": 3
+ },
+ "見面": {
+  "book": 3,
+  "lesson": 4
+ },
+ "事情": {
+  "book": 4,
+  "lesson": 1
+ },
+ "幫": {
+  "book": 4,
+  "lesson": 2
+ },
+ "啊": {
+  "book": 3,
+  "lesson": 1
+ },
+ "汽車": {
+  "book": 4,
+  "lesson": 4
+ },
+ "飛機場/機場": {
+  "book": 4,
+  "lesson": 1
+ },
+ "馬路": {
+  "book": 4,
+  "lesson": 3
+ },
+ "對面": {
+  "book": 2,
+  "lesson": 7
+ },
+ "旅行": {
+  "book": 2,
+  "lesson": 2
+ },
+ "旅館": {
+  "book": 3,
+  "lesson": 2
+ },
+ "參觀": {
+  "book": 4,
+  "lesson": 6
+ },
+ "照相": {
+  "book": 3,
+  "lesson": 1
+ },
+ "照片/相片/相片兒": {
+  "book": 3,
+  "lesson": 1
+ },
+ "風景": {
+  "book": 3,
+  "lesson": 2
+ },
+ "北/北部": {
+  "book": 4,
+  "lesson": 2
+ },
+ "東/東部": {
+  "book": 3,
+  "lesson": 1
+ },
+ "離": {
+  "book": 2,
+  "lesson": 6
+ },
+ "離開": {
+  "book": 2,
+  "lesson": 8
+ },
+ "經過": {
+  "book": 4,
+  "lesson": 7
+ },
+ "往": {
+  "book": 4,
+  "lesson": 2
+ },
+ "送": {
+  "book": 1,
+  "lesson": 8
+ },
+ "放": {
+  "book": 3,
+  "lesson": 10
+ },
+ "近": {
+  "book": 2,
+  "lesson": 6
+ },
+ "遠": {
+  "book": 2,
+  "lesson": 6
+ },
+ "轉": {
+  "book": 4,
+  "lesson": 2
+ },
+ "一直": {
+  "book": 3,
+  "lesson": 4
+ },
+ "最後": {
+  "book": 3,
+  "lesson": 10
+ },
+ "頭髮/髮": {
+  "book": 2,
+  "lesson": 8
+ },
+ "肚(子)": {
+  "book": 2,
+  "lesson": 9
+ },
+ "臉": {
+  "book": 4,
+  "lesson": 5
+ },
+ "健康": {
+  "book": 2,
+  "lesson": 9
+ },
+ "渴": {
+  "book": 4,
+  "lesson": 2
+ },
+ "舒服": {
+  "book": 2,
+  "lesson": 1
+ },
+ "賣": {
+  "book": 2,
+  "lesson": 8
+ },
+ "付": {
+  "book": 2,
+  "lesson": 5
+ },
+ "希望": {
+  "book": 2,
+  "lesson": 1
+ },
+ "商店": {
+  "book": 2,
+  "lesson": 2
+ },
+ "超級市場/超市": {
+  "book": 2,
+  "lesson": 6
+ },
+ "信用卡": {
+  "book": 2,
+  "lesson": 5
+ },
+ "重要": {
+  "book": 2,
+  "lesson": 9
+ },
+ "顏色": {
+  "book": 2,
+  "lesson": 5
+ },
+ "黃色": {
+  "book": 4,
+  "lesson": 4
+ },
+ "白色": {
+  "book": 2,
+  "lesson": 5
+ },
+ "雙": {
+  "book": 1,
+  "lesson": 8
+ },
+ "裙(子)": {
+  "book": 2,
+  "lesson": 5
+ },
+ "帽(子)": {
+  "book": 2,
+  "lesson": 2
+ },
+ "外套": {
+  "book": 2,
+  "lesson": 5
+ },
+ "小心": {
+  "book": 3,
+  "lesson": 8
+ },
+ "比較/較": {
+  "book": 2,
+  "lesson": 2
+ },
+ "差不多": {
+  "book": 1,
+  "lesson": 10
+ },
+ "試": {
+  "book": 2,
+  "lesson": 5
+ },
+ "重": {
+  "book": 4,
+  "lesson": 2
+ },
+ "樣子": {
+  "book": 2,
+  "lesson": 5
+ },
+ "特別": {
+  "book": 3,
+  "lesson": 5
+ },
+ "簡單": {
+  "book": 4,
+  "lesson": 8
+ },
+ "其他/其它": {
+  "book": 3,
+  "lesson": 7
+ },
+ "好像": {
+  "book": 3,
+  "lesson": 3
+ },
+ "奇怪": {
+  "book": 4,
+  "lesson": 4
+ },
+ "三明治": {
+  "book": 2,
+  "lesson": 4
+ },
+ "漢堡": {
+  "book": 2,
+  "lesson": 8
+ },
+ "蘋果": {
+  "book": 2,
+  "lesson": 6
+ },
+ "啤酒": {
+  "book": 2,
+  "lesson": 3
+ },
+ "紅茶": {
+  "book": 2,
+  "lesson": 4
+ },
+ "點心": {
+  "book": 2,
+  "lesson": 7
+ },
+ "冰淇淋": {
+  "book": 2,
+  "lesson": 8
+ },
+ "青菜": {
+  "book": 2,
+  "lesson": 3
+ },
+ "糖": {
+  "book": 2,
+  "lesson": 4
+ },
+ "盤/盤(子)": {
+  "book": 2,
+  "lesson": 3
+ },
+ "瓶/瓶(子)": {
+  "book": 2,
+  "lesson": 3
+ },
+ "份": {
+  "book": 3,
+  "lesson": 8
+ },
+ "味道": {
+  "book": 3,
+  "lesson": 5
+ },
+ "酸": {
+  "book": 2,
+  "lesson": 3
+ },
+ "苦": {
+  "book": 3,
+  "lesson": 5
+ },
+ "鹹": {
+  "book": 2,
+  "lesson": 4
+ },
+ "辣": {
+  "book": 2,
+  "lesson": 3
+ },
+ "香": {
+  "book": 3,
+  "lesson": 5
+ },
+ "條": {
+  "book": 2,
+  "lesson": 5
+ },
+ "種": {
+  "book": 3,
+  "lesson": 2
+ },
+ "包": {
+  "book": 4,
+  "lesson": 8
+ },
+ "需要": {
+  "book": 2,
+  "lesson": 9
+ },
+ "烤": {
+  "book": 3,
+  "lesson": 3
+ },
+ "但是/但": {
+  "book": 2,
+  "lesson": 9
+ },
+ "或是": {
+  "book": 3,
+  "lesson": 3
+ },
+ "要是": {
+  "book": 3,
+  "lesson": 5
+ },
+ "把": {
+  "book": 3,
+  "lesson": 9
+ },
+ "被": {
+  "book": 3,
+  "lesson": 8
+ },
+ "讓": {
+  "book": 3,
+  "lesson": 8
+ },
+ "雖然": {
+  "book": 2,
+  "lesson": 5
+ },
+ "那麼": {
+  "book": 2,
+  "lesson": 3
+ },
+ "這麼": {
+  "book": 4,
+  "lesson": 2
+ },
+ "本來": {
+  "book": 4,
+  "lesson": 7
+ },
+ "以為": {
+  "book": 3,
+  "lesson": 4
+ },
+ "有的": {
+  "book": 3,
+  "lesson": 6
+ },
+ "替": {
+  "book": 4,
+  "lesson": 1
+ },
+ "一下(子)/一下子兒": {
+  "book": 1,
+  "lesson": 10
+ },
+ "不過": {
+  "book": 3,
+  "lesson": 6
+ },
+ "不同": {
+  "book": 3,
+  "lesson": 5
+ },
+ "半夜": {
+  "book": 4,
+  "lesson": 6
+ },
+ "父母": {
+  "book": 1,
+  "lesson": 5
+ },
+ "關係": {
+  "book": 4,
+  "lesson": 6
+ },
+ "開心": {
+  "book": 3,
+  "lesson": 3
+ },
+ "擔心": {
+  "book": 4,
+  "lesson": 1
+ },
+ "美麗": {
+  "book": 4,
+  "lesson": 9
+ },
+ "帥": {
+  "book": 4,
+  "lesson": 8
+ },
+ "認真": {
+  "book": 3,
+  "lesson": 6
+ },
+ "敢": {
+  "book": 4,
+  "lesson": 5
+ },
+ "關心": {
+  "book": 4,
+  "lesson": 3
+ },
+ "心情": {
+  "book": 3,
+  "lesson": 2
+ },
+ "阿姨": {
+  "book": 3,
+  "lesson": 7
+ },
+ "經理": {
+  "book": 3,
+  "lesson": 8
+ },
+ "教書": {
+  "book": 1,
+  "lesson": 4
+ },
+ "加班": {
+  "book": 3,
+  "lesson": 1
+ },
+ "危險": {
+  "book": 4,
+  "lesson": 4
+ },
+ "安全": {
+  "book": 4,
+  "lesson": 6
+ },
+ "資料": {
+  "book": 3,
+  "lesson": 6
+ },
+ "選": {
+  "book": 3,
+  "lesson": 5
+ },
+ "嚴重": {
+  "book": 3,
+  "lesson": 8
+ },
+ "正式": {
+  "book": 4,
+  "lesson": 8
+ },
+ "念書/唸書": {
+  "book": 1,
+  "lesson": 3
+ },
+ "歷史": {
+  "book": 4,
+  "lesson": 6
+ },
+ "漢字": {
+  "book": 3,
+  "lesson": 10
+ },
+ "放假": {
+  "book": 1,
+  "lesson": 5
+ },
+ "學期": {
+  "book": 3,
+  "lesson": 1
+ },
+ "同意": {
+  "book": 3,
+  "lesson": 10
+ },
+ "了解/瞭解": {
+  "book": 3,
+  "lesson": 4
+ },
+ "無聊": {
+  "book": 3,
+  "lesson": 9
+ },
+ "有趣": {
+  "book": 3,
+  "lesson": 5
+ },
+ "有意思": {
+  "book": 2,
+  "lesson": 10
+ },
+ "原因": {
+  "book": 4,
+  "lesson": 10
+ },
+ "忘記": {
+  "book": 4,
+  "lesson": 7
+ },
+ "趕快": {
+  "book": 3,
+  "lesson": 3
+ },
+ "用功": {
+  "book": 3,
+  "lesson": 10
+ },
+ "選擇": {
+  "book": 4,
+  "lesson": 9
+ },
+ "建議": {
+  "book": 3,
+  "lesson": 3
+ },
+ "浴室": {
+  "book": 2,
+  "lesson": 7
+ },
+ "院(子)": {
+  "book": 3,
+  "lesson": 9
+ },
+ "書房": {
+  "book": 3,
+  "lesson": 9
+ },
+ "層": {
+  "book": 4,
+  "lesson": 6
+ },
+ "熱鬧": {
+  "book": 3,
+  "lesson": 3
+ },
+ "亂": {
+  "book": 4,
+  "lesson": 6
+ },
+ "房東": {
+  "book": 4,
+  "lesson": 3
+ },
+ "搬家": {
+  "book": 2,
+  "lesson": 6
+ },
+ "星星": {
+  "book": 3,
+  "lesson": 2
+ },
+ "環境": {
+  "book": 3,
+  "lesson": 6
+ },
+ "晴天": {
+  "book": 2,
+  "lesson": 1
+ },
+ "垃圾": {
+  "book": 3,
+  "lesson": 9
+ },
+ "發生": {
+  "book": 3,
+  "lesson": 8
+ },
+ "照顧": {
+  "book": 3,
+  "lesson": 6
+ },
+ "生活": {
+  "book": 4,
+  "lesson": 1
+ },
+ "流": {
+  "book": 2,
+  "lesson": 9
+ },
+ "結束": {
+  "book": 3,
+  "lesson": 10
+ },
+ "完": {
+  "book": 3,
+  "lesson": 6
+ },
+ "散步": {
+  "book": 2,
+  "lesson": 7
+ },
+ "爬": {
+  "book": 3,
+  "lesson": 9
+ },
+ "興趣": {
+  "book": 3,
+  "lesson": 1
+ },
+ "談": {
+  "book": 3,
+  "lesson": 7
+ },
+ "遲到": {
+  "book": 4,
+  "lesson": 1
+ },
+ "輕鬆": {
+  "book": 3,
+  "lesson": 2
+ },
+ "情形": {
+  "book": 3,
+  "lesson": 4
+ },
+ "消息": {
+  "book": 4,
+  "lesson": 1
+ },
+ "游泳池": {
+  "book": 2,
+  "lesson": 6
+ },
+ "遊戲": {
+  "book": 2,
+  "lesson": 8
+ },
+ "利用": {
+  "book": 4,
+  "lesson": 10
+ },
+ "好處": {
+  "book": 3,
+  "lesson": 6
+ },
+ "合作": {
+  "book": 3,
+  "lesson": 4
+ },
+ "主人": {
+  "book": 4,
+  "lesson": 8
+ },
+ "約": {
+  "book": 3,
+  "lesson": 4
+ },
+ "祝": {
+  "book": 1,
+  "lesson": 8
+ },
+ "留": {
+  "book": 4,
+  "lesson": 1
+ },
+ "放心": {
+  "book": 3,
+  "lesson": 6
+ },
+ "換": {
+  "book": 3,
+  "lesson": 1
+ },
+ "出門": {
+  "book": 2,
+  "lesson": 2
+ },
+ "現代": {
+  "book": 4,
+  "lesson": 6
+ },
+ "傳統": {
+  "book": 4,
+  "lesson": 6
+ },
+ "帶來": {
+  "book": 4,
+  "lesson": 10
+ },
+ "方面": {
+  "book": 3,
+  "lesson": 4
+ },
+ "可惜": {
+  "book": 4,
+  "lesson": 7
+ },
+ "有名": {
+  "book": 3,
+  "lesson": 4
+ },
+ "時差": {
+  "book": 4,
+  "lesson": 2
+ },
+ "到處": {
+  "book": 3,
+  "lesson": 2
+ },
+ "巴士": {
+  "book": 4,
+  "lesson": 2
+ },
+ "加油": {
+  "book": 4,
+  "lesson": 7
+ },
+ "摩托車/機車": {
+  "book": 4,
+  "lesson": 4
+ },
+ "船/船兒": {
+  "book": 3,
+  "lesson": 2
+ },
+ "地鐵": {
+  "book": 3,
+  "lesson": 7
+ },
+ "捷運": {
+  "book": 4,
+  "lesson": 2
+ },
+ "停車場": {
+  "book": 4,
+  "lesson": 2
+ },
+ "搭": {
+  "book": 3,
+  "lesson": 2
+ },
+ "下": {
+  "book": 2,
+  "lesson": 2
+ },
+ "上": {
+  "book": 2,
+  "lesson": 2
+ },
+ "歐洲": {
+  "book": 3,
+  "lesson": 7
+ },
+ "亞洲": {
+  "book": 2,
+  "lesson": 10
+ },
+ "行李": {
+  "book": 4,
+  "lesson": 2
+ },
+ "背包": {
+  "book": 2,
+  "lesson": 2
+ },
+ "出口": {
+  "book": 4,
+  "lesson": 2
+ },
+ "交通": {
+  "book": 3,
+  "lesson": 7
+ },
+ "咳嗽": {
+  "book": 2,
+  "lesson": 9
+ },
+ "發燒": {
+  "book": 2,
+  "lesson": 9
+ },
+ "感覺": {
+  "book": 3,
+  "lesson": 8
+ },
+ "訂": {
+  "book": 4,
+  "lesson": 2
+ },
+ "得到": {
+  "book": 3,
+  "lesson": 6
+ },
+ "百貨公司": {
+  "book": 2,
+  "lesson": 2
+ },
+ "夜市": {
+  "book": 4,
+  "lesson": 5
+ },
+ "逛街": {
+  "book": 2,
+  "lesson": 2
+ },
+ "排隊": {
+  "book": 4,
+  "lesson": 6
+ },
+ "刷卡": {
+  "book": 2,
+  "lesson": 5
+ },
+ "流行": {
+  "book": 4,
+  "lesson": 7
+ },
+ "藍色": {
+  "book": 2,
+  "lesson": 5
+ },
+ "黑色": {
+  "book": 2,
+  "lesson": 5
+ },
+ "存": {
+  "book": 3,
+  "lesson": 8
+ },
+ "毛": {
+  "book": 2,
+  "lesson": 5
+ },
+ "適合": {
+  "book": 3,
+  "lesson": 10
+ },
+ "沙拉": {
+  "book": 3,
+  "lesson": 3
+ },
+ "豆腐": {
+  "book": 2,
+  "lesson": 3
+ },
+ "烏龍茶": {
+  "book": 3,
+  "lesson": 5
+ },
+ "豆漿": {
+  "book": 4,
+  "lesson": 4
+ },
+ "可樂": {
+  "book": 2,
+  "lesson": 8
+ },
+ "甜點": {
+  "book": 3,
+  "lesson": 3
+ },
+ "聞": {
+  "book": 3,
+  "lesson": 5
+ },
+ "臭": {
+  "book": 4,
+  "lesson": 5
+ },
+ "許多": {
+  "book": 4,
+  "lesson": 10
+ },
+ "炒": {
+  "book": 2,
+  "lesson": 3
+ },
+ "炸": {
+  "book": 2,
+  "lesson": 3
+ },
+ "嚐/嘗": {
+  "book": 4,
+  "lesson": 5
+ },
+ "裝": {
+  "book": 4,
+  "lesson": 3
+ },
+ "不用": {
+  "book": 3,
+  "lesson": 5
+ },
+ "不但": {
+  "book": 3,
+  "lesson": 10
+ },
+ "不必": {
+  "book": 4,
+  "lesson": 4
+ },
+ "不得了": {
+  "book": 4,
+  "lesson": 2
+ },
+ "不管": {
+  "book": 4,
+  "lesson": 5
+ },
+ "而且": {
+  "book": 3,
+  "lesson": 10
+ },
+ "原來": {
+  "book": 4,
+  "lesson": 10
+ },
+ "這樣": {
+  "book": 3,
+  "lesson": 3
+ },
+ "等/等等": {
+  "book": 2,
+  "lesson": 4
+ },
+ "別的": {
+  "book": 2,
+  "lesson": 4
+ },
+ "除了": {
+  "book": 4,
+  "lesson": 1
+ },
+ "大概": {
+  "book": 3,
+  "lesson": 9
+ },
+ "還好": {
+  "book": 3,
+  "lesson": 6
+ },
+ "沒想到": {
+  "book": 4,
+  "lesson": 2
+ },
+ "完全": {
+  "book": 4,
+  "lesson": 4
+ },
+ "相當": {
+  "book": 3,
+  "lesson": 4
+ },
+ "一切": {
+  "book": 3,
+  "lesson": 6
+ },
+ "尤其": {
+  "book": 4,
+  "lesson": 8
+ },
+ "只要": {
+  "book": 4,
+  "lesson": 7
+ },
+ "最好": {
+  "book": 4,
+  "lesson": 10
+ },
+ "連": {
+  "book": 4,
+  "lesson": 8
+ },
+ "包括": {
+  "book": 4,
+  "lesson": 3
+ },
+ "步": {
+  "book": 4,
+  "lesson": 3
+ },
+ "剛好": {
+  "book": 4,
+  "lesson": 3
+ },
+ "哇": {
+  "book": 3,
+  "lesson": 4
+ },
+ "泡": {
+  "book": 3,
+  "lesson": 5
+ },
+ "比方說": {
+  "book": 4,
+  "lesson": 10
+ },
+ "另外": {
+  "book": 4,
+  "lesson": 3
+ },
+ "左右": {
+  "book": 4,
+  "lesson": 2
+ }
+}
