@@ -4,7 +4,7 @@
   "start_url": ".",
   "display": "standalone",
   "background_color": "#F5F7FA",
-  "theme_color": "#1460A8",
+  "theme_color": "#1E2E48",
   "description": "Learn Mandarin and pass TOCFL Band A before you go to Taiwan.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
